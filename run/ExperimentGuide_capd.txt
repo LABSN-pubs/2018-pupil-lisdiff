@@ -1,0 +1,37 @@
+# EXPERIMENT NAME
+capd
+
+# RUN SCRIPT
+RunSheet_capd.docx
+
+# SCRIPT PROMPTS
+participant: consecutively numbered
+session: 0-7, should be randomly assigned within each participant pool (CAPD, control)
+         such that all 8 sessions are used up before a given session is repeated.
+
+# EXPERIMENT TYPE/EQUIPMENT
+pupillometry
+
+# APPROXIMATE RUN TIME
+50 min task + variable training (10-30 minutes) = 60-80 minutes
+
+# LIGHTS ON/OFF?
+off
+ 
+# CODE
+larsoner/capd/capd.py (run from Spyder via F5)
+
+# TASK
+Attend to one of two simultaneous co-located talkers, pressing a button as quickly
+as possible following each occurrence of the letter "O" in the target stream.
+Talkers are male-female, MM, or FF, and can be co-located (both L or both R) or
+spatially separated (one L one R).
+
+# STIMULI
+Streams of four letters from each talker, preceded by AA (maintain attn) or AU
+(switch attn). Initial target (M/F) and initial location (L/R) are constant within
+a given block.
+
+# EXPERIMENTAL CONDITIONS/DATA ORGANIZATION
+Pupil data and behavioral data both go in ./data, MEG data to acquisition machine.
+

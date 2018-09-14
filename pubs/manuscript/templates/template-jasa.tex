@@ -1,0 +1,119 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	JASA LaTeX Template File
+%  For use in making articles using JASAnew.cls
+% July 26, 2017
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% For manuscript, 12pt, one column style, with Author-Year citations.
+$if(documentclass)$
+\documentclass[$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+$else$
+\documentclass[preprint]{JASAnew}
+$endif$
+
+%% CLASS OPTIONS:
+%% preprint,reprint   (1- vs 2-column, line numbers, etc)
+%% NumberedRefs       (numeric citation style)
+%% authaffil          (affil follows each author; otherwise grouped)
+%% 12pt               (use with "reprint" to check article page fees)
+%% TurnOnLineNumbers  (use with "reprint" to show line numbers)
+%% trackchanges       (use with "preprint" only; enables the below commands
+%%                     for revision tracking:
+%%                     \added[comment]{<words added>}
+%%                     \deleted[comment]{<words deleted>}
+%%                     \replace[comment]{<to be replaced>}{<replacement>}
+%%                     \explain[comment]{<explanation>}
+%%                     NB: put \explain **before** the change being explained)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% author additions to preamble %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% either fontspec+xelatex, or textcomp+asciifying the source,
+%% is necessary to typeset \textminus, \textdegree, \textpm, etc
+%% (or their unicode equivalents)
+%\usepackage{fontspec}
+\usepackage{textcomp}
+
+%% tightlist (pandoc compatibility)
+\providecommand{\tightlist}{%
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% all figures are two-column figures
+\renewenvironment{figure}{\begin{figure*}\centering}{\end{figure*}}
+
+%% number formatting
+\usepackage{siunitx}
+\usepackage{xfrac}
+
+%% table formatting
+%% NOTE: THIS TABLE FORMATTING IS ONLY NECESSARY FOR THE REVIEWER PREPRINT,
+%% TO PREVENT THE TABLE SPILLING OFF THE PAGE DUE TO DOUBLE LINE SPACING.
+%% REMOVE THESE LINES BEFORE TYPESETTING THE FINAL VERSION OF PAPER.
+%\usepackage{etoolbox}  % provides \AtBeginEnvironment
+%\makeatletter
+%\AtBeginEnvironment{tabular}{%
+%  \def\baselinestretch{1}\@currsize}%
+%\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% end author additions %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%% the square bracket argument to \title will set the running head/foot
+$if(title)$
+\title[$if(runningtitle)$$runningtitle$$endif$]{$title$$if(titlenote)$\thanks{$titlenote$}$endif$}
+$endif$
+
+%% authors
+$for(author)$
+\author{$author.name$}
+$if(author.corresponding)$\email{$author.email$}$endif$
+$if(author.affiliation)$
+$for(author.affiliation)$\affiliation{$author.affiliation$}
+$endfor$$endif$
+$if(author.thanks)$\thanks{$author.thanks$}$endif$
+$endfor$
+
+%% For preprint only, optional message in upper left corner of title page
+%$if(preprint)$\preprint{$author$, JASA}$endif$
+
+%% optional, if desired:
+%\date{\today}
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+
+\maketitle
+
+$body$
+
+%% before appendix (optional) and bibliography:
+$if(acknowledgments)$\begin{acknowledgments}$acknowledgments$\end{acknowledgments}$endif$
+
+%% Appendix (optional)
+$if(appendix)$\input{appendix}$endif$
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+%% Once you have used BibTeX you should open the resulting .bbl file and cut
+%% and paste the entire contents into the end of your article.
+\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+$if(bibliography)$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+$else$
+$if(biblio-files)$
+\bibliography{$biblio-files$}
+$endif$
+$endif$
+
+\end{document}

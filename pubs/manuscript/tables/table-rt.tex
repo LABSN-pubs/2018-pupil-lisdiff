@@ -1,0 +1,62 @@
+\sisetup{round-mode=places,round-precision=3,round-minimum=0.001,scientific-notation=fixed,fixed-exponent=0,tight-spacing=true,group-digits=false}
+\begin{center}
+\begin{longtable}{l S[table-format=>1.3] S[table-format=1.3] S[table-format=4.1,round-precision=1] S[table-format=>2.2,round-precision=2] S[table-format=>1.3] c }
+\caption{Summary of reaction time model.  Horizontal rules separate terms modeling main effects and interactions among predictors.  SE = standard error of coefficient estimates; DF = Kenward-Roger estimate of degrees of freedom; signif.\ = significance codes (* = $p<0.05$, ** = $p<0.01$, *** = $p<0.001$).}\label{table-rt} \\
+
+\toprule
+Predictor                   & \multicolumn{1}{c}{Estimate}  & \multicolumn{1}{c}{SE} & \multicolumn{1}{c}{DF} & \multicolumn{1}{c}{$t$} & \multicolumn{1}{c}{$p$} & Signif. \\ \midrule
+\scshape{main effects}                     &                &                        &                        &                         &                         &         \\
+Intercept                                  &  0.5648585886  &           0.015397688  &              28.39432  &            36.68463576  &           1.804218e-25  &    ***  \\
+listening difficulty − control             &  0.0324947849  &           0.030795377  &              28.39432  &             1.05518387  &           3.002373e-01  &         \\
+spatial − mixed                            & -0.0076136766  &           0.007935383  &            7705.06898  &            -0.95945922  &           3.373576e-01  &         \\
+non-spatial − mixed                        &  0.0106747734  &           0.007936102  &            7705.06488  &             1.34509032  &           1.786357e-01  &         \\
+switch − maintain                          &  0.0097271564  &           0.011137506  &            7705.27962  &             0.87336932  &           3.824890e-01  &         \\
+slot 2 − slot 1                            & -0.1430031107  &           0.007571244  &            7705.34072  &           -18.88766453  &           8.094536e-78  &    ***  \\
+slot 3 − slot 1                            & -0.0205951123  &           0.007882236  &            7705.19182  &            -2.61285149  &           8.996470e-03  &    **   \\
+slot 4 − slot 1                            & -0.1473957846  &           0.007519043  &            7705.48586  &           -19.60299909  &           1.542651e-83  &    ***  \\ \midrule
+\scshape{two-way interactions}             &                &                        &                        &                         &                         &         \\
+list.diff : spatial                        & -0.0158080423  &           0.015870766  &            7705.06898  &            -0.99604782  &           3.192582e-01  &         \\
+list.diff : non-spatial                    & -0.0027774723  &           0.015872203  &            7705.06489  &            -0.17498971  &           8.610923e-01  &         \\
+list.diff : switch                         & -0.0022040314  &           0.022275013  &            7705.27962  &            -0.09894636  &           9.211834e-01  &         \\
+switch : spatial                           & -0.0242535491  &           0.015869365  &            7705.04092  &            -1.52832507  &           1.264729e-01  &         \\
+switch : non-spatial                       & -0.0134059277  &           0.015874758  &            7705.13678  &            -0.84448077  &           3.984270e-01  &         \\
+list.diff : slot 2                         & -0.0168065694  &           0.015142487  &            7705.34072  &            -1.10989489  &           2.670790e-01  &         \\
+list.diff : slot 3                         & -0.0149063242  &           0.015764472  &            7705.19182  &            -0.94556443  &           3.444004e-01  &         \\
+list.diff : slot 4                         & -0.0079007426  &           0.015038085  &            7705.48585  &            -0.52538222  &           5.993326e-01  &         \\
+spatial : slot 2                           &  0.0178041406  &           0.010788946  &            7705.00178  &             1.65022058  &           9.893859e-02  &         \\
+spatial : slot 3                           &  0.0182453757  &           0.011311102  &            7705.06827  &             1.61305021  &           1.067746e-01  &         \\
+spatial : slot 4                           &  0.0092716457  &           0.010701145  &            7705.01405  &             0.86641622  &           3.862889e-01  &         \\
+non-spatial : slot 2                       &  0.0065540296  &           0.010769031  &            7705.00560  &             0.60859972  &           5.428077e-01  &         \\
+non-spatial : slot 3                       &  0.0242510325  &           0.011308269  &            7705.06272  &             2.14453983  &           3.202084e-02  &    *    \\
+non-spatial : slot 4                       &  0.0349007296  &           0.010670324  &            7705.01045  &             3.27082187  &           1.077068e-03  &    **   \\
+switch : slot 2                            &  0.0078236701  &           0.015132825  &            7705.02903  &             0.51699997  &           6.051710e-01  &         \\
+switch : slot 3                            &  0.0370126154  &           0.015762331  &            7705.13081  &             2.34816883  &           1.889111e-02  &    *    \\
+switch : slot 4                            &  0.0259707074  &           0.015027992  &            7705.17927  &             1.72815557  &           8.400040e-02  &         \\ \midrule
+\scshape{three-way interactions}           &                &                        &                        &                         &                         &         \\
+list.diff : switch : spatial               & -0.0257702743  &           0.031738731  &            7705.04093  &            -0.81195037  &           4.168452e-01  &         \\
+list.diff : switch : non-spatial           & -0.0017753412  &           0.031749516  &            7705.13678  &            -0.05591711  &           9.554093e-01  &         \\
+list.diff : spatial : slot 2               &  0.0005582428  &           0.021577892  &            7705.00178  &             0.02587106  &           9.793609e-01  &         \\
+list.diff : spatial : slot 3               &  0.0045037269  &           0.022622204  &            7705.06827  &             0.19908435  &           8.422020e-01  &         \\
+list.diff : spatial : slot 4               &  0.0195854904  &           0.021402290  &            7705.01405  &             0.91511191  &           3.601615e-01  &         \\
+list.diff : non-spatial : slot 2           & -0.0108136213  &           0.021538063  &            7705.00560  &            -0.50207028  &           6.156324e-01  &         \\
+list.diff : non-spatial : slot 3           & -0.0058726981  &           0.022616537  &            7705.06272  &            -0.25966389  &           7.951300e-01  &         \\
+list.diff : non-spatial : slot 4           &  0.0024982759  &           0.021340648  &            7705.01045  &             0.11706654  &           9.068104e-01  &         \\
+list.diff : switch : slot 2                & -0.0231340376  &           0.030265650  &            7705.02903  &            -0.76436611  &           4.446725e-01  &         \\
+list.diff : switch : slot 3                & -0.0102594563  &           0.031524663  &            7705.13081  &            -0.32544222  &           7.448552e-01  &         \\
+list.diff : switch : slot 4                &  0.0140838633  &           0.030055983  &            7705.17927  &             0.46858768  &           6.393776e-01  &         \\
+switch : spatial : slot 2                  &  0.0029273892  &           0.021579086  &            7705.02572  &             0.13565863  &           8.920947e-01  &         \\
+switch : spatial : slot 3                  &  0.0073504447  &           0.022620215  &            7705.04125  &             0.32495026  &           7.452275e-01  &         \\
+switch : spatial : slot 4                  &  0.0120582765  &           0.021402037  &            7705.01479  &             0.56341722  &           5.731672e-01  &         \\
+switch : non-spatial : slot 2              & -0.0097524901  &           0.021539364  &            7705.02812  &            -0.45277522  &           6.507234e-01  &         \\
+switch : non-spatial : slot 3              &  0.0133999929  &           0.022617900  &            7705.08710  &             0.59245080  &           5.535661e-01  &         \\
+switch : non-spatial : slot 4              &  0.0208453886  &           0.021342389  &            7705.05057  &             0.97671297  &           3.287419e-01  &         \\ \midrule
+\scshape{four-way interactions}            &                &                        &                        &                         &                         &         \\
+list.diff : switch : spatial : slot 2      &  0.0565911765  &           0.043158172  &            7705.02572  &             1.31125053  &           1.898122e-01  &         \\
+list.diff : switch : spatial : slot 3      &  0.0503800441  &           0.045240430  &            7705.04125  &             1.11360666  &           2.654827e-01  &         \\
+list.diff : switch : spatial : slot 4      &  0.0551702004  &           0.042804075  &            7705.01479  &             1.28890066  &           1.974713e-01  &         \\
+list.diff : switch : non-spatial : slot 2  &  0.0114865126  &           0.043078727  &            7705.02812  &             0.26664002  &           7.897535e-01  &         \\
+list.diff : switch : non-spatial : slot 3  &  0.0393049973  &           0.045235800  &            7705.08710  &             0.86889139  &           3.849336e-01  &         \\
+list.diff : switch : non-spatial : slot 4  &  0.0841148830  &           0.042684779  &            7705.05057  &             1.97060605  &           4.880470e-02  &    *    \\ \bottomrule
+
+\end{longtable}
+\end{center}

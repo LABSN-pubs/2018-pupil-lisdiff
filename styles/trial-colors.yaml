@@ -1,0 +1,2 @@
+## VIBRANT-reordered
+axes.prop_cycle: cycler('color', ['66CCEE', 'AA3377', 'CCBB44', '228833', '888888', 'BBBBBB'])

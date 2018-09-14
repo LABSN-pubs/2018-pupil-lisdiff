@@ -1,0 +1,8 @@
+# directories
+__pycache__
+data
+pubs/manuscript/upload
+
+# files
+pubs/manuscript/*.pdf
+pubs/manuscript/reviewers.yaml

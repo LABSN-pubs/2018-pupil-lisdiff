@@ -1,0 +1,38 @@
+# font sizes
+font.size : 12
+xtick.labelsize : 11
+ytick.labelsize : 11
+legend.fontsize : 10
+
+# plot line width
+lines.linewidth : 1.0
+
+# legend line length
+legend.handlelength : 1.5
+
+# spines
+axes.spines.top : false
+axes.spines.left : false
+axes.spines.right : false
+axes.spines.bottom : true
+xtick.top : false
+ytick.right : false
+
+# tick size
+xtick.major.size : 3
+ytick.major.size : 3
+xtick.minor.size : 0
+ytick.minor.size : 0
+xtick.major.width : 1
+ytick.major.width : 1
+
+# gap between tick and label
+xtick.major.pad : 2
+ytick.major.pad : 2
+xtick.minor.pad : 2
+ytick.minor.pad : 2
+
+# garnish colors
+xtick.color : 0.6
+ytick.color : 0.6
+axes.edgecolor : 0.6

@@ -1,0 +1,43 @@
+\sisetup{round-mode=places,round-precision=2,scientific-notation=fixed,fixed-exponent=0,tight-spacing=true,group-digits=false}
+\begin{center}
+\begin{longtable}{l S[table-format=>1.2] S[table-format=1.3] S[table-format=>1.2] S[round-precision=3,round-minimum=0.001,table-format=>1.3] c }
+\caption{Summary of response accuracy model.  Horizontal rules separate terms modeling baseline response levels for the token types target/foil/neither (“intercepts”), main effects of predictors, and interactions among predictors.  SE = standard error of coefficient estimates; list.diff. = listening difficulty group; Signif. = significance codes (* = $p<0.05$, ** = $p<0.01$, *** = $p<0.001$).}\label{table-accuracy} \\
+
+\toprule
+Predictor           & \multicolumn{1}{c}{Estimate} & \multicolumn{1}{c}{SE} & \multicolumn{1}{c}{Wald $z$} & \multicolumn{1}{c}{$p$} & Signif. \\ \midrule
+\scshape{intercepts}                &              &                        &                              &                         &         \\
+neither                             &  -1.63924777 &             0.03250905 &                  -50.4243569 &            <2e-16       &     *** \\
+ target                             &   2.74140346 &             0.03929992 &                   69.7559569 &            <2e-16       &     *** \\
+   foil                             &  -0.22492508 &             0.05283936 &                   -4.2567718 &            2.073998e-05 &     *** \\ \midrule
+\scshape{main effects}              &              &                        &                              &                         &         \\
+neither : list.diff.                &   0.16686856 &             0.06495857 &                    2.5688457 &            1.020379e-02 &       * \\
+ target : list.diff.                &  -0.03415118 &             0.06738807 &                   -0.5067838 &            6.123065e-01 &         \\
+   foil : list.diff.                &   0.17514437 &             0.09669863 &                    1.8112394 &            7.010381e-02 &         \\
+neither : switch                    &   0.08068556 &             0.05374019 &                    1.5014007 &            1.332519e-01 &         \\
+ target : switch                    &  -0.22347878 &             0.05705380 &                   -3.9169836 &            8.966384e-05 &     *** \\
+   foil : switch                    &   0.25709668 &             0.09030670 &                    2.8469280 &            4.414334e-03 &      ** \\
+neither : spatial                   &   0.10506836 &             0.03690237 &                    2.8471980 &            4.410592e-03 &      ** \\
+ target : spatial                   &  -0.13770193 &             0.03934497 &                   -3.4998615 &            4.655000e-04 &     *** \\
+   foil : spatial                   &   0.29093017 &             0.05912188 &                    4.9208546 &            8.616714e-07 &     *** \\
+neither : non-spatial               &   0.12552338 &             0.03667943 &                    3.4221739 &            6.212256e-04 &     *** \\
+ target : non-spatial               &  -0.10373351 &             0.03953730 &                   -2.6236873 &            8.698359e-03 &      ** \\
+   foil : non-spatial               &   0.25257617 &             0.05893714 &                    4.2855180 &            1.823139e-05 &     *** \\ \midrule
+\scshape{interactions}              &              &                        &                              &                         &         \\
+neither : list.diff. : switch       &  -0.04862531 &             0.05918919 &                   -0.8215235 &            4.113482e-01 &         \\
+ target : list.diff. : switch       &  -0.01445208 &             0.06388219 &                   -0.2262303 &            8.210223e-01 &         \\
+   foil : list.diff. : switch       &   0.01276486 &             0.09193814 &                    0.1388418 &            8.895752e-01 &         \\
+neither : list.diff. : spatial      &  -0.03921966 &             0.07373690 &                   -0.5318864 &            5.948047e-01 &         \\
+ target : list.diff. : spatial      &  -0.04482022 &             0.07830005 &                   -0.5724163 &            5.670400e-01 &         \\
+   foil : list.diff. : spatial      &   0.32911949 &             0.11731109 &                    2.8055274 &            5.023431e-03 &      ** \\
+neither : list.diff. : non-spatial  &  -0.05413019 &             0.07328834 &                   -0.7385921 &            4.601548e-01 &         \\
+ target : list.diff. : non-spatial  &  -0.03717435 &             0.07874103 &                   -0.4721090 &            6.368490e-01 &         \\
+   foil : list.diff. : non-spatial  &  -0.06524591 &             0.11630449 &                   -0.5609922 &            5.748029e-01 &         \\
+neither : switch : spatial          &   0.01358619 &             0.07348845 &                    0.1848752 &            8.533269e-01 &         \\
+ target : switch : spatial          &  -0.09214590 &             0.07868115 &                   -1.1711307 &            2.415463e-01 &         \\
+   foil : switch : spatial          &  -0.26929018 &             0.11576191 &                   -2.3262417 &            2.000566e-02 &       * \\
+neither : switch : non-spatial      &   0.01471224 &             0.07307297 &                    0.2013363 &            8.404356e-01 &         \\
+ target : switch : non-spatial      &  -0.02304756 &             0.07908356 &                   -0.2914330 &            7.707202e-01 &         \\
+   foil : switch : non-spatial      &  -0.05954813 &             0.11721121 &                   -0.5080412 &            6.114244e-01 &         \\ \bottomrule
+
+\end{longtable}
+\end{center}

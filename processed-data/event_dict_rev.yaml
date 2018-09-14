@@ -1,0 +1,133 @@
+? !!python/object/apply:numpy.core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - 0
+  - 1
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAAAAA=
+: maintain_-30x30_male-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  CgAAAAAAAAA=
+: maintain_-30x30_female-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  FAAAAAAAAAA=
+: maintain_-30x30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  HgAAAAAAAAA=
+: maintain_-30x30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  ZAAAAAAAAAA=
+: maintain_30x-30_male-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  bgAAAAAAAAA=
+: maintain_30x-30_female-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  eAAAAAAAAAA=
+: maintain_30x-30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  ggAAAAAAAAA=
+: maintain_30x-30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  3AAAAAAAAAA=
+: maintain_-30x-30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  5gAAAAAAAAA=
+: maintain_-30x-30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  QAEAAAAAAAA=
+: maintain_30x30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  SgEAAAAAAAA=
+: maintain_30x30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  6AMAAAAAAAA=
+: switch_-30x30_male-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  8gMAAAAAAAA=
+: switch_-30x30_female-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  /AMAAAAAAAA=
+: switch_-30x30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  BgQAAAAAAAA=
+: switch_-30x30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  TAQAAAAAAAA=
+: switch_30x-30_male-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  VgQAAAAAAAA=
+: switch_30x-30_female-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  YAQAAAAAAAA=
+: switch_30x-30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  agQAAAAAAAA=
+: switch_30x-30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  xAQAAAAAAAA=
+: switch_-30x-30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  zgQAAAAAAAA=
+: switch_-30x-30_female-male_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  KAUAAAAAAAA=
+: switch_30x30_male-female_0.6
+? !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  MgUAAAAAAAA=
+: switch_30x30_female-male_0.6

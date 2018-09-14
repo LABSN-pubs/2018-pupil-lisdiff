@@ -1,0 +1,23 @@
+# paired samples t-tests of covariates by listener group
+# (listening difficulty subjects vs. age-matched controls)
+covariate,t,p
+switch_AUC,1.19,0.259
+maint_AUC,0.965,0.3551
+sw_minus_mt_AUC,1.172,0.266
+peak_amplitude_maintain,0.681,0.5102
+peak_amplitude_switch,1.195,0.2573
+peak_latency_maintain,0.949,0.363
+peak_latency_switch,1.076,0.3051
+slot4_sw_nonsp_RT,0.538,0.601
+SSQ_speech,-5.132,0.0004
+SSQ_space,-2.583,0.0273
+SSQ_quality,-3.075,0.0117
+bmld_n0s0,0.154,0.8813
+bmld_n0spi,-1.064,0.3184
+crm_collocated,0.362,0.7265
+crm_separated,0.302,0.7703
+fmdt_left,0.824,0.4341
+fmdt_right,0.25,0.8087
+ild,1.411,0.196
+itd,0.735,0.4831
+tfs_lf,-0.037,0.9712

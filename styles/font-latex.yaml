@@ -1,0 +1,13 @@
+#ps.usedistiller : xpdf
+#pdf.fonttype : 42
+#text.latex.preamble: \usepackage{amsmath}
+#text.usetex : true  # true means use for ALL text
+#pgf.texsystem : xelatex
+#mathtext.default : regular
+mathtext.cal : cursive
+mathtext.rm  : serif
+mathtext.tt  : monospace
+mathtext.it  : serif:italic
+mathtext.bf  : serif:bold
+mathtext.sf  : serif
+mathtext.fontset : custom

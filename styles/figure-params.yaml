@@ -1,0 +1,19 @@
+# colors
+prp: '#AA3377'  # purple, bright palette
+pch: '#EE6677'  # light red / peach, bright palette
+blu: '#4477AA'  # blue, bright palette
+cyn: '#66CCEE'  # cyan, bright palette
+grn: '#228833'  # green, bright palette
+ylo: '#CCBB44'  # yellow, bright palette
+gry: '#BBBBBB'  # gray
+mgn: '#EE3377'  # magenta, vibrant palette
+red: '#CC3311'  # red, vibrant palette
+orn: '#EE7733'  # orange, vibrant palette
+tll: '#009988'  # teal, vibrant palette
+dgy: '#999999'  # dark gray
+
+# trial-diagram style
+cue_color:      '0.65'
+msk_color:      '0.65'
+signif_color:   '0.85'
+hatch_linewidth: 0.75
