@@ -44,6 +44,7 @@ keywords:
 - auditory attention
 - listening effort
 - suprathreshold deficits
+preprint: 10.31234/osf.io/2ubyj
 acknowledgments: >
   Portions of this work were supported by National Institutes of Health (NIH)
   Grant Nos. R01-DC013260 to A.K.C.L., F32-DC012456 to E.L., T32-DC005361 to
