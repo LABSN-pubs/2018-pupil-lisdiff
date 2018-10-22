@@ -162,8 +162,9 @@ for a_cond_name, a_cond in attn_conds.items():
         fpath = op.join(statdir, fname)
         # across-subject-pairs difference. Add third axis (fake
         # spatial axis) in order to use spatio_temporal_cluster_1samp_test
-        contr_diff = (data[groups['ldiff']][:, s_cond].mean(axis=1) -
-                      data[groups['control']][:, s_cond].mean(axis=1)
+        _cond = np.logical_and(a_cond, s_cond)
+        contr_diff = (data[groups['ldiff']][:, _cond].mean(axis=1) -
+                      data[groups['control']][:, _cond].mean(axis=1)
                       )[:, :, np.newaxis]
         run_permutation_test(contr_diff, fpath)
 
@@ -175,10 +176,10 @@ for group_name, group in groups.items():
         fpath = op.join(statdir, fname)
         # within-subject difference between conditions. Add third axis (fake
         # spatial axis) in order to use spatio_temporal_cluster_1samp_test
-        m_ix = np.logical_and(s_cond, attn_conds['maintain'])
-        s_ix = np.logical_and(s_cond, attn_conds['switch'])
-        contr_diff = (data[group][:, m_ix].mean(axis=1) -
-                      data[group][:, s_ix].mean(axis=1))[:, :, np.newaxis]
+        m_cond = np.logical_and(s_cond, attn_conds['maintain'])
+        s_cond = np.logical_and(s_cond, attn_conds['switch'])
+        contr_diff = (data[group][:, m_cond].mean(axis=1) -
+                      data[group][:, s_cond].mean(axis=1))[:, :, np.newaxis]
         run_permutation_test(contr_diff, fpath)
 
 '''
