@@ -9,7 +9,7 @@ TEMPFILES := tmp.md tmp.tex tmp2.tex tmp.pdf
 CLASSFILES := JASAnew.cls JASA-EL.cls jasaauthyear2.bst
 EXTS := .aux .bbl .blg .log .ent Notes.bib
 
-.PHONY: ascii classlink elclasslink biblink tablelink clean tables upload
+.PHONY: ascii classlink elclasslink biblink tablelink clean tables upload R1
 
 ascii: manuscript.md
 	@python templates/asciify.py manuscript.md tmp.md
@@ -80,9 +80,9 @@ reprint: ascii classlink biblink tables manuscript.md $(FIGURES)
 	--output=manuscript-preprint.pdf
 	@rm -f $(CLASSFILES) $(TEMPFILES) $(TABLES)
 
-submission: ascii classlink biblink tables manuscript.md $(FIGURES)
+submission: classlink biblink tables manuscript.md $(FIGURES)
 	# Making LaTeX source...
-	#@cp manuscript.md tmp.md  # do this if not using asciify
+	@cp manuscript.md tmp.md  # do this if not using asciify
 	@pandoc tmp.md \
 	--from=markdown \
 	--template=templates/template-jasa.tex \
@@ -109,6 +109,20 @@ submission: ascii classlink biblink tables manuscript.md $(FIGURES)
 		rm -f manuscript-submission$$ext; done
     # make sure we caught all non-ASCII glyphs
 	@python templates/detect-non-ascii.py manuscript-submission.tex
+
+R1:
+	@rm -rf R1
+	@mkdir -p R1
+	@cp manuscript-supplement.pdf R1/SuppPub1.pdf
+	@cp figures/trial-diagram.pdf R1/Figure1.pdf
+	@cp figures/accuracy-figure-probit.pdf R1/Figure2.pdf
+	@cp figures/rt-figure.pdf R1/Figure3.pdf
+	@cp figures/capd-pupil-deconv-group-by-space-attn.pdf R1/Figure4.pdf
+	@cp figures/capd-pupil-deconv-attn-by-space-group.pdf R1/Figure5.pdf
+	@cp manuscript-submission.pdf R1/manuscript.pdf
+	@python templates/fix-figure-includes.py manuscript-submission.tex \
+		R1/manuscript.tex
+	#@cp reviewer-response.pdf R1/
 
 upload:
 	@rm -rf upload
