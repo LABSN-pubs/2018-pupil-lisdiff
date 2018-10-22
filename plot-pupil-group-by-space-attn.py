@@ -174,7 +174,7 @@ for attn_ix, (a_cond_name, a_cond) in enumerate(attn_conds.items()):
         w = stim_dur
         h = ymax * 0.08
         boxcolors = (cue,) * 2 + (msk,) * 8
-        linecolors = ('w', msk) if attn_ix else (msk, 'w')
+        linecolors = ('w', msk) if a_cond_name == 'switch' else (msk, 'w')
         plot_trial_timecourse(ax, x, y, w, h, boxcolors, linecolors)
 
         # stats
