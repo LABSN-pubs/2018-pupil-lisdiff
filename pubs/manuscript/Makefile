@@ -84,12 +84,13 @@ submission: classlink biblink tables manuscript.md $(FIGURES)
 	# Making LaTeX source...
 	@cp manuscript.md tmp.md  # do this if not using asciify
 	@pandoc tmp.md \
-	--from=markdown \
+	--from=markdown-smart \
 	--template=templates/template-jasa.tex \
 	--number-sections \
 	--variable documentclass=JASAnew \
 	--variable classoption=preprint \
 	--variable classoption=authaffil \
+	--variable classoption=trackchanges \
 	--variable biblio-style=jasaauthyear2.bst \
 	--natbib \
 	--output=tmp.tex
@@ -107,10 +108,10 @@ submission: classlink biblink tables manuscript.md $(FIGURES)
 	@for ext in $(EXTS); do \
 		rm -f tmp$$ext; \
 		rm -f manuscript-submission$$ext; done
-    # make sure we caught all non-ASCII glyphs
+	# make sure we caught all non-ASCII glyphs
 	@python templates/detect-non-ascii.py manuscript-submission.tex
 
-R1:
+R1: submission response
 	@rm -rf R1
 	@mkdir -p R1
 	@cp manuscript-supplement.pdf R1/SuppPub1.pdf
@@ -122,7 +123,15 @@ R1:
 	@cp manuscript-submission.pdf R1/manuscript.pdf
 	@python templates/fix-figure-includes.py manuscript-submission.tex \
 		R1/manuscript.tex
-	#@cp reviewer-response.pdf R1/
+	@cp response-to-reviewers.pdf R1/
+
+response:
+	@pandoc response-to-reviewers.md \
+	--from markdown-smart \
+	--template=templates/template-response.tex \
+	--pdf-engine=xelatex \
+	--output=response-to-reviewers.pdf
+
 
 upload:
 	@rm -rf upload
