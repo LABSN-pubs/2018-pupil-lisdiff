@@ -114,16 +114,25 @@ between streams at a designated mid-trial pause. Listeners were tested in three
 conditions with differing stream segregation cues: one with two same-voice
 talkers separated only by simulated spatial cues, one with two co-located
 different-voice talkers, and one where both spatial and voice cues were
-available to support stream segregation. These cue types (spatial and
+available to support stream segregation. \added{These cue types (spatial and
 voice-identity cues, and their combination) were chosen in hopes of determining
 whether self-reported difficulty with spatial hearing was in fact confined to
 cases of spatially segregable talkers, or reflected a more general difficulty
-with selective attention in the presence of competing speech.
+with selective attention in the presence of competing speech.}
 We analyzed listeners’ behavioral and
 pupillary responses to investigate how those objective measures relate to
 their self-reported experience of listening difficulty.
 
 # Methods
+
+\deleted[incorporated into subsequent sub-sections]{The methods for this study
+closely follow those in @McCloyEtAl2017. Briefly,
+the task involves detecting targets in two synchronous streams of spoken
+alphabet letters, preceded by an auditory cue indicating (1) spatial location
+of the stream listeners should attend to at trial start, and (2) whether to
+maintain attention to that stream throughout the trial, or switch attention to
+the other stream after a mid-trial pause. A diagram of the trial structure is
+given in Figure \ref{fig-trial-diagram}.}
 
 ## Participants {#ssq}
 
@@ -147,8 +156,8 @@ Board.
 
 ## Stimuli
 
-The methods for this study closely follow those in @McCloyEtAl2017.
-Stimuli comprised spoken English alphabet letters from the ISOLET v1.3
+\added{The methods for this study closely follow those in
+\citet{McCloyEtAl2017}.} Stimuli comprised spoken English alphabet letters from the ISOLET v1.3
 corpus [@ColeEtAl1990alt] from one female and one male talker. <!-- Mean
 fundamental frequencies of the unprocessed recordings were 103 Hz (male talker)
 and 193 Hz (female talker).--> Letters were silence padded, RMS-normalized and
@@ -174,8 +183,8 @@ was applied to the stimuli.
 ## Procedure
 
 Except where noted, stimulus delivery replicated procedures used in
-@McCloyEtAl2017.  A diagram of the trial structure is given in Figure
-\ref{fig-trial-diagram}.
+@McCloyEtAl2017.  \added{A diagram of the trial structure is given in Figure
+\ref{fig-trial-diagram}.}
 Subjects heard sounds over insert earphones in a darkened
 soundproof booth, with illumination adjusted to put each subject’s baseline
 pupil dilation in the center of its dynamic range [@McCloyEtAl2016].  Pupil
@@ -260,10 +269,11 @@ did not change the results.-->
 
 ## Post-hoc analyses {#posthocs}
 
-To further test the relationship between pupillary responses and auditory
+\added[moved from results/post-hoc analyses section]{To further test the
+relationship between pupillary responses and auditory
 spatial abilities, post-hoc comparisons were made between summary measures of
 each subject’s pupillary response, and each subject’s component scores on the
-full Speech, Spatial, and Qualities of Hearing assessment [SSQ; @SSQ].  Summary
+full Speech, Spatial, and Qualities of Hearing assessment \citep[SSQ;][]{SSQ}. Summary
 pupillometry measures were also compared to each subject’s scores on a range of
 behavioral measures representing binaural health: binaural masking level
 differences with in-phase noise and in-phase or anti-phase signals (500 Hz
@@ -274,7 +284,7 @@ temporal fine structure test), and two versions of the Coordinate Response
 Measure task (CRM; spatially separated or co-located talkers). The summary
 pupillometry measures computed were mean peak amplitude, mean peak latency, and
 mean area under the curve (AUC).  The difference in AUC between attention
-conditions (switch minus maintain) was also computed.
+conditions (switch minus maintain) was also computed.}
 
 # Results
 
@@ -296,13 +306,14 @@ main effects of each predictor in the left half of each panel, and interactions
 among predictors in the right half of each panel.  The probability of
 participant response to target items was higher (Figure \ref{accuracy}A), and
 response to foils was lower (Figure \ref{accuracy}D) in maintain- versus
-switch-attention trials.  <!--A similar trend (not statistically significant)
-was seen when--> When comparing subject populations,
+switch-attention trials. \replaced{A similar trend (not statistically significant)
+was seen when comparing subject populations (Figure \ref{accuracy}B,E),
+though}{When comparing subject populations},
 there was a significant difference between the control and listening difficulty
 groups in spurious responses (where neither target nor foil were present;
-Figure \ref{accuracy}H) but not when comparing response to target or foil items
-(Figure \ref{accuracy}B,E). For the cue type predictor, both spatial and
-non-spatial cue conditions showed the same pattern relative to the
+Figure \ref{accuracy}H) \added{but not for responses to target or foil
+items (Figure \ref{accuracy}B,E)}. For the cue type predictor, both spatial and
+non-spatial cue conditions showed the same pattern relative to the \deleted{baseline}
 mixed-cue condition: reduced response to targets, and elevated response to both
 foil items and items that were neither target nor foil (Figure
 \ref{accuracy}C,F,I). Mean d′ values for each condition, which incorporate
@@ -312,15 +323,15 @@ J,K,L), with error bars indicating standard deviation across subjects.
 
 ![(Color online).  Summary of main effects and interactions in the model of response accuracy.  The top three rows reflect probability of button-press response to either targets, foil items, or non-target non-foil items (cf. row labels on right side of figure).  Lines in panels A-I connect estimated marginal means (EMMs) for the various predictors; vertical error bars show 95% confidence intervals for the EMMs<!-- (based on _z_-tests rather than _t_-tests, since denominator degrees-of-freedom estimation is not available for generalized mixed effects models)-->.  In those panels, the left-hand line (light gray) shows the main effect indicated on the abscissa; the set of colored lines on the right side of each panel illustrates an interaction between the predictor on the abscissa and the predictor indicated by the legend key at the top of each column.  The bottom row combines data from the top three rows into a single measure of detection sensitivity (d′), showing mean ± 1 standard deviation of d′ values across subjects.  See text for discussion of each panel. * indicates _p_<0.05, ** indicates _p_<0.01, *** indicates _p_<0.001.\label{accuracy}](figures/accuracy-figure-probit.pdf)
 
-In general, difficult experimental conditions seemed to increase all types of
+In general, difficult experimental conditions \replaced{seem}{seemed} to increase all types of
 errors: missed targets, false alarm responses to foil items, and false alarm
-responses to non-target non-foil items.  The largest effect was seen in the
+responses to non-target non-foil items.  The largest effect \replaced{is}{was} seen in the
 condition in which only spatial cues are available: in that condition,
-responses to foil items were much higher among participants with listening
-difficulty than among controls (Figure \ref{accuracy}E, right side).  There was
-also an unexpected interaction: there was no difference in responses to foil
+responses to foil items \replaced{are}{were} much higher among participants with listening
+difficulty than among controls (Figure \ref{accuracy}E, right side).  There \replaced{is}{was}
+also an unexpected interaction: there \replaced{is}{was} no difference in responses to foil
 items between maintain- and switch-attention trials when only spatial cues are
-present, whereas the non-spatial and mixed-cue conditions did show a difference
+present, whereas the non-spatial and mixed-cue conditions \replaced{do}{did} show a difference
 in response rate to foil items between the maintain- and switch-attention
 trials (Figure \ref{accuracy}F, right side).
 
@@ -398,21 +409,21 @@ There appears to be a trend toward larger, later peak pupillary responses among
 the listening difficulty subjects especially in the switch-attention trials
 (Figure \ref{pupil-across-groups}A-D), but none of the comparisions shown in
 each subplot yielded a statistically reliable difference between the groups
-(*p*-values range from 0.075 to 0.165).
+\added{(\emph{p}-values ranged from 0.075 to 0.165)}.
 
 ![(Color online). Mean across subjects (±1 S.E.M.) of deconvolved pupillary response (“effort”) for listening difficulty versus control groups, in switch- (top row) and maintain-attention trials (bottom row), in the three experimental conditions and pooled across all conditions (columns). In each subplot there were no temporal spans where the difference between groups was found to be significantly non-zero with a false discovery threshold of 0.05.\label{pupil-across-groups}](figures/capd-pupil-deconv-group-by-space-attn.pdf)
 
 However, if instead we perform a within-subjects comparison of maintain- versus
 switch-attention trials, a difference between subject groups emerges.
-Specifically, for the listening difficulty group, there were significant
+Specifically, for the listening difficulty group, there \replaced{are}{were} significant
 differences in pupil response between maintain- versus switch-attention trials
 that span most or all of the trial timecourse in all three segregation cue
 conditions (Figure \ref{pupil-within-subjs}A-C) and also when all three
-conditions were pooled (Figure \ref{pupil-within-subjs}D), whereas the control
-group only showed a statistically reliable difference between maintain- and
+conditions \replaced{are}{were} pooled (Figure \ref{pupil-within-subjs}D), whereas the control
+group only \replaced{shows}{showed} a statistically reliable difference between maintain- and
 switch-attention trials during the return to baseline at the end of the trial,
 and only in the two more difficult (spatial / non-spatial) conditions or when
-conditions were pooled (Figure \ref{pupil-within-subjs}E-H).
+conditions \replaced{are}{were} pooled (Figure \ref{pupil-within-subjs}E-H).
 
 ![(Color online). Mean across subjects (±1 S.E.M.) deconvolved pupillary response (“effort”) for maintain- versus switch-attention trials in subjects with self-reported listening difficulty (top row) and control subjects (bottom row), in the three cue conditions (left 3 columns) and pooled across all conditions (rightmost column). Hatching indicates temporal spans where the curves in each subplot differ significantly.\label{pupil-within-subjs}](figures/capd-pupil-deconv-attn-by-space-group.pdf)
 
@@ -446,10 +457,23 @@ statistically reliable difference in a larger sample of listeners.-->
 One obvious question that arises from these results is whether the magnitude of
 pupillary response — or the difference in response between switch- and
 maintain-attention trials — reflects a supra-threshold deficit in auditory
-spatial abilities.  To answer this question, we compared summary measures for
-each subject’s pupillary response in the maintain- and switch-attention trials
-against each subject’s SSQ component scores and against a range of behavioral
-measures representing binaural health (see Section \ref{posthocs}). None of the
+spatial abilities.  To answer this question, we \replaced{computed}{compared}
+summary measures for each subject’s pupillary response in the maintain- and
+switch-attention trials\replaced[moved to new methods sub-section]{.
+The summary measures were mean peak amplitude, mean peak latency, and mean area
+under the curve (AUC).  The difference in AUC between attention conditions
+(switch minus maintain) was also computed.  Each of these summary measures was
+then compared to each subject’s component scores on the full Speech, Spatial,
+and Qualities of Hearing assessment [SSQ; @SSQ], as well as their scores on a
+range of behavioral measures representing binaural health: binaural masking
+level differences with in-phase noise and in-phase or anti-phase signals (500
+Hz signal; $N_0S_0$ and $N_0S_\pi$), frequency modulation detection thresholds
+(500 Hz; monaural), interaural time- and level-difference detection thresholds
+(ITD/ILD), alternating interaural phase detection thresholds (low-frequency
+temporal fine structure test), and two versions of the Coordinate Response
+Measure task (CRM; spatially separated or co-located talkers).}{against each
+subject’s SSQ component scores and against a range of behavioral
+measures representing binaural health (see Section \ref{posthocs}).} None of the
 summary pupillary measures were significantly correlated with any of the
 binaural health measures, nor with the component scores on the SSQ assessment.
 Moreover, none of the summary pupillary measures <!--or binaural health
@@ -492,9 +516,9 @@ terribly surprising finding given that all participants were audiometrically
 normal and individually age-matched.
 
 The apparent failure to reproduce the pupillometric results of @McCloyEtAl2017
-(i.e., the finding that pupil dilation is greater on switch-attention trials,
+\added{(i.e., the finding that pupil dilation is greater on switch-attention trials,
 and begins to diverge from maintain-attention trials as soon as the pre-trial
-cue is heard)
+cue is heard)}
 in the control population is less worrisome than it might seem: the prior study
 involved stimulus degradations that may have increased difficulty in the
 switch-attention trials more strongly than the maintain-attention trials,
