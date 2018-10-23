@@ -18,5 +18,4 @@ with open(texfile, 'r') as f, open(outfile, 'w') as g:
     for line in f:
         if line.startswith('\\bibliography{'):
             line = f'\\input{{{bblfile}}}\n'
-            # g.write('\\section*{References}\n')
         g.write(line)
