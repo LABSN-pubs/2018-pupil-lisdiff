@@ -14,6 +14,8 @@ $if(geometry)$\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}$end
             colorlinks=false,
             pdfborder={0 0 0}}
 
+%% natbib
+\usepackage{natbib}
 
 %% %% %% %% %% %% %% %% %% %%
 %% FONTS & TEXT FORMATTING %%
@@ -179,6 +181,13 @@ $if(supplement)$
 \renewcommand{\thetable}{S\oldthetable}
 $endif$
 
+
+%% %% %% %% %% %% %% %% %% %% %% %%
+%% EMULATE JASA CHANGE TRACKING  %%
+%% %% %% %% %% %% %% %% %% %% %% %%
+\newcommand{\added}[2][xxx]{#2}
+\newcommand{\deleted}[2][xxx]{}
+\newcommand{\replaced}[3][xxx]{#3}
 
 %% %% %% %% %% %% %%
 %% BEGIN DOCUMENT %%

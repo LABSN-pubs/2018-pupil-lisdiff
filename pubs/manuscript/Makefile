@@ -155,15 +155,22 @@ coverletter:
 	--pdf-engine=xelatex \
 	--output=../cover-letter.pdf
 
-wordcount:
+wordcount: tablelink manuscript.md $(FIGURES)
 	@pandoc manuscript.md \
 	--from markdown-smart \
 	--filter pandoc-citeproc \
+	--template=templates/template-draft.tex \
+	--pdf-engine=xelatex \
+	--number-sections \
+	--variable documentclass=article \
+	--variable classoption=oneside \
+	--variable geometry:letterpaper \
+	--variable geometry:margin=2.5cm \
+	--variable fontsize=12pt \
 	--csl bib/jasa.csl \
-	--standalone \
-	--mathml \
-	--quiet \
-	| html2text | wc -w
+	--output=wc.pdf
+	@pdftotext wc.pdf - | wc -w
+	@rm $(TABLES) wc.pdf
 
 figures/capd-pupil-deconv-attn-by-space-group.pdf:
 	@cd ../..; python plot-pupil-attn-by-space-group.py
