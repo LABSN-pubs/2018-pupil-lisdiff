@@ -22,4 +22,5 @@ with open(infile, 'r') as f, open(outfile, 'w') as g:
         line = line.replace('½', r'\textonehalf{}')
         line = line.replace('²', r'\textsuperscript{2}')
         line = line.replace('°', r'\textdegree{}')
+        line = line.replace('’', "'")
         g.write(line)

@@ -80,11 +80,11 @@ reprint: ascii classlink biblink tables manuscript.md $(FIGURES)
 	--output=manuscript-preprint.pdf
 	@rm -f $(CLASSFILES) $(TEMPFILES) $(TABLES)
 
-submission: classlink biblink tables manuscript.md $(FIGURES)
+submission: ascii classlink biblink tables manuscript.md $(FIGURES)
 	# Making LaTeX source...
-	@cp manuscript.md tmp.md  # do this if not using asciify
+	#@cp manuscript.md tmp.md  # do this if not using asciify
 	@pandoc tmp.md \
-	--from=markdown-smart \
+	--from=markdown \
 	--template=templates/template-jasa.tex \
 	--number-sections \
 	--variable documentclass=JASAnew \
