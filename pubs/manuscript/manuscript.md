@@ -58,7 +58,7 @@ acknowledgments: >
 Pupillometry has emerged as a useful tool for studying the effort associated
 with auditory perception in sub-optimal listening conditions, encompassing both
 task difficulty (e.g., stimulus degradations) and the  listener’s application
-of mental resources to the task [@PichoraFullerEtAl2016; @Winn2018]. However,
+of mental resources to the task [@PichoraFullerEtAl2016; @WinnEtAl2018]. However,
 not all difficult listening situations induce equivalent pupillary responses.
 Past work has shown that when the task involves simple detection of target
 speech sounds, stimulus degradations such as reverberation or vocoding incur a
