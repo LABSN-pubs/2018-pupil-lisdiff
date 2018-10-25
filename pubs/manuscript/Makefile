@@ -66,7 +66,12 @@ draft: tablelink manuscript.md $(FIGURES)
 	--output=manuscript-draft.pdf
 	@rm $(TABLES)
 
-reprint: ascii classlink biblink tables manuscript.md $(FIGURES)
+arxivpreprint: draft supplement
+	pdftk manuscript-draft.pdf manuscript-supplement.pdf cat output \
+	McCloyLee-lisdiff-pupillometry-psyarxiv.pdf
+
+reprint: classlink biblink tables manuscript.md $(FIGURES)
+	@python templates/asciify.py notrackchanges.md tmp.md
 	@pandoc tmp.md \
 	--from markdown-smart \
 	--filter pandoc-citeproc \
@@ -81,8 +86,8 @@ reprint: ascii classlink biblink tables manuscript.md $(FIGURES)
 	@rm -f $(CLASSFILES) $(TEMPFILES) $(TABLES)
 
 submission: ascii classlink biblink tables manuscript.md $(FIGURES)
-	# Making LaTeX source...
 	#@cp manuscript.md tmp.md  # do this if not using asciify
+	# Making LaTeX source...
 	@pandoc tmp.md \
 	--from=markdown \
 	--template=templates/template-jasa.tex \
@@ -111,6 +116,37 @@ submission: ascii classlink biblink tables manuscript.md $(FIGURES)
 	# make sure we caught all non-ASCII glyphs
 	@python templates/detect-non-ascii.py manuscript-submission.tex
 
+notrackchanges: classlink biblink tables notrackchanges.md $(FIGURES)
+	@python templates/asciify.py notrackchanges.md tmp.md
+	#@cp notrackchanges.md tmp.md  # do this if not using asciify
+	# Making LaTeX source...
+	@pandoc tmp.md \
+	--from=markdown \
+	--template=templates/template-jasa.tex \
+	--number-sections \
+	--variable documentclass=JASAnew \
+	--variable classoption=preprint \
+	--variable classoption=authaffil \
+	--variable biblio-style=jasaauthyear2.bst \
+	--natbib \
+	--output=tmp.tex
+	# Making BBL...
+	@pdflatex tmp.tex
+	@bibtex tmp.aux
+	@python templates/input-bbl.py tmp.tex tmp.bbl tmp2.tex
+	@latexpand --keep-comments tmp2.tex -o notrackchanges.tex
+	# Compiling...
+	@pdflatex notrackchanges.tex
+	@pdflatex notrackchanges.tex
+	@pdflatex notrackchanges.tex
+	# Cleaning up...
+	@rm -f $(CLASSFILES) $(TEMPFILES) $(TABLES) # notrackchanges.md
+	@for ext in $(EXTS); do \
+		rm -f tmp$$ext; \
+		rm -f notrackchanges$$ext; done
+	@python templates/fix-figure-includes.py notrackchanges.tex \
+			manuscript-notrackchanges.tex
+
 R1: submission response
 	@rm -rf R1
 	@mkdir -p R1
@@ -131,7 +167,6 @@ response:
 	--template=templates/template-response.tex \
 	--pdf-engine=xelatex \
 	--output=response-to-reviewers.pdf
-
 
 upload:
 	@rm -rf upload
