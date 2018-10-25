@@ -26,7 +26,9 @@ After that, the plotting functions can be run in any order:
 Typesetting should all be done with the makefile `pubs/manuscript/Makefile`:
 - `make draft` for a preprint
 - `make supplement` for the supplement
+- `make arxivpreprint` to merge the draft and supplement into a single PDF
 - `make reprint` for a version formatted like the final journal article (for
     testing page counts, figure sizes, etc.)
-- `make submission` for separate `.tex` and `.pdf`
-- `make upload` to gather everything submittable into one folder
+- `make submission` for separate `.tex` and `.pdf` files, with PDF formatted
+  for reviewer comfort (inline figures/tables, line numbers, double spacing)
+- `make upload` or `make R1` to gather everything submittable into one folder
