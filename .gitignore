@@ -12,3 +12,4 @@ pubs/manuscript/notrackchanges.md
 # data
 data/*.hdf5
 data/*.pdf
+data/*.log
