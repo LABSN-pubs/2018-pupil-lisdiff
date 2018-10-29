@@ -1,0 +1,4778 @@
+# {'date': '2015-03-03 09_56_11.160000', 'exp_name': 'capd', 'session': '2', 'participant': '6'}
+timestamp	event	value
+16.612136696	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+16.6121870348	flip	16.612131994
+1088.65193374	keypress	1
+1088.63310725	flip	1088.63310476
+1088.78004828	flip	1088.7800422
+1089.309408	flip	1089.30940579
+1091.5094626	flip	1091.50946011
+1091.5261325	flip	1091.52613001
+1091.54436208	flip	1091.54435959
+1092.60945159	flip	1092.60944965
+1092.626119	flip	1092.62611734
+1092.64278586	flip	1092.6427842
+1093.69279391	flip	1093.69279225
+1093.70945635	flip	1093.70945469
+1094.6928224	flip	1094.69282046
+1094.70947847	flip	1094.70947709
+1094.72614091	flip	1094.72613897
+1095.60948035	flip	1095.60947842
+1095.62615385	flip	1095.62615192
+1095.64280854	flip	1095.64280688
+1096.54285302	flip	1096.5428461
+1098.04436097	flip	1098.04435489
+1098.06080462	flip	1098.06080214
+1099.09302813	flip	1099.09302232
+1099.10951437	flip	1099.10951188
+1099.12622079	flip	1099.12621885
+1100.09289481	flip	1100.09289287
+1100.1095141	flip	1100.10951216
+1100.12621083	flip	1100.12620917
+1101.09286798	flip	1101.09286605
+1101.10953484	flip	1101.10953291
+1101.12623102	flip	1101.12622936
+1102.10954867	flip	1102.10954646
+1102.1262407	flip	1102.12623932
+1103.07625976	flip	1103.07625754
+1103.09291334	flip	1103.09291168
+1103.10956554	flip	1103.10956388
+1104.07626999	flip	1104.07626778
+1104.09292634	flip	1104.09292468
+1104.10961505	flip	1104.10961339
+1105.09295566	flip	1105.09295372
+1107.3763252	flip	1107.37632354
+1109.00970378	flip	1109.00970101
+1109.02632169	flip	1109.0263192
+1109.04304303	flip	1109.04304137
+1110.49303609	flip	1110.49303443
+1110.50970378	flip	1110.50970212
+1111.57638367	flip	1111.57638201
+1111.59305966	flip	1111.593058
+1112.90982321	flip	1112.90981519
+1112.92655092	flip	1112.92654318
+1112.94310272	flip	1112.94309995
+1114.02762386	flip	1114.02762192
+1114.04307595	flip	1114.04307456
+1114.06098911	flip	1114.06098745
+1115.15982695	flip	1115.1598228
+1117.05978983	flip	1117.05978817
+1117.07645945	flip	1117.07645752
+1118.25981677	flip	1118.25981511
+1118.27648169	flip	1118.27647975
+1119.30983118	flip	1119.30982924
+1119.32649195	flip	1119.32649029
+1119.34315992	flip	1119.34315826
+1120.32651242	flip	1120.32651021
+1120.34316739	flip	1120.343166
+1120.35984116	flip	1120.35983923
+1121.32667727	flip	1121.32666924
+1121.34325617	flip	1121.34325175
+1121.35991058	flip	1121.35990727
+1122.50987554	flip	1122.50987361
+1122.52653604	flip	1122.52653438
+1122.54320733	flip	1122.54320594
+1123.77670434	flip	1123.77669632
+1123.79338116	flip	1123.79337397
+1123.80998164	flip	1123.80997694
+1124.79452374	flip	1124.7945207
+1128.47677001	flip	1128.47676364
+1129.84345504	flip	1129.84344785
+1129.86149571	flip	1129.86149377
+1129.87664023	flip	1129.87663829
+1132.2267187	flip	1132.22671676
+1132.24334628	flip	1132.24334462
+1132.25999987	flip	1132.25999848
+1133.24336233	flip	1133.24336039
+1133.2600314	flip	1133.26002974
+1133.27668028	flip	1133.27667834
+1134.26008589	flip	1134.26008257
+1134.27675026	flip	1134.27674721
+1134.29341269	flip	1134.29340993
+1135.04338738	flip	1135.04338545
+1135.06126791	flip	1135.06126625
+1135.07671447	flip	1135.07671281
+1136.04345376	flip	1136.04345045
+1137.91004503	flip	1137.91004337
+1137.92675366	flip	1137.926752
+1139.32677684	flip	1139.32677518
+1139.34344342	flip	1139.34344176
+1139.36010309	flip	1139.36010143
+1140.46016759	flip	1140.46016455
+1140.47684164	flip	1140.47683998
+1140.49345789	flip	1140.49345623
+1141.47685768	flip	1141.47685436
+1141.49353505	flip	1141.49353229
+1141.51014106	flip	1141.51013941
+1142.49347835	flip	1142.49347642
+1142.51015489	flip	1142.51015351
+1143.59350911	flip	1143.59350662
+1143.61016103	flip	1143.61015938
+1143.62682872	flip	1143.62682734
+1144.6935194	flip	1144.69351719
+1144.71019096	flip	1144.71018903
+1144.72685174	flip	1144.72685008
+1145.92686457	flip	1145.92686263
+1148.81024744	flip	1148.8102455
+1149.81028395	flip	1149.81028091
+1149.82827151	flip	1149.82826819
+1150.52702532	screen_text	We will now determine the dynamic range of your pupil.\n\nPress a button to continue.
+1150.52706985	flip	1150.52702173
+1154.2346691	keypress	1
+1154.21036853	flip	1154.21036576
+1154.22699031	flip	1154.22698837
+1164.55582274	trial_id	FPDR_01
+1164.57962914	play	None
+1164.5849598	flip	1164.57854852
+1167.58582137	stop	None
+1167.58595745	trial_ok	None
+1167.60490588	trial_id	FPDR_02
+1167.62816132	play	None
+1167.6348503	flip	1167.62717861
+1170.63573151	stop	None
+1170.63589359	trial_ok	None
+1170.65485723	trial_id	FPDR_03
+1170.67852478	play	None
+1170.68481437	flip	1170.67718693
+1173.68546518	stop	None
+1173.68557527	trial_ok	None
+1173.70500578	trial_id	FPDR_04
+1173.72831129	play	None
+1173.7348014	flip	1173.72728211
+1176.73562259	stop	None
+1176.73580735	trial_ok	None
+1176.74566408	trial_id	FPDR_05
+1176.76191385	play	None
+1176.76477376	flip	1176.76060891
+1179.76548846	stop	None
+1179.76559218	trial_ok	None
+1179.77576727	trial_id	FPDR_06
+1179.79635724	play	None
+1179.80471708	flip	1179.79524232
+1182.8055131	stop	None
+1182.80567601	trial_ok	None
+1182.82466233	trial_id	FPDR_07
+1182.84514526	play	None
+1182.85463718	flip	1182.84407902
+1185.85545947	stop	None
+1185.85562957	trial_ok	None
+1185.86670301	trial_id	FPDR_08
+1185.89658741	play	None
+1185.90453653	flip	1185.89555132
+1188.9054429	stop	None
+1188.90578006	trial_ok	None
+1188.9246516	trial_id	FPDR_09
+1188.94558398	play	None
+1188.95457721	flip	1188.94431251
+1191.95547695	stop	None
+1191.95564899	trial_ok	None
+1191.97749162	flip	1191.97748968
+1201.99451085	trial_id	FPDR_01
+1202.01208105	play	None
+1202.01432638	flip	1202.01096861
+1205.01503306	stop	None
+1205.01514674	trial_ok	None
+1205.02519847	trial_id	FPDR_02
+1205.0453849	play	None
+1205.05430732	flip	1205.04438061
+1208.05508757	stop	None
+1208.05523471	trial_ok	None
+1208.07423182	trial_id	FPDR_03
+1208.09543886	play	None
+1208.10414969	flip	1208.09441244
+1211.10518745	stop	None
+1211.10552073	trial_ok	None
+1211.12418621	trial_id	FPDR_04
+1211.14580398	play	None
+1211.15414142	flip	1211.14447553
+1214.15474383	stop	None
+1214.15485972	trial_ok	None
+1214.16597465	trial_id	FPDR_05
+1214.19545579	play	None
+1214.20414256	flip	1214.19447445
+1217.20491396	stop	None
+1217.20506248	trial_ok	None
+1217.22408227	trial_id	FPDR_06
+1217.24552773	play	None
+1217.25403499	flip	1217.24455276
+1220.25463657	stop	None
+1220.25475827	trial_ok	None
+1220.27423359	trial_id	FPDR_07
+1220.29564752	play	None
+1220.30402506	flip	1220.29459123
+1223.30470381	stop	None
+1223.30482218	trial_ok	None
+1223.32411911	trial_id	FPDR_08
+1223.34580686	play	None
+1223.35395954	flip	1223.34469719
+1226.35487725	stop	None
+1226.35503601	trial_ok	None
+1226.37393742	trial_id	FPDR_09
+1226.39587797	play	None
+1226.40391559	flip	1226.39479928
+1229.40468173	stop	None
+1229.40484464	trial_ok	None
+1229.42810257	flip	1229.42809732
+1229.67805846	screen_text	Processing data, please wait...
+1229.67808003	flip	1229.67805652
+1235.13436545	bgcolor	[ 0.1254902  0.1254902  0.1254902]
+1235.13465531	fcolor	[ 0.3254902  0.3254902  0.3254902]
+1237.61570467	flip	1237.61569997
+1237.63597795	flip	1237.63597629
+1237.86302689	screen_text	You will now do a training block of trials.\n\nIn this first set of trials, there will be two people speaking letters simultaneously.\n\nYou should listen *only* to the talker who starts out saying the letters "AA" at the beginning of the trial.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1237.86307944	flip	1237.86302247
+1269.27828382	keypress	1
+1269.24534241	flip	1269.24533937
+1269.31195868	screen_text	You will now be shown the flow of an example trial.\n\nThe letters from the target you should listen to will turn white, and the target "O" letters (that should elicit a button press during a trial) will turn green.\n\nPress a button to see the demonstration.
+1269.3119869	flip	1269.31195647
+1283.3708995	keypress	1
+1283.34550593	flip	1283.34550372
+1283.77883406	flip	1283.77883213
+1285.7965904	play	None
+1285.80295965	flip	1285.79552637
+1286.21219152	flip	1286.21218986
+1287.01220302	flip	1287.01220136
+1287.41220988	flip	1287.41220822
+1288.41222399	flip	1288.4122226
+1288.8122184	flip	1288.81221674
+1291.71227228	flip	1291.71227062
+1291.71284509	stop	None
+1291.72889101	screen_text	Press a button to continue.
+1291.72891259	flip	1291.72888935
+1292.88684958	keypress	1
+1292.86235064	flip	1292.86234732
+1293.21538859	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+1293.2154392	flip	1293.21538388
+1295.5517891	keypress	1
+1295.52904413	flip	1295.52904081
+1295.54571099	flip	1295.54570933
+1296.07899935	flip	1296.07899714
+1297.96251139	flip	1297.9625042
+1297.97901617	flip	1297.97901423
+1297.99568801	flip	1297.99568635
+1299.14572156	flip	1299.1457199
+1299.16238178	flip	1299.16237957
+1299.17904256	flip	1299.17904062
+1303.26243411	flip	1303.2624319
+1303.27910429	flip	1303.27910263
+1303.29572607	flip	1303.29572441
+1304.26249441	flip	1304.26249136
+1304.27911923	flip	1304.27911757
+1304.29577972	flip	1304.29577779
+1306.66249518	flip	1306.66249297
+1306.67914572	flip	1306.67914379
+1306.69580982	flip	1306.69580816
+1307.62916948	flip	1307.62916782
+1310.84712231	flip	1310.84712009
+1310.86380963	flip	1310.8638077
+1311.82922878	flip	1311.82922712
+1311.84589675	flip	1311.84589536
+1312.82924178	flip	1312.82923984
+1312.84589481	flip	1312.84589288
+1312.86257135	flip	1312.86256886
+1313.82926252	flip	1313.82926059
+1313.84588624	flip	1313.8458843
+1313.86258242	flip	1313.86258076
+1314.82927746	flip	1314.8292758
+1314.84589343	flip	1314.84589149
+1314.86260233	flip	1314.86259956
+1315.64591074	flip	1315.64590881
+1315.66261245	flip	1315.66260996
+1315.67927516	flip	1315.67927351
+1316.74714272	flip	1316.74714078
+1316.76262081	flip	1316.76261915
+1316.78051793	flip	1316.78051627
+1317.76263464	flip	1317.7626327
+1318.02932348	flip	1318.02932155
+1319.02954061	flip	1319.02953092
+1319.04599947	flip	1319.04599754
+1319.69237433	training	0
+1319.71263018	flip	1319.71262825
+1325.09259859	trial_id	[0, 0, 1, 1, 0, 0]
+1325.28238489	play	None
+1328.89190699	keypress	1
+1329.19340074	stop	None
+1329.1935288	trial_ok	None
+1329.26295271	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1329.26298977	flip	1329.26294994
+1333.38013995	keypress	1
+1333.39633821	flip	1333.39633212
+1333.41288641	flip	1333.41288143
+1333.77328545	trial_id	[0, 0, 1, 1, 0, 0]
+1333.96409347	play	None
+1337.27358812	keypress	1
+1337.87326393	stop	None
+1337.87350678	trial_ok	None
+1337.93099236	screen_text	Correct!\n\n\n\nPress a button to continue.
+1337.93106095	flip	1337.9309871
+1340.94712668	keypress	1
+1340.96300759	flip	1340.96300565
+1340.97962549	flip	1340.97962383
+1341.34227539	trial_id	[0, 0, 1, 1, 0, 0]
+1341.53359261	play	None
+1343.76479195	keypress	1
+1345.44398559	stop	None
+1345.44411669	trial_ok	None
+1345.49637505	screen_text	Correct!\n\n\n\nPress a button to continue.
+1345.49640464	flip	1345.49637311
+1351.32637659	keypress	1
+1351.34647979	flip	1351.34647758
+1351.36316436	flip	1351.36316242
+1351.71292973	trial_id	[0, 0, 1, 1, 0, 0]
+1351.90340556	play	None
+1353.88399013	keypress	1
+1355.81267781	stop	None
+1355.81281555	trial_ok	None
+1355.84651326	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+1355.84654396	flip	1355.84651105
+1360.27391397	keypress	1
+1360.29818354	flip	1360.29817524
+1360.31483796	flip	1360.31483574
+1360.68196138	trial_id	[0, 0, 1, 1, 0, 0]
+1360.87237111	play	None
+1364.78239927	stop	None
+1364.78258016	trial_ok	None
+1364.83005799	screen_text	Correct!\n\n\n\nPress a button to continue.
+1364.83013073	flip	1364.8300519
+1368.20782605	keypress	1
+1368.23132028	flip	1368.23131723
+1368.24671345	flip	1368.24671179
+1368.2812755	screen_text	You got 3 trials correct, need 4 to move on.\n\nPress a button to continue.
+1368.28129762	flip	1368.28127356
+1372.20519437	keypress	1
+1372.21345469	flip	1372.21345192
+1372.23007315	flip	1372.23007149
+1372.34674753	screen_text	You will now do a training block of trials.\n\nIn this first set of trials, there will be two people speaking letters simultaneously.\n\nYou should listen *only* to the talker who starts out saying the letters "AA" at the beginning of the trial.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1372.34678681	flip	1372.34674421
+1380.42603021	keypress	1
+1380.44688477	flip	1380.44688173
+1380.44692128	training	0
+1380.46356436	flip	1380.46356131
+1385.85154272	trial_id	[0, 0, 1, 1, 1, 0]
+1386.04125877	play	None
+1389.95181881	stop	None
+1389.95196568	trial_ok	None
+1389.99705711	screen_text	Correct!\n\n\n\nPress a button to continue.
+1389.99710579	flip	1389.99705379
+1394.93888099	keypress	1
+1394.94709581	flip	1394.94709332
+1394.96376765	flip	1394.96376599
+1395.34140027	trial_id	[0, 0, 1, 1, 1, 0]
+1395.53160616	play	None
+1397.28834108	keypress	1
+1399.44266405	stop	None
+1399.44289279	trial_ok	None
+1399.48051693	screen_text	Correct!\n\n\n\nPress a button to continue.
+1399.48059686	flip	1399.48051112
+1404.85115452	keypress	1
+1404.86397337	flip	1404.86396673
+1404.88202981	flip	1404.88202455
+1405.26123317	trial_id	[0, 0, 1, 1, 1, 0]
+1405.4508372	play	None
+1407.59590674	keypress	1
+1409.35210115	stop	None
+1409.35228342	trial_ok	None
+1409.41392223	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+1409.41395957	flip	1409.41391974
+1413.96653842	keypress	1
+1413.98193278	flip	1413.98193001
+1413.99862481	flip	1413.99862232
+1414.37202538	trial_id	[0, 0, 1, 1, 1, 0]
+1414.56153481	play	None
+1416.62030302	keypress	1
+1418.45207518	keypress	1
+1418.47281536	stop	None
+1418.4729968	trial_ok	None
+1418.53074625	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+1418.53078884	flip	1418.53074404
+1425.6293731	keypress	1
+1425.64752656	flip	1425.64752408
+1425.66413479	flip	1425.66413285
+1426.05097389	trial_id	[0, 0, 1, 1, 1, 0]
+1426.24084068	play	None
+1429.53815862	keypress	1
+1430.15372184	stop	None
+1430.15385073	trial_ok	None
+1430.19761593	screen_text	Correct!\n\n\n\nPress a button to continue.
+1430.19771633	flip	1430.19760874
+1435.00885814	keypress	1
+1435.03219197	flip	1435.03218976
+1435.04886602	flip	1435.04886436
+1435.08219587	screen_text	You got 3 trials correct, need 4 to move on.\n\nPress a button to continue.
+1435.0822191	flip	1435.08219393
+1507.23927862	keypress	1
+1507.24869243	flip	1507.24868663
+1507.26537451	flip	1507.26537146
+1507.39862392	screen_text	You will now do a training block of trials.\n\nIn this first set of trials, there will be two people speaking letters simultaneously.\n\nYou should listen *only* to the talker who starts out saying the letters "AA" at the beginning of the trial.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1507.39866735	flip	1507.39862171
+1508.84908854	keypress	1
+1508.86541439	flip	1508.86541024
+1508.86546667	training	0
+1508.88201404	flip	1508.88201183
+1514.26080114	trial_id	[0, 0, 0, 1, 0, 0]
+1514.45046215	play	None
+1517.69557653	keypress	1
+1518.36053788	stop	None
+1518.3607622	trial_ok	None
+1518.39890743	screen_text	Correct!\n\n\n\nPress a button to continue.
+1518.39899261	flip	1518.39890023
+1520.99150485	keypress	1
+1521.01695396	flip	1521.01694926
+1521.033399	flip	1521.03339706
+1521.39931041	trial_id	[0, 0, 0, 1, 0, 0]
+1521.58997848	play	None
+1523.59461425	keypress	1
+1525.50003651	stop	None
+1525.50027189	trial_ok	None
+1525.54899878	screen_text	Correct!\n\n\n\nPress a button to continue.
+1525.54902865	flip	1525.54899685
+1528.62446129	keypress	1
+1528.63229823	flip	1528.63229381
+1528.64900299	flip	1528.64899994
+1529.02030343	trial_id	[0, 0, 0, 1, 0, 0]
+1529.21132359	play	None
+1531.19673188	keypress	1
+1533.12053333	stop	None
+1533.12078862	trial_ok	None
+1533.1823262	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+1533.18243296	flip	1533.18232343
+1533.45342308	keypress	1
+1533.46579005	flip	1533.46578618
+1533.48233909	flip	1533.48233715
+1533.84030692	trial_id	[0, 0, 0, 1, 0, 0]
+1534.0306641	play	None
+1537.35766074	keypress	1
+1537.94129495	stop	None
+1537.94142799	trial_ok	None
+1537.98247517	screen_text	Correct!\n\n\n\nPress a button to continue.
+1537.98252606	flip	1537.98247129
+1540.3821881	keypress	1
+1540.39913091	flip	1540.39912925
+1540.41701724	flip	1540.4170153
+1540.77899089	trial_id	[0, 0, 0, 1, 0, 0]
+1540.96866545	play	None
+1542.92621991	keypress	1
+1544.8811793	stop	None
+1544.88135438	trial_ok	None
+1544.93258909	screen_text	Correct!\n\n\n\nPress a button to continue.
+1544.93265658	flip	1544.93258384
+1546.55961767	keypress	1
+1546.58257977	flip	1546.58257535
+1546.59922312	flip	1546.59921842
+1546.68259393	screen_text	Great job, you passed that block of training!\n\n\n\nPress a button to continue.
+1546.68263902	flip	1546.6825873
+1549.09295271	keypress	1
+1549.11595913	flip	1549.1159547
+1549.13260248	flip	1549.13260082
+1549.28257629	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1549.28261335	flip	1549.2825738
+1596.39405223	keypress	1
+1596.39989539	flip	1596.39989235
+1596.46658026	screen_text	You will now be shown the flow of an example trial.\n\nThe letters from the target you should listen to will turn white, and the target "O" letters (that should elicit a button press during a trial) will turn green.\n\nPress a button to see the demonstration.
+1596.46661898	flip	1596.46657805
+1601.44171687	keypress	1
+1601.45003206	flip	1601.45002818
+1601.88331179	flip	1601.88330985
+1603.90241842	play	None
+1603.90767579	flip	1603.90135273
+1604.3166839	flip	1604.31668224
+1605.1166954	flip	1605.11669374
+1605.51669839	flip	1605.51669673
+1606.51671582	flip	1606.51671416
+1606.91672157	flip	1606.91671991
+1609.81798884	flip	1609.8179869
+1609.8186662	stop	None
+1609.85131564	screen_text	Press a button to continue.
+1609.85134413	flip	1609.8513126
+1610.75479207	keypress	1
+1610.76680474	flip	1610.76680225
+1610.76693916	training	1
+1610.78344394	flip	1610.783442
+1616.16875269	trial_id	[1, 0, 0, 1, 1, 0]
+1616.35976621	play	None
+1620.26795009	stop	None
+1620.26808451	trial_ok	None
+1620.3002679	screen_text	Correct!\n\n\n\nPress a button to continue.
+1620.30030469	flip	1620.30026541
+1623.53629951	keypress	1
+1623.55027883	flip	1623.55027689
+1623.56816295	flip	1623.56816129
+1623.92759199	trial_id	[1, 0, 0, 1, 1, 0]
+1624.11791737	play	None
+1626.03558747	keypress	1
+1627.65571931	keypress	1
+1628.03031616	stop	None
+1628.03046164	trial_ok	None
+1628.10044121	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1628.10050732	flip	1628.10043651
+1631.11384923	keypress	1
+1631.13372432	flip	1631.13372127
+1631.1504382	flip	1631.15043654
+1631.50858913	trial_id	[1, 0, 0, 1, 1, 0]
+1631.69900384	play	None
+1633.67472272	keypress	1
+1635.60905579	stop	None
+1635.60921594	trial_ok	None
+1635.65053832	screen_text	Correct!\n\n\n\nPress a button to continue.
+1635.65056875	flip	1635.65053639
+1639.56481168	keypress	1
+1639.58397515	flip	1639.583971
+1639.60053359	flip	1639.60053
+1639.96832691	trial_id	[1, 0, 0, 1, 1, 0]
+1640.15835771	play	None
+1643.5993922	keypress	1
+1644.06954671	stop	None
+1644.06981832	trial_ok	None
+1644.13388889	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1644.13392097	flip	1644.13388667
+1646.78149268	keypress	1
+1646.80062636	flip	1646.80062332
+1646.81728077	flip	1646.81727884
+1647.18817684	trial_id	[1, 0, 0, 1, 1, 0]
+1647.37871242	play	None
+1650.89090222	keypress	1
+1651.28976949	stop	None
+1651.28989755	trial_ok	None
+1651.33407984	screen_text	Correct!\n\n\n\nPress a button to continue.
+1651.33413239	flip	1651.33407625
+1656.08671918	keypress	1
+1656.10079248	flip	1656.10078971
+1656.11741453	flip	1656.11741287
+1656.15074604	screen_text	You got 3 trials correct, need 4 to move on.\n\nPress a button to continue.
+1656.15076872	flip	1656.15074383
+1657.48796078	keypress	1
+1657.50082174	flip	1657.50081842
+1657.5174922	flip	1657.51748998
+1657.66743088	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1657.66746296	flip	1657.66742866
+1658.31203502	keypress	1
+1658.33408648	flip	1658.33408482
+1658.33411027	training	1
+1658.35077906	flip	1658.3507774
+1663.73691978	trial_id	[1, 0, 0, 1, 0, 0]
+1663.92766667	play	None
+1667.83749652	stop	None
+1667.83778998	trial_ok	None
+1667.9010413	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+1667.90111099	flip	1667.90103632
+1670.72052535	keypress	1
+1670.73434088	flip	1670.73433591
+1670.75100194	flip	1670.75099889
+1671.11777769	trial_id	[1, 0, 0, 1, 0, 0]
+1671.30844658	play	None
+1674.8549278	keypress	1
+1675.21921655	stop	None
+1675.21935153	trial_ok	None
+1675.2677136	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1675.26775371	flip	1675.26771084
+1679.4920094	keypress	1
+1679.50109639	flip	1679.50109418
+1679.51897775	flip	1679.51897581
+1679.87772086	trial_id	[1, 0, 0, 1, 0, 0]
+1680.06788	play	None
+1683.8289536	keypress	1
+1683.97868731	stop	None
+1683.9788209	trial_ok	None
+1684.08449707	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1684.08462126	flip	1684.08449403
+1686.50597632	keypress	1
+1686.51788274	flip	1686.51787997
+1686.53452332	flip	1686.53452166
+1686.88656224	trial_id	[1, 0, 0, 1, 0, 0]
+1687.07779343	play	None
+1690.9872084	stop	None
+1690.98749412	trial_ok	None
+1691.03458417	screen_text	Correct!\n\n\n\nPress a button to continue.
+1691.03461598	flip	1691.03458223
+1692.89382427	keypress	1
+1692.90123352	flip	1692.90123131
+1692.9179167	flip	1692.91791504
+1693.27744034	trial_id	[1, 0, 0, 1, 0, 0]
+1693.46751817	play	None
+1697.01352091	keypress	1
+1697.37910849	stop	None
+1697.37935825	trial_ok	None
+1697.4180857	screen_text	Correct!\n\n\n\nPress a button to continue.
+1697.4181305	flip	1697.41808293
+1700.73916059	keypress	1
+1700.7513568	flip	1700.75135431
+1700.76930343	flip	1700.76930038
+1700.80263881	screen_text	You got 2 trials correct, need 4 to move on.\n\nPress a button to continue.
+1700.80267476	flip	1700.80263632
+1701.46747035	keypress	1
+1701.48474041	flip	1701.48473765
+1701.50139096	flip	1701.50138874
+1701.65138993	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1701.65142202	flip	1701.651388
+1702.04435099	keypress	1
+1702.06813003	flip	1702.06812727
+1702.06816073	training	1
+1702.08473356	flip	1702.08473134
+1707.45620769	trial_id	[1, 0, 1, 1, 0, 0]
+1707.64592872	play	None
+1711.55695647	stop	None
+1711.5571841	trial_ok	None
+1711.61830846	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+1711.61838618	flip	1711.6183021
+1714.59278839	keypress	1
+1714.60160647	flip	1714.60160343
+1714.61834027	flip	1714.61833529
+1714.99728198	trial_id	[1, 0, 1, 1, 0, 0]
+1715.18716536	play	None
+1717.09811951	keypress	1
+1719.0970663	stop	None
+1719.09724857	trial_ok	None
+1719.15178352	screen_text	Correct!\n\n\n\nPress a button to continue.
+1719.15184768	flip	1719.1517802
+1721.20866031	keypress	1
+1721.21837102	flip	1721.21836826
+1721.23500331	flip	1721.23500054
+1721.6059688	trial_id	[1, 0, 1, 1, 0, 0]
+1721.79729708	play	None
+1725.15299695	keypress	1
+1725.41763951	keypress	1
+1725.70808033	stop	None
+1725.70829523	trial_ok	None
+1725.76855056	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1725.76862883	flip	1725.7685442
+1728.83530095	keypress	1
+1728.85178197	flip	1728.85177284
+1728.86842449	flip	1728.86842228
+1729.22693886	trial_id	[1, 0, 1, 1, 0, 0]
+1729.41739755	play	None
+1733.06263209	keypress	1
+1733.3266781	stop	None
+1733.32680809	trial_ok	None
+1733.36852931	screen_text	Correct!\n\n\n\nPress a button to continue.
+1733.36858325	flip	1733.36852627
+1736.94785193	keypress	1
+1736.9697624	flip	1736.96976046
+1736.98645028	flip	1736.98644862
+1737.34682829	trial_id	[1, 0, 1, 1, 0, 0]
+1737.53774307	play	None
+1740.15281146	keypress	1
+1741.44818197	stop	None
+1741.44844611	trial_ok	None
+1741.50196598	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1741.5020473	flip	1741.50196239
+1744.13088762	keypress	1
+1744.15323007	flip	1744.15322785
+1744.16866888	flip	1744.16866722
+1744.20321571	screen_text	You got 2 trials correct, need 4 to move on.\n\nPress a button to continue.
+1744.20323812	flip	1744.20321378
+1745.03319546	keypress	1
+1745.05201884	flip	1745.0520169
+1745.06868404	flip	1745.06868238
+1745.20202417	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1745.20205488	flip	1745.20202196
+1745.75499258	keypress	1
+1745.76866534	flip	1745.7686634
+1745.76869217	training	1
+1745.78534271	flip	1745.78534105
+1746.36439546	keypress	1
+1751.14639449	trial_id	[1, 0, 0, 1, 1, 0]
+1751.33673314	play	None
+1755.24617909	stop	None
+1755.24642497	trial_ok	None
+1755.3021722	screen_text	Correct!\n\n\n\nPress a button to continue.
+1755.30222503	flip	1755.30216889
+1828.63308607	keypress	1
+1828.65336034	flip	1828.65335287
+1828.66986014	flip	1828.66985793
+1829.05417317	trial_id	[1, 0, 0, 1, 1, 0]
+1829.2452492	play	None
+1831.1571492	keypress	1
+1832.64928104	keypress	1
+1833.15566763	stop	None
+1833.15592983	trial_ok	None
+1833.21993263	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1833.21997689	flip	1833.21992932
+1841.8610212	keypress	1
+1841.8712844	flip	1841.87128163
+1841.88796979	flip	1841.88796592
+1842.25396391	trial_id	[1, 0, 0, 1, 1, 0]
+1842.44487232	play	None
+1844.46188687	keypress	1
+1846.35643167	stop	None
+1846.35668475	trial_ok	None
+1846.40344484	screen_text	Correct!\n\n\n\nPress a button to continue.
+1846.40347886	flip	1846.40344207
+1848.12235919	keypress	1
+1848.13679941	flip	1848.13679748
+1848.15468215	flip	1848.15468049
+1848.51386863	trial_id	[1, 0, 0, 1, 1, 0]
+1848.70461828	play	None
+1852.61429573	stop	None
+1852.61442933	trial_ok	None
+1852.65357248	screen_text	Correct!\n\n\n\nPress a button to continue.
+1852.6536408	flip	1852.65356723
+1854.49912536	keypress	1
+1854.52024645	flip	1854.52024396
+1854.53688399	flip	1854.53688233
+1854.89486262	trial_id	[1, 0, 0, 1, 1, 0]
+1855.08455018	play	None
+1858.99405753	stop	None
+1858.99418974	trial_ok	None
+1859.03692493	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+1859.03696559	flip	1859.03692216
+1860.74296269	keypress	1
+1860.75366436	flip	1860.75366104
+1860.77030965	flip	1860.77030771
+1860.8036348	screen_text	You got 3 trials correct, need 4 to move on.\n\nPress a button to continue.
+1860.80369454	flip	1860.80363203
+1861.55864013	keypress	1
+1861.57031756	flip	1861.57031369
+1861.58694321	flip	1861.58694155
+1861.72030852	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1861.72035277	flip	1861.7203063
+1862.15370701	keypress	1
+1862.17032398	flip	1862.17032204
+1862.17034832	training	1
+1862.18695516	flip	1862.1869535
+1867.5646821	trial_id	[1, 0, 1, 1, 1, 0]
+1867.75468691	play	None
+1871.18070381	keypress	1
+1871.66508044	stop	None
+1871.66520463	trial_ok	None
+1871.70382559	screen_text	Correct!\n\n\n\nPress a button to continue.
+1871.70388118	flip	1871.70382144
+1872.62376557	keypress	1
+1872.63717446	flip	1872.6371717
+1872.6537932	flip	1872.65379154
+1873.01391648	trial_id	[1, 0, 1, 1, 1, 0]
+1873.20520742	play	None
+1875.13560125	keypress	1
+1876.78678077	keypress	1
+1877.11460911	stop	None
+1877.11473081	trial_ok	None
+1877.17059393	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1877.17066446	flip	1877.17058895
+1883.08614205	keypress	1
+1883.10400697	flip	1883.1040031
+1883.12061852	flip	1883.12061603
+1883.49326815	trial_id	[1, 0, 1, 1, 1, 0]
+1883.68413425	play	None
+1885.99010022	keypress	1
+1887.2423703	keypress	1
+1887.40686566	keypress	1
+1887.59430319	stop	None
+1887.59445946	trial_ok	None
+1887.65402553	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1887.6540731	flip	1887.65402277
+1892.94519014	keypress	1
+1892.95419303	flip	1892.95418888
+1892.97090166	flip	1892.97089447
+1893.34425963	trial_id	[1, 0, 1, 1, 1, 0]
+1893.53444007	play	None
+1895.45456091	keypress	1
+1895.68684507	keypress	1
+1896.93637083	keypress	1
+1897.16124123	keypress	1
+1897.44614407	stop	None
+1897.44641762	trial_ok	None
+1897.48758428	screen_text	Correct!\n\n\n\nPress a button to continue.
+1897.48769243	flip	1897.48757516
+1900.77313499	keypress	1
+1900.78890156	flip	1900.78889741
+1900.80557976	flip	1900.80557616
+1901.19299167	trial_id	[1, 0, 1, 1, 1, 0]
+1901.38354799	play	None
+1904.8851978	keypress	1
+1905.29461363	stop	None
+1905.29478097	trial_ok	None
+1905.35548298	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+1905.35553885	flip	1905.35547855
+1910.17903204	keypress	1
+1910.18770499	flip	1910.18770194
+1910.20436797	flip	1910.20436631
+1910.23765772	screen_text	You got 2 trials correct, need 4 to move on.\n\nPress a button to continue.
+1910.2376804	flip	1910.23765578
+1916.21825636	keypress	1
+1916.23771635	flip	1916.23771414
+1916.25441253	flip	1916.2544106
+1916.38775073	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+1916.38779471	flip	1916.38774824
+1953.92603236	keypress	1
+1953.93834072	flip	1953.9383363
+1953.938393	training	1
+1953.95498933	flip	1953.95498379
+1959.33347052	trial_id	[1, 0, 1, 1, 0, 0]
+1959.52400997	play	None
+1963.43233491	stop	None
+1963.43256807	trial_ok	None
+1963.50634131	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+1963.50638363	flip	1963.50633799
+2012.35040356	keypress	1
+2012.37243666	flip	2012.37243306
+2012.38909992	flip	2012.38909827
+2012.74235085	trial_id	[1, 0, 1, 1, 0, 0]
+2012.93209677	play	None
+2014.94651311	keypress	1
+2016.84237082	stop	None
+2016.84254617	trial_ok	None
+2016.87254176	screen_text	Correct!\n\n\n\nPress a button to continue.
+2016.87259376	flip	2016.87253789
+2018.66310063	keypress	1
+2018.6725458	flip	2018.67254276
+2018.6904479	flip	2018.69044596
+2019.06102368	trial_id	[1, 0, 1, 1, 0, 0]
+2019.25061084	play	None
+2022.61047925	keypress	1
+2023.15364329	stop	None
+2023.153851	trial_ok	None
+2023.18927849	screen_text	Correct!\n\n\n\nPress a button to continue.
+2023.18933436	flip	2023.18927434
+2025.76169589	keypress	1
+2025.77260643	flip	2025.77260366
+2025.79061391	flip	2025.79061142
+2026.15186981	trial_id	[1, 0, 1, 1, 0, 0]
+2026.34136044	play	None
+2029.70954851	keypress	1
+2030.25187512	stop	None
+2030.25200374	trial_ok	None
+2030.28933829	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2030.28938088	flip	2030.28933525
+2032.08186979	keypress	1
+2032.0893509	flip	2032.08934841
+2032.1073014	flip	2032.10729946
+2032.46157155	trial_id	[1, 0, 1, 1, 0, 0]
+2032.65224376	play	None
+2035.07295504	keypress	1
+2036.56203074	stop	None
+2036.56226749	trial_ok	None
+2036.63944829	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2036.63949199	flip	2036.63944552
+2038.84856592	keypress	1
+2038.85613711	flip	2038.85613324
+2038.87281558	flip	2038.87281365
+2038.90613741	screen_text	You got 2 trials correct, need 4 to move on.\n\nPress a button to continue.
+2038.90617309	flip	2038.90613548
+2039.84229648	keypress	1
+2039.85623225	flip	2039.85622727
+2039.87278295	flip	2039.87278101
+2040.00614106	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters spoken will "AU" instead of "AA".\n\nInstead of listening to the same talker for the four letters after the cue, you should start out by attending to the talker that said "AU" for the first two letters following "AU", then switch your attention to listen to the other talker for the last two letters.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+2040.00618615	flip	2040.00613885
+2040.52874512	keypress	1
+2040.53949083	flip	2040.53948889
+2040.53952872	training	1
+2040.55616017	flip	2040.55615852
+2045.91147084	trial_id	[1, 0, 1, 1, 1, 0]
+2046.101136	play	None
+2047.85906022	keypress	1
+2049.43126886	keypress	1
+2050.01227244	stop	None
+2050.01239442	trial_ok	None
+2050.05641353	screen_text	Correct!\n\n\n\nPress a button to continue.
+2050.05652029	flip	2050.05639942
+2051.27758182	keypress	1
+2051.28965415	flip	2051.28965166
+2051.30630497	flip	2051.30630331
+2051.67046891	trial_id	[1, 0, 1, 1, 1, 0]
+2051.86015177	play	None
+2055.77118615	stop	None
+2055.7714171	trial_ok	None
+2055.80646373	screen_text	Correct!\n\n\n\nPress a button to continue.
+2055.80652541	flip	2055.8064593
+2055.86866973	keypress	1
+2055.88977535	flip	2055.88977065
+2055.90641262	flip	2055.9064093
+2056.27157642	trial_id	[1, 0, 1, 1, 1, 0]
+2056.46153227	play	None
+2060.37071186	stop	None
+2060.37082886	trial_ok	None
+2060.40655561	screen_text	Correct!\n\n\n\nPress a button to continue.
+2060.40665795	flip	2060.40654731
+2062.73426553	keypress	1
+2062.75648915	flip	2062.75648693
+2062.77313277	flip	2062.77313084
+2063.15030405	trial_id	[1, 0, 1, 1, 1, 0]
+2063.34095331	play	None
+2065.26598309	keypress	1
+2067.25297151	stop	None
+2067.25313774	trial_ok	None
+2067.30659207	screen_text	Correct!\n\n\n\nPress a button to continue.
+2067.30665789	flip	2067.30658736
+2068.47208613	keypress	1
+2068.48995795	flip	2068.4899538
+2068.5066356	flip	2068.50663145
+2068.88022231	trial_id	[1, 0, 1, 1, 1, 0]
+2069.0702238	play	None
+2071.26093173	keypress	1
+2072.98362798	stop	None
+2072.98386529	trial_ok	None
+2073.05658916	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2073.05662429	flip	2073.05658695
+2083.76348021	keypress	1
+2083.77347381	flip	2083.77347104
+2083.79010277	flip	2083.79010111
+2083.82343373	screen_text	Great job, you passed that block of training!\n\n\n\nPress a button to continue.
+2083.82345669	flip	2083.82343179
+2087.64882293	keypress	1
+2087.65686912	flip	2087.65686636
+2087.67353377	flip	2087.67353073
+2087.84015093	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+2087.84019491	flip	2087.84014872
+2105.01217653	keypress	1
+2105.02496337	flip	2105.02496088
+2105.02499462	training	2
+2105.04165927	flip	2105.04165595
+2110.40056308	trial_id	[1, 0, 0, 1, 0, 0]
+2110.59010515	play	None
+2112.6044822	keypress	1
+2114.50049703	stop	None
+2114.50062038	trial_ok	None
+2114.5405709	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2114.54062013	flip	2114.54056813
+2116.982287	keypress	1
+2116.99057585	flip	2116.99057364
+2117.00727784	flip	2117.00727618
+2117.36942905	trial_id	[1, 0, 0, 1, 0, 0]
+2117.56073078	play	None
+2119.59680566	keypress	1
+2121.05440822	keypress	1
+2121.47037116	stop	None
+2121.47049369	trial_ok	None
+2121.52405976	screen_text	Incorrect:\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+2121.52411341	flip	2121.52405588
+2126.82112566	keypress	1
+2126.84197834	flip	2126.84197585
+2126.85859403	flip	2126.85859126
+2127.22046811	trial_id	[0, 0, 0, 1, 0, 0]
+2127.4103006	play	None
+2131.31957147	stop	None
+2131.31969648	trial_ok	None
+2131.37411278	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2131.37415012	flip	2131.37411029
+2133.18935527	keypress	1
+2133.20760708	flip	2133.20759934
+2133.22413178	flip	2133.22412984
+2133.59006726	trial_id	[0, 0, 0, 1, 0, 0]
+2133.78077543	play	None
+2137.68959242	stop	None
+2137.68978243	trial_ok	None
+2137.74093112	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2137.74099585	flip	2137.74092642
+2137.76410543	keypress	1
+2137.7741874	flip	2137.77418574
+2137.79083988	flip	2137.7908385
+2138.14997657	trial_id	[0, 0, 0, 1, 0, 0]
+2138.33949182	play	None
+2142.2495186	stop	None
+2142.24975564	trial_ok	None
+2142.29094056	screen_text	Correct!\n\n\n\nPress a button to continue.
+2142.29098896	flip	2142.29093807
+2146.19820799	keypress	1
+2146.20765466	flip	2146.20765245
+2146.22552799	flip	2146.22552605
+2146.56983049	trial_id	[0, 0, 0, 1, 0, 0]
+2146.75854557	play	None
+2148.623669	keypress	1
+2150.66935454	stop	None
+2150.66952658	trial_ok	None
+2150.72438071	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2150.72441583	flip	2150.72437794
+2153.39178164	keypress	1
+2153.40779638	flip	2153.40779251
+2153.42566308	flip	2153.42566142
+2153.77977418	trial_id	[1, 0, 0, 1, 0, 0]
+2153.96945372	play	None
+2157.87446237	keypress	1
+2157.88010697	stop	None
+2157.88029533	trial_ok	None
+2157.95779641	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2157.95791202	flip	2157.95779392
+2159.82063581	keypress	1
+2159.84125202	flip	2159.84124289
+2159.85782374	flip	2159.8578218
+2160.20957611	trial_id	[0, 0, 0, 1, 0, 0]
+2160.3992172	play	None
+2164.30937481	stop	None
+2164.30962125	trial_ok	None
+2164.35793465	screen_text	Correct!\n\n\n\nPress a button to continue.
+2164.35797116	flip	2164.3579316
+2166.05575933	keypress	1
+2166.07461738	flip	2166.07461489
+2166.09128065	flip	2166.09127899
+2166.45858441	trial_id	[1, 0, 0, 1, 0, 0]
+2166.64960346	play	None
+2170.559014	stop	None
+2170.55927731	trial_ok	None
+2170.60802357	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+2170.60807501	flip	2170.6080197
+2173.24572124	keypress	1
+2173.25818241	flip	2173.25816195
+2173.27477874	flip	2173.27477155
+2173.6393595	trial_id	[1, 0, 0, 1, 0, 0]
+2173.82997474	play	None
+2175.84249975	keypress	1
+2177.65710967	keypress	1
+2177.74049688	stop	None
+2177.74062688	trial_ok	None
+2177.77476326	screen_text	Incorrect:\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+2177.77479921	flip	2177.77476104
+2182.74303095	keypress	1
+2182.75944365	flip	2182.75944061
+2182.77606764	flip	2182.77606487
+2182.80936955	screen_text	You got 2 trials correct, need 7 to move on.\n\nPress a button to continue.
+2182.80941353	flip	2182.80936651
+2186.97403511	keypress	1
+2186.99159424	flip	2186.99158733
+2187.0094814	flip	2187.00947753
+2187.19150999	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+2187.19154374	flip	2187.19150806
+2187.82985335	keypress	1
+2187.84151865	flip	2187.84151699
+2187.84154022	training	2
+2187.85821289	flip	2187.85821068
+2193.24814479	trial_id	[1, 0, 0, 1, 1, 0]
+2193.43825498	play	None
+2195.57557398	keypress	1
+2197.08069014	keypress	1
+2197.35066179	stop	None
+2197.35089163	trial_ok	None
+2197.40839436	screen_text	Incorrect:\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+2197.40842562	flip	2197.40839215
+2205.70490006	keypress	1
+2205.72511837	flip	2205.72511505
+2205.74182367	flip	2205.74182091
+2206.0979334	trial_id	[1, 0, 0, 1, 1, 0]
+2206.28923235	play	None
+2209.7929855	keypress	1
+2210.19931362	stop	None
+2210.19955923	trial_ok	None
+2210.2753629	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2210.27546911	flip	2210.27535432
+2216.26306806	keypress	1
+2216.27528269	flip	2216.27527881
+2216.29195591	flip	2216.29195397
+2216.65777467	trial_id	[1, 0, 0, 1, 1, 0]
+2216.84755184	play	None
+2218.88055709	keypress	1
+2220.75822556	stop	None
+2220.7583539	trial_ok	None
+2220.80869523	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2220.80874115	flip	2220.80869302
+2224.03750301	keypress	1
+2224.05996352	flip	2224.05996076
+2224.07540759	flip	2224.07540538
+2224.45763156	trial_id	[0, 0, 0, 1, 1, 0]
+2224.64719632	play	None
+2228.20993712	keypress	1
+2228.55008715	stop	None
+2228.55021162	trial_ok	None
+2228.59212341	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2228.59215356	flip	2228.5921212
+2232.50602672	keypress	1
+2232.52548943	flip	2232.52548722
+2232.54217925	flip	2232.54217732
+2232.91747527	trial_id	[1, 0, 0, 1, 1, 0]
+2233.10766816	play	None
+2237.01793584	stop	None
+2237.0180639	trial_ok	None
+2237.07557106	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2237.0756048	flip	2237.07556857
+2238.66864874	keypress	1
+2238.69222055	flip	2238.69221889
+2238.70889902	flip	2238.70889764
+2239.06740814	trial_id	[1, 0, 0, 1, 1, 0]
+2239.25705504	play	None
+2243.16770138	stop	None
+2243.16783497	trial_ok	None
+2243.20900883	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+2243.20904534	flip	2243.20900634
+2244.46545686	keypress	1
+2244.47568689	flip	2244.47568551
+2244.49357986	flip	2244.49357848
+2244.8482942	trial_id	[1, 0, 0, 1, 1, 0]
+2245.03795217	play	None
+2248.94760362	stop	None
+2248.94776598	trial_ok	None
+2248.99237394	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+2248.99240575	flip	2248.99237173
+2252.70563679	keypress	1
+2252.72701022	flip	2252.72700856
+2252.74412902	flip	2252.74412737
+2253.10715177	trial_id	[1, 0, 0, 1, 1, 0]
+2253.29780932	play	None
+2257.20759851	stop	None
+2257.20790414	trial_ok	None
+2257.27584554	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+2257.27595396	flip	2257.27583697
+2263.42975621	keypress	1
+2263.44265631	flip	2263.44265271
+2263.45937544	flip	2263.45936991
+2263.82780132	trial_id	[0, 0, 0, 1, 1, 0]
+2264.01847602	play	None
+2266.00731768	keypress	1
+2267.64125304	keypress	1
+2267.92877828	stop	None
+2267.9290048	trial_ok	None
+2267.99400691	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2267.99408795	flip	2267.99400055
+2273.43393912	keypress	1
+2273.44273154	flip	2273.44272877
+2273.459428	flip	2273.45942606
+2273.81794126	trial_id	[1, 0, 0, 1, 1, 0]
+2274.00881511	play	None
+2275.98738013	keypress	1
+2277.91922966	stop	None
+2277.91949408	trial_ok	None
+2277.9761546	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2277.97618751	flip	2277.97615239
+2282.18331741	keypress	1
+2282.19292363	flip	2282.19291948
+2282.20959187	flip	2282.20958883
+2282.24290679	screen_text	You got 0 trials correct, need 7 to move on.\n\nPress a button to continue.
+2282.24293306	flip	2282.2429043
+2402.73486429	keypress	1
+2402.74458539	flip	2402.7445818
+2402.76122791	flip	2402.76122625
+2402.92786803	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+2402.92791837	flip	2402.92786499
+2409.04082013	keypress	1
+2409.04472662	flip	2409.04472081
+2409.04479106	training	2
+2409.06133595	flip	2409.06133318
+2414.46446216	trial_id	[1, 0, 0, 1, 0, 0]
+2414.65455464	play	None
+2418.02805242	keypress	1
+2418.56632088	stop	None
+2418.56644396	trial_ok	None
+2418.62811071	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2418.62814251	flip	2418.62810822
+2431.73208058	keypress	1
+2431.74497787	flip	2431.7449751
+2431.76164335	flip	2431.76164058
+2432.1242053	trial_id	[0, 0, 0, 1, 0, 0]
+2432.3148623	play	None
+2434.31484968	keypress	1
+2436.22715405	stop	None
+2436.22742925	trial_ok	None
+2436.29504898	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2436.29509462	flip	2436.29504539
+2439.09164584	keypress	1
+2439.11301375	flip	2439.11301099
+2439.12838508	flip	2439.12838342
+2439.49407606	trial_id	[1, 0, 0, 1, 0, 0]
+2439.68360984	play	None
+2443.35637559	keypress	1
+2443.58462403	stop	None
+2443.58476011	trial_ok	None
+2443.62847635	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2443.6285278	flip	2443.62847331
+2446.06247991	keypress	1
+2446.07849845	flip	2446.07849596
+2446.09516531	flip	2446.0951631
+2446.45396983	trial_id	[1, 0, 0, 1, 0, 0]
+2446.64411071	play	None
+2450.55425089	stop	None
+2450.55438808	trial_ok	None
+2450.59524718	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n\nPress a button to continue.
+2450.59528867	flip	2450.59524414
+2451.99703442	keypress	1
+2452.01191371	flip	2452.0119115
+2452.02853051	flip	2452.02852857
+2452.38478821	trial_id	[0, 0, 0, 1, 0, 0]
+2452.57546208	play	None
+2456.48426939	stop	None
+2456.48441487	trial_ok	None
+2456.54528394	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2456.54535364	flip	2456.54527841
+2457.94047703	keypress	1
+2457.96318847	flip	2457.96318626
+2457.97866573	flip	2457.97866407
+2458.33462444	trial_id	[1, 0, 0, 1, 0, 0]
+2458.52537133	play	None
+2461.31809461	keypress	1
+2461.99901365	keypress	1
+2462.43580386	stop	None
+2462.43601573	trial_ok	None
+2462.49550878	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2462.49557682	flip	2462.4955038
+2464.19639477	keypress	1
+2464.21209748	flip	2464.21209499
+2464.22870487	flip	2464.22870321
+2464.60482124	trial_id	[0, 0, 0, 1, 0, 0]
+2464.7952437	play	None
+2466.73638451	keypress	1
+2468.705432	stop	None
+2468.70558938	trial_ok	None
+2468.74548596	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2468.74553879	flip	2468.74548181
+2469.93540147	keypress	1
+2469.94550101	flip	2469.94549852
+2469.96216925	flip	2469.96216704
+2470.35356181	trial_id	[0, 0, 0, 1, 0, 0]
+2470.5450552	play	None
+2472.65764233	keypress	1
+2474.45447017	stop	None
+2474.45472574	trial_ok	None
+2474.51225557	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2474.51229872	flip	2474.51225281
+2478.68732297	keypress	1
+2478.69573763	flip	2478.69573293
+2478.71240283	flip	2478.71239868
+2479.08461656	trial_id	[0, 0, 0, 1, 0, 0]
+2479.27427702	play	None
+2482.75858075	keypress	1
+2483.18430048	stop	None
+2483.18448441	trial_ok	None
+2483.22901382	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2483.22904922	flip	2483.22901133
+2484.93302427	keypress	1
+2484.94571564	flip	2484.94571315
+2484.96232773	flip	2484.96232608
+2485.32435781	trial_id	[1, 0, 0, 1, 0, 0]
+2485.51474984	play	None
+2488.06198097	keypress	1
+2489.18322001	keypress	1
+2489.42482446	stop	None
+2489.42504905	trial_ok	None
+2489.47914865	screen_text	Incorrect:\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+2489.47922665	flip	2489.47914312
+2509.87797329	keypress	1
+2509.89751758	flip	2509.89751121
+2509.9142002	flip	2509.91419827
+2509.94729246	screen_text	You got 0 trials correct, need 7 to move on.\n\nPress a button to continue.
+2509.94732952	flip	2509.94728997
+2927.63204433	keypress	1
+2927.63527957	flip	2927.63527514
+2927.65195002	flip	2927.6519467
+2927.83516904	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+2927.83521247	flip	2927.83516683
+2939.30601297	keypress	1
+2939.3020494	flip	2939.30204636
+2939.30209614	training	2
+2939.31870105	flip	2939.31869883
+2944.69739411	trial_id	[0, 0, 1, 1, 0, 0]
+2944.88730598	play	None
+2948.5901059	keypress	1
+2948.79611329	stop	None
+2948.79623692	trial_ok	None
+2948.85341715	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2948.85346223	flip	2948.85341466
+2950.8463875	keypress	1
+2950.86882388	flip	2950.86882139
+2950.88551287	flip	2950.88551121
+2951.24660863	trial_id	[1, 0, 1, 1, 0, 0]
+2951.43669364	play	None
+2954.87197306	keypress	1
+2955.34812051	stop	None
+2955.34824055	trial_ok	None
+2955.38554772	screen_text	Correct!\n\n\n\nPress a button to continue.
+2955.38558118	flip	2955.38554495
+2957.26641274	keypress	1
+2957.28568485	flip	2957.28567932
+2957.30227261	flip	2957.30227012
+2957.66638676	trial_id	[1, 0, 1, 1, 0, 0]
+2957.85624802	play	None
+2961.24920721	keypress	1
+2961.76789007	stop	None
+2961.76804938	trial_ok	None
+2961.8190631	screen_text	Correct!\n\n\n\nPress a button to continue.
+2961.81913418	flip	2961.81905812
+2963.22880401	keypress	1
+2963.25238266	flip	2963.25237934
+2963.26902795	flip	2963.26902629
+2963.6453797	trial_id	[0, 0, 1, 1, 0, 0]
+2963.83588789	play	None
+2966.04579495	keypress	1
+2967.74828502	stop	None
+2967.74845568	trial_ok	None
+2967.78577612	screen_text	Correct!\n\n\n\nPress a button to continue.
+2967.78583808	flip	2967.78577059
+2968.51936935	keypress	1
+2968.53587611	flip	2968.53586864
+2968.55243787	flip	2968.55243565
+2968.92527309	trial_id	[0, 0, 1, 1, 0, 0]
+2969.11506437	play	None
+2971.08395396	keypress	1
+2972.53016964	keypress	1
+2973.02606252	stop	None
+2973.02621741	trial_ok	None
+2973.10377492	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+2973.10382442	flip	2973.10377215
+2975.74274436	keypress	1
+2975.75267003	flip	2975.7526645
+2975.76933247	flip	2975.76932666
+2976.13518691	trial_id	[0, 0, 1, 1, 0, 0]
+2976.32526971	play	None
+2978.21873666	keypress	1
+2979.71254786	keypress	1
+2980.23757115	stop	None
+2980.23781178	trial_ok	None
+2980.28592493	screen_text	Correct!\n\n\n\nPress a button to continue.
+2980.28596863	flip	2980.28592161
+2981.33865986	keypress	1
+2981.352651	flip	2981.35264851
+2981.37050193	flip	2981.37050027
+2981.74598769	trial_id	[1, 0, 1, 1, 0, 0]
+2981.93677137	play	None
+2983.78398117	keypress	1
+2985.8481017	stop	None
+2985.84836695	trial_ok	None
+2985.90265269	screen_text	Correct!\n\n\n\nPress a button to continue.
+2985.90268643	flip	2985.9026502
+2986.44978085	keypress	1
+2986.46937047	flip	2986.46936798
+2986.48603705	flip	2986.48603512
+2986.85608815	trial_id	[1, 0, 1, 1, 0, 0]
+2987.04723084	play	None
+2990.95549437	stop	None
+2990.95567499	trial_ok	None
+2991.01943467	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2991.01948777	flip	2991.01943135
+2991.20647798	keypress	1
+2991.21943091	flip	2991.21942814
+2991.23607149	flip	2991.23606789
+2991.62490893	trial_id	[0, 0, 1, 1, 0, 0]
+2991.81450909	play	None
+2995.71528735	stop	None
+2995.71548954	trial_ok	None
+2995.76947104	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+2995.76951668	flip	2995.76946827
+2996.74785867	keypress	1
+2996.76949925	flip	2996.76949704
+2996.78618464	flip	2996.78618215
+2997.16609164	trial_id	[1, 0, 1, 1, 0, 0]
+2997.35562238	play	None
+3000.68923153	keypress	1
+3001.26667862	stop	None
+3001.26680004	trial_ok	None
+3001.30290184	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3001.30294775	flip	3001.3028988
+3002.29072657	keypress	1
+3002.30413238	flip	3002.30412961
+3002.32080477	flip	3002.32080173
+3002.35411	screen_text	You got 5 trials correct, need 7 to move on.\n\nPress a button to continue.
+3002.35413185	flip	3002.35410806
+3004.08846097	keypress	1
+3004.10293354	flip	3004.10293077
+3004.11961506	flip	3004.11961229
+3004.25291896	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+3004.25303789	flip	3004.2529162
+3004.92683025	keypress	1
+3004.93625913	flip	3004.93625525
+3004.93629702	training	2
+3004.95295199	flip	3004.95294922
+3010.32571834	trial_id	[0, 0, 0, 1, 1, 0]
+3010.51626138	play	None
+3014.42507063	stop	None
+3014.42520754	trial_ok	None
+3014.4698498	screen_text	Correct!\n\n\n\nPress a button to continue.
+3014.46995988	flip	3014.4698415
+3015.10233961	keypress	1
+3015.11978792	flip	3015.11978405
+3015.1365007	flip	3015.13649904
+3015.50452109	trial_id	[1, 0, 0, 1, 1, 0]
+3015.69458398	play	None
+3018.95705562	keypress	1
+3019.60647966	stop	None
+3019.60662017	trial_ok	None
+3019.65316369	screen_text	Correct!\n\n\n\nPress a button to continue.
+3019.65323726	flip	3019.65315788
+3020.32655322	keypress	1
+3020.336508	flip	3020.33650606
+3020.35311844	flip	3020.3531165
+3020.71537697	trial_id	[1, 0, 0, 1, 1, 0]
+3020.90532591	play	None
+3024.16206119	keypress	1
+3024.81638574	stop	None
+3024.81652071	trial_ok	None
+3024.85322216	screen_text	Correct!\n\n\n\nPress a button to continue.
+3024.85325756	flip	3024.85321967
+3025.92321831	keypress	1
+3025.9365808	flip	3025.93657914
+3025.95444915	flip	3025.95444749
+3026.31434204	trial_id	[1, 0, 0, 1, 1, 0]
+3026.50511382	play	None
+3028.44155424	keypress	1
+3030.41541027	stop	None
+3030.41554469	trial_ok	None
+3030.45334225	screen_text	Correct!\n\n\n\nPress a button to continue.
+3030.4533937	flip	3030.45333838
+3031.02256672	keypress	1
+3031.03662234	flip	3031.03662068
+3031.05328865	flip	3031.05328726
+3031.41426188	trial_id	[1, 0, 0, 1, 1, 0]
+3031.60452391	play	None
+3035.51456895	stop	None
+3035.51472218	trial_ok	None
+3035.5533979	screen_text	Correct!\n\n\n\nPress a button to continue.
+3035.55345349	flip	3035.55339403
+3036.18460601	keypress	1
+3036.20458731	flip	3036.20458509
+3036.22129732	flip	3036.2212951
+3036.60417956	trial_id	[1, 0, 0, 1, 1, 0]
+3036.79491816	play	None
+3039.68472465	keypress	1
+3040.70536894	stop	None
+3040.70560238	trial_ok	None
+3040.77029444	screen_text	Incorrect:\n\n    - Missed 2 target "O"s\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3040.77033316	flip	3040.7702914
+3043.48560785	keypress	1
+3043.5035558	flip	3043.50355193
+3043.52012779	flip	3043.52012641
+3043.8840713	trial_id	[0, 0, 0, 1, 1, 0]
+3044.0746633	play	None
+3047.72448315	keypress	1
+3047.9855959	stop	None
+3047.98572064	trial_ok	None
+3048.05356911	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3048.05361972	flip	3048.05356579
+3051.24126779	keypress	1
+3051.25359245	flip	3051.25359024
+3051.27150423	flip	3051.27150119
+3051.63393037	trial_id	[1, 0, 0, 1, 1, 0]
+3051.82440068	play	None
+3053.74436017	keypress	1
+3055.73548153	stop	None
+3055.7357678	trial_ok	None
+3055.78707995	screen_text	Correct!\n\n\n\nPress a button to continue.
+3055.78717731	flip	3055.78707664
+3056.35465905	keypress	1
+3056.37032685	flip	3056.37032464
+3056.38700865	flip	3056.38700644
+3056.75385687	trial_id	[1, 0, 0, 1, 1, 0]
+3056.94445219	play	None
+3058.85155411	keypress	1
+3060.27348051	keypress	1
+3060.85561602	stop	None
+3060.85573855	trial_ok	None
+3060.88702525	screen_text	Correct!\n\n\n\nPress a button to continue.
+3060.88706397	flip	3060.88702248
+3062.22338131	keypress	1
+3062.23828557	flip	3062.23828308
+3062.2549859	flip	3062.25498368
+3062.64372377	trial_id	[0, 0, 0, 1, 1, 0]
+3062.83410142	play	None
+3066.20917542	keypress	1
+3066.74588674	stop	None
+3066.74601867	trial_ok	None
+3066.78726499	screen_text	Correct!\n\n\n\nPress a button to continue.
+3066.78736622	flip	3066.78725669
+3067.84847654	keypress	1
+3067.87049751	flip	3067.8704953
+3067.88713284	flip	3067.88713118
+3067.92047071	screen_text	Great job, you passed that block of training!\n\n\n\nPress a button to continue.
+3067.92049366	flip	3067.92046905
+3069.90311206	keypress	1
+3069.92056198	flip	3069.92055756
+3069.93722525	flip	3069.9372222
+3070.10383051	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the talkers will now sound like they are located in the same location in space.\n\nLike last block, the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+3070.10387698	flip	3070.1038283
+3094.79253798	keypress	1
+3094.80423388	flip	3094.80422974
+3094.80428229	training	3
+3094.82086285	flip	3094.82086064
+3100.21313246	trial_id	[0, 1, 1, 1, 1, 0]
+3100.40320697	play	None
+3102.28863628	keypress	1
+3103.75299724	keypress	1
+3104.3157128	stop	None
+3104.31584584	trial_ok	None
+3104.35433791	screen_text	Correct!\n\n\n\nPress a button to continue.
+3104.35438603	flip	3104.35433404
+3105.36465036	keypress	1
+3105.38765697	flip	3105.3876542
+3105.40441234	flip	3105.40440653
+3105.74405545	trial_id	[1, 1, 1, 1, 1, 0]
+3105.93385586	play	None
+3107.48209772	keypress	1
+3109.03599724	keypress	1
+3109.84373882	stop	None
+3109.843876	trial_ok	None
+3109.88770676	screen_text	Correct!\n\n\n\nPress a button to continue.
+3109.88774797	flip	3109.88770316
+3110.44072044	keypress	1
+3110.45438443	flip	3110.45438083
+3110.47106706	flip	3110.47106457
+3110.81381099	trial_id	[1, 1, 1, 1, 1, 0]
+3111.00247214	play	None
+3114.39065442	keypress	1
+3114.9036484	stop	None
+3114.90378006	trial_ok	None
+3114.9378188	screen_text	Correct!\n\n\n\nPress a button to continue.
+3114.93787329	flip	3114.93781161
+3115.59061858	keypress	1
+3115.60447496	flip	3115.6044733
+3115.62236101	flip	3115.62235935
+3115.97352177	trial_id	[0, 1, 1, 1, 1, 0]
+3116.16325441	play	None
+3119.53165392	keypress	1
+3120.07531162	stop	None
+3120.07544797	trial_ok	None
+3120.10453525	screen_text	Correct!\n\n\n\nPress a button to continue.
+3120.104582	flip	3120.10453
+3120.80247888	keypress	1
+3120.82123265	flip	3120.82122878
+3120.83791527	flip	3120.83790781
+3121.1925743	trial_id	[1, 1, 1, 1, 1, 0]
+3121.38128579	play	None
+3124.85929612	keypress	1
+3125.28460754	stop	None
+3125.28483545	trial_ok	None
+3125.35467562	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3125.35473122	flip	3125.35466898
+3126.6850062	keypress	1
+3126.70466503	flip	3126.70466033
+3126.72192489	flip	3126.72192102
+3126.75463684	screen_text	Great job, you passed that block of training!\n\n\n\nPress a button to continue.
+3126.7546728	flip	3126.7546327
+3128.6025486	keypress	1
+3128.63803133	flip	3128.63802442
+3128.65465919	flip	3128.6546556
+3128.80466453	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the talkers will both be male speakers, located in different places.\n\nLike last block, the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+3128.80471846	flip	3128.80465983
+3137.47317388	keypress	1
+3137.48815101	flip	3137.48814741
+3137.48818641	training	4
+3137.50479049	flip	3137.50478717
+3142.85322658	trial_id	[1, 0, 1, 0, 0, 0]
+3143.04277391	play	None
+3145.19429409	keypress	1
+3146.47142689	keypress	1
+3146.95507756	stop	None
+3146.9552106	trial_ok	None
+3147.03824757	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3147.03829874	flip	3147.0382448
+3148.63112481	keypress	1
+3148.63821775	flip	3148.63821581
+3148.65614557	flip	3148.65614225
+3149.01225419	trial_id	[0, 0, 1, 0, 0, 0]
+3149.20220534	play	None
+3153.11272168	stop	None
+3153.11289371	trial_ok	None
+3153.15505665	screen_text	Correct!\n\n\n\nPress a button to continue.
+3153.15509952	flip	3153.15505305
+3159.97194429	keypress	1
+3159.98839109	flip	3159.98838832
+3160.0050538	flip	3160.00505159
+3160.35286315	trial_id	[1, 0, 1, 0, 0, 0]
+3160.54158929	play	None
+3162.48146666	keypress	1
+3164.44314061	stop	None
+3164.44327061	trial_ok	None
+3164.48846162	screen_text	Correct!\n\n\n\nPress a button to continue.
+3164.48849232	flip	3164.48845913
+3168.37929706	keypress	1
+3168.38851716	flip	3168.38851467
+3168.40517019	flip	3168.40516825
+3168.74174152	trial_id	[0, 0, 1, 0, 0, 0]
+3168.9304378	play	None
+3170.95792114	keypress	1
+3172.25819634	keypress	1
+3172.8338713	stop	None
+3172.83401152	trial_ok	None
+3172.87196204	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+3172.87199412	flip	3172.87195982
+3174.44677106	keypress	1
+3174.45525845	flip	3174.45525623
+3174.47321116	flip	3174.47320673
+3174.82192052	trial_id	[1, 0, 1, 0, 0, 0]
+3175.01209017	play	None
+3177.30810423	keypress	1
+3178.54861879	keypress	1
+3178.92476472	stop	None
+3178.92492044	trial_ok	None
+3178.98889116	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+3178.98900456	flip	3178.98888258
+3180.71724599	keypress	1
+3180.73874304	flip	3180.73873945
+3180.75540908	flip	3180.75540548
+3180.78871265	screen_text	Great job, you passed that block of training!\n\n\n\nPress a button to continue.
+3180.78874667	flip	3180.78871043
+3184.22551095	keypress	1
+3184.23877845	flip	3184.2387743
+3184.25543563	flip	3184.25543397
+3184.45543408	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the talkers could be both male, or one male one female; and they could also be located in the same or different positions in space.\n\nLike last block, the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+3184.45548359	flip	3184.45543131
+3212.36617783	keypress	1
+3212.37246238	flip	3212.37245906
+3212.37250664	training	5
+3212.38914529	flip	3212.3891428
+3217.75280805	trial_id	[1, 0, 1, 1, 1, 0]
+3217.94297632	play	None
+3220.10556804	keypress	1
+3221.259657	keypress	1
+3221.85224442	stop	None
+3221.8523982	trial_ok	None
+3221.90596427	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3221.90600493	flip	3221.90596206
+3223.35959428	keypress	1
+3223.37387104	flip	3223.37386855
+3223.3905603	flip	3223.39055809
+3223.75228115	trial_id	[0, 0, 1, 1, 1, 0]
+3223.94196595	play	None
+3225.60769062	keypress	1
+3227.85164229	stop	None
+3227.85180271	trial_ok	None
+3227.88939643	screen_text	Correct!\n\n\n\nPress a button to continue.
+3227.88945147	flip	3227.88939311
+3228.92401702	keypress	1
+3228.93939618	flip	3228.93939341
+3228.95739646	flip	3228.95739425
+3229.31210168	trial_id	[1, 0, 1, 1, 1, 0]
+3229.50153119	play	None
+3231.37249447	keypress	1
+3232.70938791	keypress	1
+3233.41316936	stop	None
+3233.41332065	trial_ok	None
+3233.45615569	screen_text	Correct!\n\n\n\nPress a button to continue.
+3233.45620105	flip	3233.4561521
+3234.24338087	keypress	1
+3234.25614812	flip	3234.25614507
+3234.27278815	flip	3234.27278538
+3234.63171353	trial_id	[0, 0, 1, 1, 1, 0]
+3234.82130318	play	None
+3238.73131862	stop	None
+3238.73148983	trial_ok	None
+3238.77288108	screen_text	Correct!\n\n\n\nPress a button to continue.
+3238.77291953	flip	3238.77287831
+3239.28790616	keypress	1
+3239.30628671	flip	3239.30628422
+3239.3229793	flip	3239.32297681
+3239.68203025	trial_id	[0, 0, 1, 0, 1, 0]
+3239.87231662	play	None
+3243.7813676	stop	None
+3243.78159053	trial_ok	None
+3243.83955765	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3243.83960218	flip	3243.83955516
+3246.00689315	keypress	1
+3246.02297443	flip	3246.02297056
+3246.03960284	flip	3246.03960035
+3246.40193163	trial_id	[0, 1, 1, 1, 1, 0]
+3246.59256263	play	None
+3250.50123939	stop	None
+3250.50143051	trial_ok	None
+3250.53967365	screen_text	Correct!\n\n\n\nPress a button to continue.
+3250.53972012	flip	3250.53967033
+3251.14579282	keypress	1
+3251.15755063	flip	3251.15754897
+3251.17424571	flip	3251.17424405
+3251.54184569	trial_id	[0, 0, 1, 1, 1, 0]
+3251.7318729	play	None
+3253.79654809	keypress	1
+3255.643154	stop	None
+3255.64337001	trial_ok	None
+3255.6897982	screen_text	Incorrect:\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3255.68985047	flip	3255.68979488
+3256.55127193	keypress	1
+3256.57308703	flip	3256.57308509
+3256.58976799	flip	3256.58976578
+3256.94130933	trial_id	[1, 1, 1, 1, 1, 0]
+3257.13163857	play	None
+3259.11482388	keypress	1
+3261.0416825	stop	None
+3261.04190598	trial_ok	None
+3261.10778266	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3261.10782802	flip	3261.10778017
+3261.23593748	keypress	1
+3261.25774043	flip	3261.25773849
+3261.27440646	flip	3261.27440425
+3261.63147207	trial_id	[0, 0, 1, 1, 1, 0]
+3261.82231798	play	None
+3263.72552699	keypress	1
+3265.73097371	stop	None
+3265.73117783	trial_ok	None
+3265.77325281	screen_text	Correct!\n\n\n\nPress a button to continue.
+3265.77332832	flip	3265.77324728
+3266.20647419	keypress	1
+3266.22323757	flip	3266.22323453
+3266.2398989	flip	3266.23989724
+3266.60034192	trial_id	[0, 0, 1, 1, 1, 0]
+3266.79073395	play	None
+3268.5828529	keypress	1
+3269.91298794	keypress	1
+3270.70264899	stop	None
+3270.70289376	trial_ok	None
+3270.74000788	screen_text	Correct!\n\n\n\nPress a button to continue.
+3270.74005241	flip	3270.74000456
+3271.34269674	keypress	1
+3271.35666594	flip	3271.35666262
+3271.37330431	flip	3271.37330155
+3271.74027838	trial_id	[0, 0, 1, 0, 1, 0]
+3271.92989403	play	None
+3273.7288142	keypress	1
+3275.21140236	keypress	1
+3275.83242032	stop	None
+3275.83265072	trial_ok	None
+3275.87336406	screen_text	Correct!\n\n\n\nPress a button to continue.
+3275.87341799	flip	3275.87336101
+3276.65819148	keypress	1
+3276.67337556	flip	3276.67337307
+3276.69130311	flip	3276.69130089
+3277.04097001	trial_id	[1, 0, 1, 1, 1, 0]
+3277.23104867	play	None
+3279.14678405	keypress	1
+3281.14307987	stop	None
+3281.1433335	trial_ok	None
+3281.19009802	screen_text	Correct!\n\n\n\nPress a button to continue.
+3281.1901384	flip	3281.19009497
+3281.70748037	keypress	1
+3281.72343616	flip	3281.72343367
+3281.74011907	flip	3281.74011658
+3282.10099853	trial_id	[1, 0, 1, 1, 1, 0]
+3282.29145031	play	None
+3285.66522015	keypress	1
+3286.20247999	stop	None
+3286.20269047	trial_ok	None
+3286.24018821	screen_text	Correct!\n\n\n\nPress a button to continue.
+3286.24025542	flip	3286.2401824
+3287.07489951	keypress	1
+3287.09021053	flip	3287.09020694
+3287.10692082	flip	3287.10691639
+3287.48120895	trial_id	[1, 0, 1, 1, 1, 0]
+3287.67073167	play	None
+3289.6393586	keypress	1
+3291.5825015	stop	None
+3291.58266413	trial_ok	None
+3291.6235968	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3291.62363857	flip	3291.62359459
+3292.67261044	keypress	1
+3292.69028361	flip	3292.69028167
+3292.70690123	flip	3292.70689958
+3293.06106987	trial_id	[0, 0, 1, 0, 1, 0]
+3293.25112972	play	None
+3297.16040916	stop	None
+3297.1606603	trial_ok	None
+3297.20701851	screen_text	Correct!\n\n\n\nPress a button to continue.
+3297.20705972	flip	3297.20701547
+3297.63090678	keypress	1
+3297.64047166	flip	3297.64046806
+3297.65707795	flip	3297.65707518
+3298.0198548	trial_id	[1, 1, 1, 1, 1, 0]
+3298.21079973	play	None
+3302.12031842	stop	None
+3302.12049433	trial_ok	None
+3302.17495875	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3302.17498834	flip	3302.17495681
+3303.04632637	keypress	1
+3303.05710334	flip	3303.05710112
+3303.07497252	flip	3303.07497086
+3303.10708041	screen_text	You got 7 trials correct, need 8 to move on.\n\nPress a button to continue.
+3303.10710973	flip	3303.10707737
+3306.13110589	keypress	1
+3306.14055685	flip	3306.1405527
+3306.15718471	flip	3306.15718139
+3306.30708301	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the talkers could be both male, or one male one female; and they could also be located in the same or different positions in space.\n\nLike last block, the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+3306.30711592	flip	3306.30708107
+3306.91856189	keypress	1
+3306.94047404	flip	3306.94047238
+3306.94049616	training	5
+3306.95712569	flip	3306.9571243
+3312.32961656	trial_id	[1, 0, 0, 1, 0, 0]
+3312.51941697	play	None
+3315.10514583	keypress	1
+3316.43043199	stop	None
+3316.43057111	trial_ok	None
+3316.50729084	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3316.50733149	flip	3316.50728779
+3317.47308439	keypress	1
+3317.49064831	flip	3317.49064583
+3317.50724575	flip	3317.50724437
+3317.86953056	trial_id	[0, 0, 0, 0, 0, 0]
+3318.06027496	play	None
+3321.32865583	keypress	1
+3321.97035595	stop	None
+3321.97062009	trial_ok	None
+3322.02402214	screen_text	Correct!\n\n\n\nPress a button to continue.
+3322.0240711	flip	3322.02401882
+3322.59632687	keypress	1
+3322.60737525	flip	3322.60737221
+3322.62403437	flip	3322.62403188
+3322.98033245	trial_id	[0, 0, 0, 0, 0, 0]
+3323.1697307	play	None
+3324.83278829	keypress	1
+3327.08161614	stop	None
+3327.08174697	trial_ok	None
+3327.12420308	screen_text	Correct!\n\n\n\nPress a button to continue.
+3327.12428108	flip	3327.12419783
+3327.62421229	keypress	1
+3327.64075903	flip	3327.64075654
+3327.65870621	flip	3327.658704
+3328.03058445	trial_id	[1, 1, 0, 1, 0, 0]
+3328.22052011	play	None
+3330.09660955	keypress	1
+3331.74537243	keypress	1
+3332.13090285	stop	None
+3332.13103064	trial_ok	None
+3332.17429992	screen_text	Correct!\n\n\n\nPress a button to continue.
+3332.1744064	flip	3332.17429051
+3333.13530907	keypress	1
+3333.15752132	flip	3333.15751855
+3333.17415581	flip	3333.17415388
+3333.53021271	trial_id	[0, 0, 0, 1, 0, 0]
+3333.71954707	play	None
+3335.77237054	keypress	1
+3337.63019396	stop	None
+3337.63041274	trial_ok	None
+3337.6742529	screen_text	Correct!\n\n\n\nPress a button to continue.
+3337.6742977	flip	3337.67424985
+3338.2289875	keypress	1
+3338.24090734	flip	3338.24090568
+3338.25759328	flip	3338.2575919
+3338.62017127	trial_id	[1, 0, 0, 1, 0, 0]
+3338.81094333	play	None
+3342.16228942	keypress	1
+3342.72073031	stop	None
+3342.72096181	trial_ok	None
+3342.75768732	screen_text	Correct!\n\n\n\nPress a button to continue.
+3342.75777223	flip	3342.75768041
+3343.64827726	keypress	1
+3343.65768063	flip	3343.65767731
+3343.67431153	flip	3343.67430932
+3344.03008382	trial_id	[0, 0, 0, 0, 0, 0]
+3344.2195963	play	None
+3346.20268179	keypress	1
+3348.13024098	stop	None
+3348.13039421	trial_ok	None
+3348.17436353	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3348.17441719	flip	3348.17435966
+3348.79041171	keypress	1
+3348.8078132	flip	3348.80780767
+3348.82438021	flip	3348.82437827
+3349.19017131	trial_id	[1, 1, 0, 1, 0, 0]
+3349.38037996	play	None
+3352.89351657	keypress	1
+3353.29115602	stop	None
+3353.29132861	trial_ok	None
+3353.32449527	screen_text	Correct!\n\n\n\nPress a button to continue.
+3353.32454423	flip	3353.32449167
+3354.19452905	keypress	1
+3354.20905446	flip	3354.20905198
+3354.22568509	flip	3354.22568233
+3354.59011898	trial_id	[0, 0, 0, 1, 0, 0]
+3354.7811585	play	None
+3357.12171989	keypress	1
+3358.28531157	keypress	1
+3358.69081106	stop	None
+3358.69099692	trial_ok	None
+3358.75786157	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3358.75797359	flip	3358.75785881
+3359.60520661	keypress	1
+3359.62454688	flip	3359.62454384
+3359.64125606	flip	3359.64125357
+3359.98976434	trial_id	[1, 0, 0, 1, 0, 0]
+3360.1793161	play	None
+3362.10550219	keypress	1
+3363.50571979	keypress	1
+3364.09058088	stop	None
+3364.09071945	trial_ok	None
+3364.12455684	screen_text	Correct!\n\n\n\nPress a button to continue.
+3364.12458837	flip	3364.12455435
+3364.78019019	keypress	1
+3364.7912365	flip	3364.79123429
+3364.80792522	flip	3364.80792356
+3365.17874827	trial_id	[0, 0, 0, 1, 0, 0]
+3365.36823143	play	None
+3367.19029348	keypress	1
+3369.26912558	stop	None
+3369.26932555	trial_ok	None
+3369.32467948	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3369.32475609	flip	3369.32467616
+3369.89590628	keypress	1
+3369.90801986	flip	3369.90801599
+3369.92472268	flip	3369.92471908
+3370.2886175	trial_id	[1, 0, 0, 1, 0, 0]
+3370.47876447	play	None
+3372.33178258	keypress	1
+3373.80298386	keypress	1
+3374.39027321	stop	None
+3374.39040182	trial_ok	None
+3374.44149464	screen_text	Correct!\n\n\n\nPress a button to continue.
+3374.44152534	flip	3374.44149243
+3375.22441874	keypress	1
+3375.24141792	flip	3375.24141432
+3375.25807814	flip	3375.25807648
+3375.6095542	trial_id	[0, 0, 0, 1, 0, 0]
+3375.79974571	play	None
+3379.21615981	keypress	1
+3379.70958109	stop	None
+3379.70986652	trial_ok	None
+3379.75815641	screen_text	Correct!\n\n\n\nPress a button to continue.
+3379.75819375	flip	3379.75815393
+3383.95154541	keypress	1
+3383.97492766	flip	3383.97492157
+3383.99155054	flip	3383.99154833
+3384.35841342	trial_id	[1, 0, 0, 1, 0, 0]
+3384.54949332	play	None
+3388.45891493	stop	None
+3388.45915362	trial_ok	None
+3388.50835155	screen_text	Correct!\n\n\n\nPress a button to continue.
+3388.50838169	flip	3388.50834933
+3389.08306772	keypress	1
+3389.09159236	flip	3389.09158932
+3389.1082808	flip	3389.10827914
+3389.46922056	trial_id	[0, 1, 0, 1, 0, 0]
+3389.6592475	play	None
+3391.38547046	keypress	1
+3392.79265126	keypress	1
+3393.57068597	stop	None
+3393.57084833	trial_ok	None
+3393.62510863	screen_text	Correct!\n\n\n\nPress a button to continue.
+3393.62517667	flip	3393.62510337
+3394.26381158	keypress	1
+3394.27503376	flip	3394.27503099
+3394.29169094	flip	3394.29168872
+3394.65825289	trial_id	[0, 0, 0, 1, 0, 0]
+3394.84881391	play	None
+3396.98914861	keypress	1
+3398.24342573	keypress	1
+3398.75885618	stop	None
+3398.75908658	trial_ok	None
+3398.8084098	screen_text	Incorrect:\n\n    - Pressed to 2 non-target "O"s\n\nPress a button to continue.
+3398.80851822	flip	3398.80840731
+3400.19140141	keypress	1
+3400.20974178	flip	3400.20973929
+3400.22636633	flip	3400.22636439
+3400.25967875	screen_text	You got 6 trials correct, need 8 to move on.\n\nPress a button to continue.
+3400.25971609	flip	3400.25967654
+3401.63626541	keypress	1
+3401.65845009	flip	3401.65844788
+3401.67511308	flip	3401.67511142
+3401.82511427	screen_text	You will now do a training block of trials.\n\nThis set of trials is like the previous set of trials, except that the talkers could be both male, or one male one female; and they could also be located in the same or different positions in space.\n\nLike last block, the first two letters could be either "AU" or "AA".\n\nOn "AA" trials, you should maintain attention to the talker that said "AA" for all four subsequent letters.\n\nOn "AU" trials, you should switch attention from the talker that said "AU" to the other talker after the first two letters following the "AU" cue.\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\nYour job is to press a button as quickly as possible after the talker you're supposed to attend to says the letter "O". Please try to keep your eyes centered on the fixation dot at the center of the screen.\n\nPress a button to continue.
+3401.82515991	flip	3401.82511206
+3402.45878317	keypress	1
+3402.47514423	flip	3402.47514146
+3402.47517935	training	5
+3402.4917519	flip	3402.49175024
+3406.16963629	keypress	1
+3407.86804556	trial_id	[1, 0, 0, 1, 1, 0]
+3408.05945765	play	None
+3409.8742876	keypress	1
+3411.96985837	stop	None
+3411.97005281	trial_ok	None
+3412.00978205	screen_text	Correct!\n\n\n\nPress a button to continue.
+3412.00981386	flip	3412.00977957
+3412.46361496	keypress	1
+3412.47531128	flip	3412.47530658
+3412.49192974	flip	3412.49192781
+3412.8579269	trial_id	[0, 0, 0, 1, 1, 0]
+3413.04761944	play	None
+3414.88010308	keypress	1
+3416.34085956	keypress	1
+3416.95976294	stop	None
+3416.95989736	trial_ok	None
+3416.99198119	screen_text	Correct!\n\n\n\nPress a button to continue.
+3416.9920177	flip	3416.99197897
+3417.6656698	keypress	1
+3417.67533048	flip	3417.67532882
+3417.69320796	flip	3417.6932063
+3418.05787557	trial_id	[0, 0, 0, 0, 1, 0]
+3418.24778855	play	None
+3422.15830489	stop	None
+3422.15849656	trial_ok	None
+3422.2087422	screen_text	Correct!\n\n\n\nPress a button to continue.
+3422.20877179	flip	3422.20874026
+3423.54097064	keypress	1
+3423.55876148	flip	3423.55875982
+3423.57538906	flip	3423.57538768
+3423.93776763	trial_id	[1, 0, 0, 1, 1, 0]
+3424.12877064	play	None
+3427.45234621	keypress	1
+3428.04044671	stop	None
+3428.04060685	trial_ok	None
+3428.09216019	screen_text	Correct!\n\n\n\nPress a button to continue.
+3428.09219394	flip	3428.09215771
+3428.73750717	keypress	1
+3428.75891177	flip	3428.7589079
+3428.77548515	flip	3428.77548349
+3429.13862406	trial_id	[0, 0, 0, 1, 1, 0]
+3429.32808371	play	None
+3433.23809915	stop	None
+3433.23824685	trial_ok	None
+3433.27563257	screen_text	Correct!\n\n\n\nPress a button to continue.
+3433.27569646	flip	3433.27562759
+3433.9499381	keypress	1
+3433.95897854	flip	3433.95897218
+3433.97565038	flip	3433.97564513
+3434.3475878	trial_id	[1, 0, 0, 1, 1, 0]
+3434.53725213	play	None
+3436.39195077	keypress	1
+3437.88273093	keypress	1
+3438.45026494	stop	None
+3438.45043643	trial_ok	None
+3438.49231282	screen_text	Correct!\n\n\n\nPress a button to continue.
+3438.4923496	flip	3438.49231005
+3439.09797317	keypress	1
+3439.10896092	flip	3439.10895926
+3439.12687104	flip	3439.12686966
+3439.48751292	trial_id	[1, 1, 0, 1, 1, 0]
+3439.6774118	play	None
+3443.58791956	stop	None
+3443.58810128	trial_ok	None
+3443.64238896	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3443.64245451	flip	3443.64238315
+3444.73528174	keypress	1
+3444.75907468	flip	3444.75907302
+3444.77572771	flip	3444.77572605
+3445.15738938	trial_id	[1, 1, 0, 1, 1, 0]
+3445.34800545	play	None
+3447.05470005	keypress	1
+3448.81511989	keypress	1
+3449.26006791	stop	None
+3449.2602239	trial_ok	None
+3449.29244962	screen_text	Correct!\n\n\n\nPress a button to continue.
+3449.29249553	flip	3449.29244713
+3449.95069493	keypress	1
+3449.95914532	flip	3449.95914228
+3449.97578342	flip	3449.97578121
+3450.33829503	trial_id	[0, 0, 0, 1, 1, 0]
+3450.52841241	play	None
+3454.43772006	stop	None
+3454.43786029	trial_ok	None
+3454.49249951	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3454.49254072	flip	3454.49249675
+3457.5309455	keypress	1
+3457.54258915	flip	3457.54258666
+3457.55926016	flip	3457.55925767
+3457.90829009	trial_id	[1, 0, 0, 1, 1, 0]
+3458.09944329	play	None
+3459.8245733	keypress	1
+3462.00897829	stop	None
+3462.00920565	trial_ok	None
+3462.05940924	screen_text	Correct!\n\n\n\nPress a button to continue.
+3462.05949554	flip	3462.05940288
+3462.57327602	keypress	1
+3462.59267271	flip	3462.59266939
+3462.60933874	flip	3462.60933708
+3462.96811311	trial_id	[1, 0, 0, 0, 1, 0]
+3463.15785543	play	None
+3467.0676225	stop	None
+3467.06776992	trial_ok	None
+3467.12601666	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3467.1261226	flip	3467.12601418
+3468.01156758	keypress	1
+3468.02615103	flip	3468.02614605
+3468.04268015	flip	3468.04267794
+3468.39801101	trial_id	[1, 0, 0, 1, 1, 0]
+3468.58835657	play	None
+3472.30932228	keypress	1
+3472.4985363	stop	None
+3472.49873738	trial_ok	None
+3472.54277142	screen_text	Correct!\n\n\n\nPress a button to continue.
+3472.54281568	flip	3472.54276894
+3473.3819418	keypress	1
+3473.39280066	flip	3473.39279817
+3473.40943046	flip	3473.40942852
+3473.76778413	trial_id	[0, 1, 0, 1, 1, 0]
+3473.95749576	play	None
+3476.16887413	keypress	1
+3477.8693328	stop	None
+3477.86968158	trial_ok	None
+3477.92614959	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3477.92619938	flip	3477.92614544
+3479.02308981	keypress	1
+3479.04420193	flip	3479.04419889
+3479.06072497	flip	3479.06072331
+3479.41782543	trial_id	[0, 0, 0, 0, 1, 0]
+3479.60905911	play	None
+3482.89834469	keypress	1
+3483.51859357	stop	None
+3483.51884858	trial_ok	None
+3483.57637454	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n\nPress a button to continue.
+3483.57649486	flip	3483.57636735
+3485.13045989	keypress	1
+3485.14457289	flip	3485.14457068
+3485.16087438	flip	3485.16087217
+3485.54675207	trial_id	[0, 0, 0, 1, 1, 0]
+3485.73715986	play	None
+3487.59872865	keypress	1
+3489.64874548	stop	None
+3489.64902041	trial_ok	None
+3489.69312499	screen_text	Correct!\n\n\n\nPress a button to continue.
+3489.69320077	flip	3489.69312001
+3490.30462817	keypress	1
+3490.32640095	flip	3490.32639874
+3490.34300669	flip	3490.34300475
+3490.69790773	trial_id	[0, 0, 0, 1, 1, 0]
+3490.88831829	play	None
+3493.01921984	keypress	1
+3494.7985196	stop	None
+3494.79875165	trial_ok	None
+3494.85974187	screen_text	Incorrect:\n\n    - Missed 1 target "O"\n\n    - Pressed to 1 non-target "O"\n\nPress a button to continue.
+3494.85977201	flip	3494.85973993
+3495.79401408	keypress	1
+3495.80975788	flip	3495.80975539
+3495.82644161	flip	3495.82643995
+3495.85971283	screen_text	Great job, you passed that block of training!\n\n\n\nPress a button to continue.
+3495.85973523	flip	3495.85971089
+3498.59813568	keypress	1
+3498.60980949	flip	3498.60980617
+3585.58270258	flip	3585.58269594
+3585.60222741	flip	3585.60222547
+3585.76243632	screen_text	You are ready to start experimental block 1/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\n\n\nPress a button to continue.
+3585.76248666	flip	3585.76243162
+3606.13238976	keypress	1
+3606.14479859	flip	3606.14479278
+3606.14528261	block	RM0
+3611.56231451	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+3611.56234383	flip	3611.56231202
+3613.45960128	keypress	1
+3613.47804618	flip	3613.47804452
+3613.49471027	flip	3613.49470889
+3614.01139262	flip	3614.01139069
+3641.81182011	flip	3641.81181569
+3641.82843885	flip	3641.82843664
+3641.84510958	flip	3641.84510792
+3642.92845992	flip	3642.92845799
+3642.94512817	flip	3642.94512678
+3642.96178618	flip	3642.96178479
+3643.945142	flip	3643.94513978
+3643.96181218	flip	3643.96181052
+3643.97847268	flip	3643.97847074
+3644.94517685	flip	3644.94517491
+3644.96182435	flip	3644.96182269
+3644.97848927	flip	3644.97848761
+3647.29518534	flip	3647.29518313
+3647.31184971	flip	3647.31184833
+3647.32851187	flip	3647.32851021
+3649.01203181	flip	3649.01202379
+3651.4953171	flip	3651.4953113
+3651.51198701	flip	3651.51198286
+3652.69526605	flip	3652.69526411
+3652.71192876	flip	3652.71192737
+3652.7285887	flip	3652.72858704
+3653.7119401	flip	3653.71193816
+3653.72860834	flip	3653.72860668
+3655.76197857	flip	3655.76197636
+3655.7786363	flip	3655.77863437
+3655.79530925	flip	3655.79530731
+3656.87880425	flip	3656.87879512
+3656.89547	flip	3656.89546281
+3656.91212884	flip	3656.91212193
+3658.06200916	flip	3658.06200723
+3659.94657693	flip	3659.94657527
+3660.71356643	flip	3660.71354569
+3660.72993513	flip	3660.72993375
+3661.395392	flip	3661.39538758
+3661.41214627	flip	3661.41214239
+3666.81369842	trial_id	[0, 1, 1, 1, 0, 0]
+3667.00334338	play	None
+3669.15186802	keypress	1
+3670.36915826	keypress	1
+3672.91471216	stop	None
+3672.91489775	trial_ok	None
+3673.2948089	trial_id	[0, 0, 1, 1, 0, 0]
+3673.48523219	play	None
+3673.58554986	keypress	1
+3675.45283434	keypress	1
+3679.39583925	stop	None
+3679.39596952	trial_ok	None
+3679.79443523	trial_id	[1, 1, 1, 1, 0, 0]
+3679.98561581	play	None
+3681.87763063	keypress	1
+3683.32040567	keypress	1
+3685.89536932	stop	None
+3685.89564232	trial_ok	None
+3686.29453536	trial_id	[1, 0, 1, 0, 0, 0]
+3686.48447683	play	None
+3692.39385612	stop	None
+3692.39398556	trial_ok	None
+3692.78424438	trial_id	[0, 0, 1, 1, 0, 0]
+3692.97475783	play	None
+3698.8836152	stop	None
+3698.88377147	trial_ok	None
+3699.26318532	trial_id	[1, 1, 1, 1, 0, 0]
+3699.45423231	play	None
+3702.82349753	keypress	1
+3705.36424719	stop	None
+3705.36438023	trial_ok	None
+3705.73309569	trial_id	[0, 0, 1, 1, 0, 0]
+3705.92290218	play	None
+3709.55978702	keypress	1
+3711.83426239	stop	None
+3711.83443996	trial_ok	None
+3712.24297344	trial_id	[1, 0, 1, 1, 0, 0]
+3712.43316467	play	None
+3715.56836917	keypress	1
+3718.34616172	stop	None
+3718.34640788	trial_ok	None
+3718.73289185	trial_id	[1, 0, 1, 0, 0, 0]
+3718.92379667	play	None
+3724.83354603	stop	None
+3724.83379274	trial_ok	None
+3725.23359161	trial_id	[1, 0, 1, 1, 0, 0]
+3725.42414268	play	None
+3727.13696858	keypress	1
+3731.33568571	stop	None
+3731.33594653	trial_ok	None
+3731.74265675	trial_id	[0, 0, 1, 0, 0, 0]
+3731.93231582	play	None
+3733.85105791	keypress	1
+3737.84455447	stop	None
+3737.84474532	trial_ok	None
+3738.2325652	trial_id	[0, 1, 1, 1, 0, 0]
+3738.42340917	play	None
+3740.37809947	keypress	1
+3744.33307279	stop	None
+3744.3333408	trial_ok	None
+3744.75247227	trial_id	[0, 0, 1, 1, 0, 0]
+3744.94279294	play	None
+3746.50893912	keypress	1
+3748.25133656	keypress	1
+3750.85431357	stop	None
+3750.85443803	trial_ok	None
+3751.24347822	trial_id	[1, 1, 1, 1, 0, 0]
+3751.43334307	play	None
+3754.80333069	keypress	1
+3757.34482857	stop	None
+3757.34499729	trial_ok	None
+3757.75322542	trial_id	[0, 0, 1, 1, 0, 0]
+3757.9435613	play	None
+3763.85258352	stop	None
+3763.85272845	trial_ok	None
+3764.23305033	trial_id	[1, 0, 1, 0, 0, 0]
+3764.42398364	play	None
+3767.29256886	keypress	1
+3770.33498539	stop	None
+3770.33524538	trial_ok	None
+3770.71318197	trial_id	[0, 0, 1, 0, 0, 0]
+3770.90287009	play	None
+3772.80952288	keypress	1
+3774.14793184	keypress	1
+3776.81511012	stop	None
+3776.8153029	trial_ok	None
+3777.19191381	trial_id	[1, 0, 1, 1, 0, 0]
+3777.38163844	play	None
+3780.74522958	keypress	1
+3783.29236443	stop	None
+3783.29253508	trial_ok	None
+3783.67183248	trial_id	[0, 1, 1, 1, 0, 0]
+3783.86222396	play	None
+3787.05172002	keypress	1
+3789.77324562	stop	None
+3789.77337341	trial_ok	None
+3790.1426755	trial_id	[0, 0, 1, 0, 0, 0]
+3790.33227622	play	None
+3794.86286508	keypress	1
+3796.24226344	stop	None
+3796.24244101	trial_ok	None
+3796.63158021	trial_id	[0, 0, 1, 1, 0, 0]
+3796.821421	play	None
+3802.73202115	stop	None
+3802.73218931	trial_ok	None
+3803.11251341	trial_id	[0, 1, 1, 1, 0, 0]
+3803.30314441	play	None
+3805.01281581	keypress	1
+3806.62483757	keypress	1
+3809.21316676	stop	None
+3809.21339467	trial_ok	None
+3809.60140373	trial_id	[1, 1, 1, 1, 0, 0]
+3809.7920115	play	None
+3812.44513945	keypress	1
+3815.70391437	stop	None
+3815.70408668	trial_ok	None
+3816.08126239	trial_id	[1, 0, 1, 0, 0, 0]
+3816.27205132	play	None
+3819.62222129	keypress	1
+3822.18356143	stop	None
+3822.18379626	trial_ok	None
+3822.57231286	trial_id	[0, 0, 1, 0, 0, 0]
+3822.76194427	play	None
+3825.31678859	keypress	1
+3826.08630411	keypress	1
+3828.6723024	stop	None
+3828.67243683	trial_ok	None
+3829.05230151	trial_id	[1, 0, 1, 0, 0, 0]
+3829.24280639	play	None
+3831.15385505	keypress	1
+3835.15143695	stop	None
+3835.15157857	trial_ok	None
+3835.55189741	trial_id	[1, 0, 1, 1, 0, 0]
+3835.74167763	play	None
+3837.56203739	keypress	1
+3841.65334513	stop	None
+3841.6536065	trial_ok	None
+3842.0608226	trial_id	[0, 1, 1, 1, 0, 0]
+3842.25143314	play	None
+3848.16120628	stop	None
+3848.1613609	trial_ok	None
+3848.54158625	trial_id	[0, 0, 1, 1, 0, 0]
+3848.73194287	play	None
+3851.15017931	keypress	1
+3854.64234	stop	None
+3854.64247194	trial_ok	None
+3855.0406276	trial_id	[1, 0, 1, 0, 0, 0]
+3855.2301221	play	None
+3861.13085805	stop	None
+3861.13104004	trial_ok	None
+3861.5214568	trial_id	[1, 0, 1, 0, 0, 0]
+3861.71208945	play	None
+3863.65125707	keypress	1
+3865.09415499	keypress	1
+3867.62123281	stop	None
+3867.62137941	trial_ok	None
+3868.0104124	trial_id	[1, 0, 1, 1, 0, 0]
+3868.20051539	play	None
+3874.1111349	stop	None
+3874.11139019	trial_ok	None
+3874.51031808	trial_id	[0, 1, 1, 1, 0, 0]
+3874.70114684	play	None
+3876.69398305	keypress	1
+3880.61188887	stop	None
+3880.61208636	trial_ok	None
+3881.0001997	trial_id	[0, 0, 1, 1, 0, 0]
+3881.19049077	play	None
+3883.19464594	keypress	1
+3887.10113683	stop	None
+3887.10129116	trial_ok	None
+3887.47009568	trial_id	[1, 0, 1, 1, 0, 0]
+3887.65979044	play	None
+3890.84623602	keypress	1
+3893.57289978	stop	None
+3893.57304111	trial_ok	None
+3893.9599914	trial_id	[1, 1, 1, 1, 0, 0]
+3894.1495462	play	None
+3900.05040855	stop	None
+3900.05055514	trial_ok	None
+3900.43103716	trial_id	[0, 1, 1, 1, 0, 0]
+3900.62168172	play	None
+3903.83844977	keypress	1
+3906.5321751	stop	None
+3906.53236594	trial_ok	None
+3906.90978642	trial_id	[0, 0, 1, 0, 0, 0]
+3907.10052834	play	None
+3908.96514893	keypress	1
+3910.19288397	keypress	1
+3913.01180971	stop	None
+3913.01200637	trial_ok	None
+3913.39965062	trial_id	[1, 1, 1, 1, 0, 0]
+3913.59031149	play	None
+3919.50005919	stop	None
+3919.50019029	trial_ok	None
+3919.89035812	trial_id	[0, 0, 1, 0, 0, 0]
+3920.08104693	play	None
+3923.45960482	keypress	1
+3925.99071691	stop	None
+3925.99099488	trial_ok	None
+3926.38054619	trial_id	[0, 0, 1, 0, 0, 0]
+3926.57107679	play	None
+3928.51497762	keypress	1
+3930.59877666	keypress	1
+3932.48095394	stop	None
+3932.48107564	trial_ok	None
+3932.86022866	trial_id	[1, 0, 1, 0, 0, 0]
+3933.05024232	play	None
+3938.95958731	stop	None
+3938.95972948	trial_ok	None
+3939.3400898	trial_id	[0, 0, 1, 1, 0, 0]
+3939.53084471	play	None
+3945.43947335	stop	None
+3945.43962436	trial_ok	None
+3945.83017139	trial_id	[1, 0, 1, 1, 0, 0]
+3946.02045998	play	None
+3947.76834985	keypress	1
+3948.99157929	keypress	1
+3951.930869	stop	None
+3951.93112152	trial_ok	None
+3952.32903406	trial_id	[0, 0, 1, 1, 0, 0]
+3952.51852027	play	None
+3954.53300518	keypress	1
+3955.55692326	keypress	1
+3958.41962546	stop	None
+3958.41983151	trial_ok	None
+3958.81891181	trial_id	[1, 0, 1, 0, 0, 0]
+3959.00839359	play	None
+3960.83750966	keypress	1
+3964.91051883	stop	None
+3964.91077412	trial_ok	None
+3965.29880559	trial_id	[1, 0, 1, 0, 0, 0]
+3965.48987	play	None
+3971.39926035	stop	None
+3971.39939284	trial_ok	None
+3971.77963257	trial_id	[1, 0, 1, 1, 0, 0]
+3971.97075119	play	None
+3975.34634116	keypress	1
+3977.87954384	stop	None
+3977.87984477	trial_ok	None
+3978.14979347	screen_text	You are done with block 1/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+3978.14983911	flip	3978.14979126
+4002.67960452	keypress	1
+4002.7001113	flip	4002.70010936
+4002.71677263	flip	4002.71677124
+4002.78345086	screen_text	You are ready to start experimental block 2/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\n\n\nPress a button to continue.
+4002.78347741	flip	4002.7834492
+4008.6744282	keypress	1
+4008.68357665	flip	4008.68357388
+4008.68385849	block	RF0
+4008.83702052	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+4008.83711345	flip	4008.83701056
+4017.34869124	keypress	1
+4017.36698485	flip	4017.36698319
+4017.38364839	flip	4017.38364701
+4017.91698709	flip	4017.91698516
+4020.81707306	flip	4020.81706974
+4020.83372802	flip	4020.83372609
+4020.85038963	flip	4020.85038797
+4021.63387423	flip	4021.63386565
+4021.6504913	flip	4021.65048798
+4021.66708819	flip	4021.66708514
+4022.80038932	flip	4022.80038739
+4022.81705452	flip	4022.81705287
+4022.83494556	flip	4022.83494418
+4023.81719475	flip	4023.81718812
+4023.83386576	flip	4023.83386106
+4023.8504231	flip	4023.85042116
+4024.81708467	flip	4024.81708274
+4024.833746	flip	4024.83374407
+4024.85041203	flip	4024.8504101
+4025.81725173	flip	4025.81724454
+4027.58380007	flip	4027.58379814
+4027.6004531	flip	4027.60045145
+4028.45046879	flip	4028.45046685
+4028.46713261	flip	4028.46713122
+4028.4838003	flip	4028.48379836
+4029.45048566	flip	4029.45048372
+4029.46718073	flip	4029.46717935
+4029.48383957	flip	4029.48383819
+4030.48381827	flip	4030.48381634
+4030.50048845	flip	4030.50048679
+4030.51716333	flip	4030.51716167
+4031.50051528	flip	4031.50051335
+4031.51718021	flip	4031.51717882
+4031.53383434	flip	4031.53383268
+4032.30066702	flip	4032.30066342
+4033.95054291	flip	4033.9505407
+4034.53403072	flip	4034.53402298
+4034.5506843	flip	4034.55068181
+4035.21723038	flip	4035.21722844
+4035.23389669	flip	4035.23389475
+4040.58848325	trial_id	[0, 0, 1, 1, 1, 0]
+4040.7782737	play	None
+4046.68791989	stop	None
+4046.68805708	trial_ok	None
+4047.06855404	trial_id	[1, 1, 1, 1, 1, 0]
+4047.25878316	play	None
+4048.94805103	keypress	1
+4053.16982142	stop	None
+4053.17004988	trial_ok	None
+4053.54833829	trial_id	[1, 1, 1, 1, 1, 0]
+4053.73841778	play	None
+4055.65248212	keypress	1
+4057.02992596	keypress	1
+4059.64881408	stop	None
+4059.64894767	trial_ok	None
+4060.0372596	trial_id	[0, 0, 1, 0, 1, 0]
+4060.22671897	play	None
+4062.69657426	keypress	1
+4066.12870952	stop	None
+4066.12891972	trial_ok	None
+4066.53710305	trial_id	[0, 0, 1, 0, 1, 0]
+4066.72720051	play	None
+4068.9622069	keypress	1
+4072.63847193	stop	None
+4072.6386744	trial_ok	None
+4073.02700071	trial_id	[0, 0, 1, 0, 1, 0]
+4073.21810854	play	None
+4076.72211821	keypress	1
+4079.12936669	stop	None
+4079.12963747	trial_ok	None
+4079.53691359	trial_id	[1, 1, 1, 1, 1, 0]
+4079.72835803	play	None
+4085.63737554	stop	None
+4085.63765158	trial_ok	None
+4086.05686298	trial_id	[0, 0, 1, 1, 1, 0]
+4086.24722486	play	None
+4087.99495009	keypress	1
+4089.56699489	keypress	1
+4092.15761674	stop	None
+4092.15779818	trial_ok	None
+4092.54784044	trial_id	[1, 0, 1, 1, 1, 0]
+4092.73740049	play	None
+4098.64726934	stop	None
+4098.64754178	trial_ok	None
+4099.06660244	trial_id	[0, 0, 1, 1, 1, 0]
+4099.2570213	play	None
+4102.56175642	keypress	1
+4105.16852284	stop	None
+4105.16875435	trial_ok	None
+4105.56649374	trial_id	[1, 0, 1, 1, 1, 0]
+4105.7561542	play	None
+4107.70013511	keypress	1
+4111.66739077	stop	None
+4111.66753543	trial_ok	None
+4112.07638063	trial_id	[1, 0, 1, 1, 1, 0]
+4112.26679423	play	None
+4114.3550827	keypress	1
+4118.17829494	stop	None
+4118.17856655	trial_ok	None
+4118.55732461	trial_id	[1, 0, 1, 0, 1, 0]
+4118.74801009	play	None
+4120.72580038	keypress	1
+4121.9806919	keypress	1
+4124.65740764	stop	None
+4124.6575321	trial_ok	None
+4125.03712462	trial_id	[1, 1, 1, 1, 1, 0]
+4125.22727326	play	None
+4131.13654744	stop	None
+4131.13672805	trial_ok	None
+4131.52605699	trial_id	[1, 1, 1, 1, 1, 0]
+4131.71706802	play	None
+4133.83753614	keypress	1
+4137.62682458	stop	None
+4137.62709287	trial_ok	None
+4138.02592478	trial_id	[0, 0, 1, 1, 1, 0]
+4138.21596638	play	None
+4140.24263122	keypress	1
+4141.4152341	keypress	1
+4144.12768587	stop	None
+4144.12781337	trial_ok	None
+4144.51583184	trial_id	[1, 1, 1, 1, 1, 0]
+4144.70646201	play	None
+4146.56324167	keypress	1
+4149.59571527	keypress	1
+4150.61784186	stop	None
+4150.61810019	trial_ok	None
+4151.01572812	trial_id	[0, 0, 1, 0, 1, 0]
+4151.20618377	play	None
+4155.29653586	keypress	1
+4157.11684448	stop	None
+4157.11705856	trial_ok	None
+4157.50560365	trial_id	[0, 1, 1, 1, 1, 0]
+4157.69644126	play	None
+4160.46164578	keypress	1
+4163.60674021	stop	None
+4163.60703118	trial_ok	None
+4164.0055027	trial_id	[0, 0, 1, 0, 1, 0]
+4164.19585213	play	None
+4170.1059901	stop	None
+4170.10624677	trial_ok	None
+4170.4865114	trial_id	[1, 0, 1, 1, 1, 0]
+4170.6767491	play	None
+4174.04591337	keypress	1
+4176.58624981	stop	None
+4176.58650869	trial_ok	None
+4176.97528114	trial_id	[1, 0, 1, 0, 1, 0]
+4177.16601724	play	None
+4179.17374524	keypress	1
+4183.07726045	stop	None
+4183.07749638	trial_ok	None
+4183.45520894	trial_id	[1, 1, 1, 1, 1, 0]
+4183.64624763	play	None
+4185.28786883	keypress	1
+4187.17047235	keypress	1
+4189.55725214	stop	None
+4189.55740011	trial_ok	None
+4189.96516967	trial_id	[1, 0, 1, 1, 1, 0]
+4190.15603023	play	None
+4193.51891568	keypress	1
+4196.06739127	stop	None
+4196.0675669	trial_ok	None
+4196.45584453	trial_id	[1, 0, 1, 0, 1, 0]
+4196.64702733	play	None
+4201.07895869	keypress	1
+4202.55691332	stop	None
+4202.55715561	trial_ok	None
+4202.94587468	trial_id	[0, 0, 1, 1, 1, 0]
+4203.13638315	play	None
+4209.04529666	stop	None
+4209.04556634	trial_ok	None
+4209.43585088	trial_id	[1, 0, 1, 0, 1, 0]
+4209.62628302	play	None
+4215.53503999	stop	None
+4215.53517911	trial_ok	None
+4215.90547692	trial_id	[1, 1, 1, 1, 1, 0]
+4216.09606505	play	None
+4222.00532098	stop	None
+4222.00559425	trial_ok	None
+4222.39453265	trial_id	[0, 0, 1, 1, 1, 0]
+4222.58482151	play	None
+4225.94793635	keypress	1
+4228.49630867	stop	None
+4228.49644143	trial_ok	None
+4228.8753848	trial_id	[0, 0, 1, 1, 1, 0]
+4229.06567062	play	None
+4230.70321194	keypress	1
+4234.97521171	stop	None
+4234.97548277	trial_ok	None
+4235.3843158	trial_id	[0, 1, 1, 1, 1, 0]
+4235.57532849	play	None
+4241.48484496	stop	None
+4241.48508864	trial_ok	None
+4241.8742472	trial_id	[1, 0, 1, 0, 1, 0]
+4242.06410348	play	None
+4243.7389662	keypress	1
+4247.9755887	stop	None
+4247.97573197	trial_ok	None
+4248.35507557	trial_id	[0, 1, 1, 1, 1, 0]
+4248.54573644	play	None
+4250.37329009	keypress	1
+4254.45711517	stop	None
+4254.45739121	trial_ok	None
+4254.84490076	trial_id	[0, 0, 1, 0, 1, 0]
+4255.03520926	play	None
+4257.11690095	keypress	1
+4260.94751152	stop	None
+4260.94782074	trial_ok	None
+4261.34510101	trial_id	[0, 0, 1, 1, 1, 0]
+4261.53673574	play	None
+4263.20108524	keypress	1
+4264.56210412	keypress	1
+4267.44674869	stop	None
+4267.4469282	trial_ok	None
+4267.83479786	trial_id	[0, 1, 1, 1, 1, 0]
+4268.02422847	play	None
+4273.93427185	stop	None
+4273.93458688	trial_ok	None
+4274.32370064	trial_id	[0, 1, 1, 1, 1, 0]
+4274.51448708	play	None
+4276.3812739	keypress	1
+4277.8597251	keypress	1
+4280.42465215	stop	None
+4280.42487702	trial_ok	None
+4280.81357921	trial_id	[1, 0, 1, 1, 1, 0]
+4281.00317273	play	None
+4283.0233149	keypress	1
+4284.38142562	keypress	1
+4286.90627736	stop	None
+4286.90645687	trial_ok	None
+4287.30346304	trial_id	[0, 1, 1, 1, 1, 0]
+4287.49279546	play	None
+4289.39539037	keypress	1
+4293.39603701	stop	None
+4293.39621125	trial_ok	None
+4293.77428725	trial_id	[1, 1, 1, 1, 1, 0]
+4293.96514145	play	None
+4297.28888928	keypress	1
+4299.87643113	stop	None
+4299.87666291	trial_ok	None
+4300.27323954	trial_id	[1, 0, 1, 1, 1, 0]
+4300.46405115	play	None
+4302.3757287	keypress	1
+4306.37468116	stop	None
+4306.37486067	trial_ok	None
+4306.78313804	trial_id	[1, 0, 1, 1, 1, 0]
+4306.97319816	play	None
+4312.88355657	stop	None
+4312.88369846	trial_ok	None
+4313.28305008	trial_id	[1, 0, 1, 1, 1, 0]
+4313.47345787	play	None
+4317.00150895	keypress	1
+4319.38408374	stop	None
+4319.38431497	trial_ok	None
+4319.7639913	trial_id	[1, 0, 1, 0, 1, 0]
+4319.95471689	play	None
+4325.86332644	stop	None
+4325.86346556	trial_ok	None
+4326.25282299	trial_id	[0, 0, 1, 1, 1, 0]
+4326.44395572	play	None
+4329.49784015	keypress	1
+4332.35496189	stop	None
+4332.35508995	trial_ok	None
+4332.72390166	trial_id	[0, 0, 1, 1, 1, 0]
+4332.91486484	play	None
+4335.9708627	keypress	1
+4338.8242386	stop	None
+4338.82452569	trial_ok	None
+4339.21261497	trial_id	[0, 1, 1, 1, 1, 0]
+4339.40337126	play	None
+4341.26731183	keypress	1
+4342.38896047	keypress	1
+4345.31537619	stop	None
+4345.3156431	trial_ok	None
+4345.69355895	trial_id	[0, 0, 1, 1, 1, 0]
+4345.88339255	play	None
+4351.79313389	stop	None
+4351.79340633	trial_ok	None
+4352.07161558	screen_text	You are done with block 2/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+4352.07164684	flip	4352.07161337
+4441.08303023	keypress	1
+4441.08953372	flip	4441.08953151
+4441.10618482	flip	4441.10618344
+4441.17299719	screen_text	You are ready to start experimental block 3/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\n\n\nPress a button to continue.
+4441.17310561	flip	4441.17298834
+4446.13360303	keypress	1
+4446.13975309	flip	4446.13974783
+4446.14033115	block	LM0
+4446.30936181	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+4446.309447	flip	4446.30935379
+4459.06377391	keypress	1
+4459.07314041	flip	4459.07313764
+4459.08980423	flip	4459.08980174
+4459.62308816	flip	4459.62308622
+4461.97469726	flip	4461.97468786
+4461.98985257	flip	4461.98984953
+4462.00650892	flip	4462.00650588
+4462.97311131	flip	4462.97310938
+4462.98980279	flip	4462.9898014
+4463.00647795	flip	4463.00647629
+4464.88984477	flip	4464.88984284
+4464.90650029	flip	4464.90649863
+4464.92316439	flip	4464.92316273
+4468.77322432	flip	4468.77322239
+4468.78988925	flip	4468.78988759
+4468.806555	flip	4468.80655224
+4470.25657849	flip	4470.25657655
+4470.2732459	flip	4470.27324424
+4470.28990197	flip	4470.28990031
+4481.75672923	flip	4481.75672729
+4481.77337451	flip	4481.77337285
+4493.79024024	flip	4493.79023775
+4493.90690522	flip	4493.90690328
+4503.85706063	flip	4503.85705814
+4503.87370979	flip	4503.87370785
+4503.89037969	flip	4503.89037803
+4505.20720714	flip	4505.20719967
+4505.22381094	flip	4505.22380596
+4505.24048637	flip	4505.24048444
+4506.39040514	flip	4506.3904032
+4506.40707725	flip	4506.4070756
+4506.42374937	flip	4506.42374743
+4512.02382715	flip	4512.02382549
+4512.0404835	flip	4512.04048184
+4514.65718803	flip	4514.65718609
+4514.67385821	flip	4514.67385682
+4514.69052673	flip	4514.69052507
+4516.04058832	flip	4516.04058611
+4517.97511104	flip	4517.97510855
+4517.99056755	flip	4517.99056589
+4519.07396879	flip	4519.07396547
+4519.09063703	flip	4519.09063399
+4519.10725438	flip	4519.10725272
+4520.20848304	flip	4520.20848082
+4520.22519415	flip	4520.22519221
+4520.2406136	flip	4520.24061222
+4521.52410705	flip	4521.52409875
+4521.54078276	flip	4521.54077474
+4521.55744271	flip	4521.55743524
+4523.12398071	flip	4523.12397877
+4523.14064065	flip	4523.14063899
+4523.15730475	flip	4523.15730309
+4526.19189666	flip	4526.19189445
+4526.20857099	flip	4526.20856933
+4526.22522402	flip	4526.22522236
+4527.24069852	flip	4527.24069686
+4527.25736261	flip	4527.25736123
+4528.29071431	flip	4528.29071265
+4531.67409663	flip	4531.67409469
+4532.95759948	flip	4532.95759256
+4532.97426274	flip	4532.97425555
+4532.99089918	flip	4532.99089752
+4534.47413634	flip	4534.47413441
+4534.49079933	flip	4534.49079739
+4534.50747145	flip	4534.50747006
+4535.6574754	flip	4535.65747347
+4535.67413922	flip	4535.67413756
+4535.69081272	flip	4535.69081106
+4540.7075526	flip	4540.70755038
+4540.72421531	flip	4540.72421337
+4541.75757033	flip	4541.75756839
+4541.77423691	flip	4541.77423525
+4543.00758374	flip	4543.0075818
+4545.54094761	flip	4545.54094595
+4545.55762941	flip	4545.55762775
+4546.37436751	flip	4546.37436198
+4546.39102386	flip	4546.39101944
+4546.40760803	flip	4546.40760581
+4547.37432879	flip	4547.3743263
+4547.39098321	flip	4547.39098072
+4547.40764177	flip	4547.40764011
+4548.39099482	flip	4548.39099233
+4548.40766058	flip	4548.40765892
+4548.42432412	flip	4548.42432246
+4549.40767607	flip	4549.40767413
+4549.42433325	flip	4549.42433159
+4550.37435424	flip	4550.37435203
+4550.3910341	flip	4550.39103244
+4550.40768187	flip	4550.40767994
+4552.02437147	flip	4552.02436981
+4553.85894336	flip	4553.85894142
+4554.90789623	flip	4554.90789042
+4554.92567497	flip	4554.92567276
+4555.57442543	flip	4555.57442377
+4555.59109285	flip	4555.59109146
+4560.96006442	trial_id	[1, 0, 0, 0, 0, 0]
+4561.14943419	play	None
+4567.05968113	stop	None
+4567.05997376	trial_ok	None
+4567.44883748	trial_id	[0, 0, 0, 1, 0, 0]
+4567.63964964	play	None
+4569.55025813	keypress	1
+4570.97738645	keypress	1
+4573.54993863	stop	None
+4573.55016432	trial_ok	None
+4573.91954303	trial_id	[1, 0, 0, 1, 0, 0]
+4574.11032367	play	None
+4580.01920123	stop	None
+4580.01945375	trial_ok	None
+4580.39962157	trial_id	[0, 1, 0, 1, 0, 0]
+4580.58933541	play	None
+4584.05283589	keypress	1
+4586.50081676	stop	None
+4586.50094565	trial_ok	None
+4586.8885285	trial_id	[1, 1, 0, 1, 0, 0]
+4587.07883285	play	None
+4590.55238107	keypress	1
+4592.99122085	stop	None
+4592.99145484	trial_ok	None
+4593.3884198	trial_id	[1, 1, 0, 1, 0, 0]
+4593.57881349	play	None
+4596.97530491	keypress	1
+4599.4910856	stop	None
+4599.49122334	trial_ok	None
+4599.88832161	trial_id	[1, 0, 0, 0, 0, 0]
+4600.07907292	play	None
+4603.15346286	keypress	1
+4605.99097884	stop	None
+4605.99115364	trial_ok	None
+4606.39819272	trial_id	[1, 0, 0, 0, 0, 0]
+4606.588746	play	None
+4608.18766401	keypress	1
+4612.49872853	stop	None
+4612.49886848	trial_ok	None
+4612.87907143	trial_id	[1, 1, 0, 1, 0, 0]
+4613.069222	play	None
+4616.13634851	keypress	1
+4618.97898879	stop	None
+4618.9791257	trial_ok	None
+4619.36913891	trial_id	[0, 0, 0, 1, 0, 0]
+4619.55939016	play	None
+4625.46838057	stop	None
+4625.46855758	trial_ok	None
+4625.84883576	trial_id	[1, 1, 0, 1, 0, 0]
+4626.03927315	play	None
+4627.78241232	keypress	1
+4631.94963322	stop	None
+4631.94976128	trial_ok	None
+4632.33779524	trial_id	[0, 0, 0, 0, 0, 0]
+4632.52791123	play	None
+4638.43826991	stop	None
+4638.4384414	trial_ok	None
+4638.82768487	trial_id	[0, 0, 0, 1, 0, 0]
+4639.01730854	play	None
+4644.92828706	stop	None
+4644.92848869	trial_ok	None
+4645.31756593	trial_id	[0, 1, 0, 1, 0, 0]
+4645.50892906	play	None
+4651.41804919	stop	None
+4651.41826548	trial_ok	None
+4651.80747438	trial_id	[1, 0, 0, 0, 0, 0]
+4651.99827465	play	None
+4655.12535929	keypress	1
+4657.90956294	stop	None
+4657.9097997	trial_ok	None
+4658.27850493	trial_id	[0, 0, 0, 1, 0, 0]
+4658.46870085	play	None
+4664.37780604	stop	None
+4664.37794655	trial_ok	None
+4664.75723925	trial_id	[0, 0, 0, 0, 0, 0]
+4664.9472944	play	None
+4666.98493031	keypress	1
+4670.85996369	stop	None
+4670.86023696	trial_ok	None
+4671.23813566	trial_id	[1, 1, 0, 1, 0, 0]
+4671.42817864	play	None
+4674.73394837	keypress	1
+4677.33895773	stop	None
+4677.33913392	trial_ok	None
+4677.71801174	trial_id	[1, 0, 0, 1, 0, 0]
+4677.90856308	play	None
+4683.81746968	stop	None
+4683.8176644	trial_ok	None
+4684.20789695	trial_id	[1, 0, 0, 0, 0, 0]
+4684.39773802	play	None
+4686.02966588	keypress	1
+4690.30860673	stop	None
+4690.30880034	trial_ok	None
+4690.68683457	trial_id	[0, 1, 0, 1, 0, 0]
+4690.87724734	play	None
+4693.00078029	keypress	1
+4696.78810443	stop	None
+4696.78823692	trial_ok	None
+4697.17763058	trial_id	[0, 1, 0, 1, 0, 0]
+4697.36737927	play	None
+4699.90311098	keypress	1
+4700.7119481	keypress	1
+4703.27862247	stop	None
+4703.27880613	trial_ok	None
+4703.67775726	trial_id	[1, 0, 0, 1, 0, 0]
+4703.86826739	play	None
+4705.95046471	keypress	1
+4707.26462535	keypress	1
+4709.77787403	stop	None
+4709.77799711	trial_ok	None
+4710.17768921	trial_id	[0, 0, 0, 1, 0, 0]
+4710.36927527	play	None
+4716.27688302	stop	None
+4716.27702906	trial_ok	None
+4716.69640614	trial_id	[1, 1, 0, 1, 0, 0]
+4716.88712067	play	None
+4722.797044	stop	None
+4722.79734189	trial_ok	None
+4723.19741762	trial_id	[1, 0, 0, 1, 0, 0]
+4723.38729962	play	None
+4725.26376268	keypress	1
+4726.44177228	keypress	1
+4729.29740108	stop	None
+4729.29753495	trial_ok	None
+4729.67617296	trial_id	[1, 0, 0, 0, 0, 0]
+4729.86768241	play	None
+4733.247518	keypress	1
+4735.77917897	stop	None
+4735.77942319	trial_ok	None
+4736.15692306	trial_id	[0, 0, 0, 1, 0, 0]
+4736.34714913	play	None
+4738.30431793	keypress	1
+4742.25744005	stop	None
+4742.25768207	trial_ok	None
+4742.64596385	trial_id	[1, 1, 0, 1, 0, 0]
+4742.83632186	play	None
+4744.81833263	keypress	1
+4748.7488346	stop	None
+4748.74914327	trial_ok	None
+4749.15585018	trial_id	[1, 0, 0, 1, 0, 0]
+4749.34559278	play	None
+4751.0161067	keypress	1
+4755.25819016	stop	None
+4755.25832569	trial_ok	None
+4755.63680799	trial_id	[1, 1, 0, 1, 0, 0]
+4755.82721606	play	None
+4757.65751768	keypress	1
+4759.1999484	keypress	1
+4761.7363301	stop	None
+4761.73650131	trial_ok	None
+4762.13563996	trial_id	[0, 0, 0, 1, 0, 0]
+4762.32671184	play	None
+4764.25307894	keypress	1
+4768.23733798	stop	None
+4768.23749176	trial_ok	None
+4768.61551853	trial_id	[0, 0, 0, 1, 0, 0]
+4768.80582149	play	None
+4772.13570804	keypress	1
+4774.71824269	stop	None
+4774.71852259	trial_ok	None
+4775.10542559	trial_id	[0, 0, 0, 0, 0, 0]
+4775.29633124	play	None
+4778.43698211	keypress	1
+4781.20647778	stop	None
+4781.20661331	trial_ok	None
+4781.59652197	trial_id	[0, 1, 0, 1, 0, 0]
+4781.78600292	play	None
+4783.62795049	keypress	1
+4784.93424681	keypress	1
+4787.6969961	stop	None
+4787.69718694	trial_ok	None
+4788.09517831	trial_id	[1, 0, 0, 0, 0, 0]
+4788.28551447	play	None
+4789.9265819	keypress	1
+4791.69724174	keypress	1
+4794.19639093	stop	None
+4794.19664566	trial_ok	None
+4794.58599701	trial_id	[0, 0, 0, 0, 0, 0]
+4794.77610885	play	None
+4798.05594648	keypress	1
+4800.68588145	stop	None
+4800.68601061	trial_ok	None
+4801.06593034	trial_id	[1, 0, 0, 0, 0, 0]
+4801.25628337	play	None
+4803.15342205	keypress	1
+4807.16589112	stop	None
+4807.16602581	trial_ok	None
+4807.56487239	trial_id	[1, 0, 0, 1, 0, 0]
+4807.75480114	play	None
+4811.44975951	keypress	1
+4813.66664952	stop	None
+4813.66679417	trial_ok	None
+4814.0947355	trial_id	[0, 0, 0, 1, 0, 0]
+4814.28555817	play	None
+4816.27333782	keypress	1
+4817.66040726	keypress	1
+4820.1966653	stop	None
+4820.19686195	trial_ok	None
+4820.60466829	trial_id	[0, 0, 0, 0, 0, 0]
+4820.79518285	play	None
+4823.08406373	keypress	1
+4824.14779493	keypress	1
+4826.70554955	stop	None
+4826.70571689	trial_ok	None
+4827.09580119	trial_id	[0, 0, 0, 1, 0, 0]
+4827.28653176	play	None
+4830.72471481	keypress	1
+4833.19669987	stop	None
+4833.19700274	trial_ok	None
+4833.6044437	trial_id	[0, 0, 0, 0, 0, 0]
+4833.79421065	play	None
+4839.70469435	stop	None
+4839.70484038	trial_ok	None
+4840.08435546	trial_id	[0, 0, 0, 1, 0, 0]
+4840.27421838	play	None
+4843.68704427	keypress	1
+4843.83232939	keypress	1
+4846.18646366	stop	None
+4846.18672974	trial_ok	None
+4846.55515506	trial_id	[1, 0, 0, 1, 0, 0]
+4846.74606043	play	None
+4850.03827512	keypress	1
+4852.65622606	stop	None
+4852.65647388	trial_ok	None
+4853.06412699	trial_id	[1, 0, 0, 1, 0, 0]
+4853.25498811	play	None
+4856.63469864	keypress	1
+4859.16485834	stop	None
+4859.16511778	trial_ok	None
+4859.54498495	trial_id	[0, 0, 0, 0, 0, 0]
+4859.73546936	play	None
+4863.22836139	keypress	1
+4865.64636352	stop	None
+4865.64656847	trial_ok	None
+4866.03491663	trial_id	[0, 0, 0, 0, 0, 0]
+4866.22487718	play	None
+4869.70099191	keypress	1
+4872.1353772	stop	None
+4872.13560207	trial_ok	None
+4872.41214682	screen_text	You are done with block 3/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+4872.4121789	flip	4872.41214488
+5319.37723895	keypress	1
+5319.38502635	flip	5319.38502358
+5319.40163817	flip	5319.40163679
+5319.46831695	screen_text	You are ready to start experimental block 4/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\n\n\nPress a button to continue.
+5319.46841984	flip	5319.46831419
+5325.28170487	keypress	1
+5325.28507995	flip	5325.28507746
+5325.28543564	block	LF0
+5325.61839697	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+5325.6184249	flip	5325.61839476
+5328.07890423	keypress	1
+5328.08511276	flip	5328.08510999
+5328.10177851	flip	5328.10177602
+5328.63510393	flip	5328.635102
+5330.18662187	flip	5330.18661993
+5330.20187371	flip	5330.20186901
+5330.21990442	flip	5330.21989972
+5331.00185037	flip	5331.0018476
+5331.01862233	flip	5331.01861708
+5331.03514841	flip	5331.03514315
+5332.08515507	flip	5332.08515341
+5332.1030746	flip	5332.10307294
+5332.11851065	flip	5332.11850926
+5333.10183576	flip	5333.1018341
+5333.11852281	flip	5333.11852116
+5333.90185252	flip	5333.90185087
+5333.91850777	flip	5333.91850639
+5334.70185518	flip	5334.70185324
+5336.21853421	flip	5336.21853227
+5336.23520439	flip	5336.23520273
+5342.23535817	flip	5342.23535402
+5342.35203698	flip	5342.35203394
+5344.36866401	flip	5344.36865571
+5344.38531704	flip	5344.38531538
+5344.4019875	flip	5344.40198584
+5345.10199591	flip	5345.10199397
+5345.11866028	flip	5345.11865862
+5345.13529201	flip	5345.13529035
+5346.11866996	flip	5346.11866775
+5346.13534235	flip	5346.13534069
+5346.15203438	flip	5346.15203272
+5347.11869043	flip	5347.11868849
+5347.13535867	flip	5347.13535701
+5347.15202249	flip	5347.15202083
+5348.43537377	flip	5348.43537184
+5348.45203593	flip	5348.45203427
+5348.46870251	flip	5348.46870085
+5349.38542768	flip	5349.38542464
+5351.53541836	flip	5351.5354167
+5351.55208798	flip	5351.55208632
+5352.21875548	flip	5352.21875354
+5352.23541764	flip	5352.23541626
+5352.25209335	flip	5352.25209169
+5353.2354417	flip	5353.23544004
+5353.25210165	flip	5353.25209999
+5354.2354464	flip	5354.23544447
+5354.25211714	flip	5354.25211548
+5354.2687851	flip	5354.26878317
+5355.23547517	flip	5355.23547213
+5355.25213843	flip	5355.25213705
+5355.26879948	flip	5355.26879755
+5356.2521365	flip	5356.25213484
+5356.26880861	flip	5356.26880723
+5356.28547907	flip	5356.28547658
+5357.3356362	flip	5357.33563426
+5357.35229531	flip	5357.35229061
+5357.3689796	flip	5357.3689749
+5358.45217727	flip	5358.45217505
+5361.71890622	flip	5361.7189029
+5363.60241687	flip	5363.60240941
+5363.61891308	flip	5363.61891142
+5363.63558354	flip	5363.63558188
+5364.68560265	flip	5364.68560071
+5364.70227615	flip	5364.70227449
+5364.71890788	flip	5364.7189065
+5365.70227919	flip	5365.70227725
+5365.71890428	flip	5365.71890262
+5365.73561208	flip	5365.73561042
+5366.70229717	flip	5366.70229523
+5366.71893194	flip	5366.71893028
+5366.73563227	flip	5366.73563033
+5367.63564107	flip	5367.63563913
+5367.6522988	flip	5367.65229769
+5367.66893164	flip	5367.66892998
+5368.56902479	flip	5368.56902147
+5370.66902098	flip	5370.66901904
+5370.68689265	flip	5370.68689071
+5371.18569171	flip	5371.18568977
+5371.20234999	flip	5371.20234861
+5371.22026094	flip	5371.22025928
+5372.20237019	flip	5372.20236825
+5372.21904036	flip	5372.21903871
+5372.23569561	flip	5372.23569395
+5373.20238457	flip	5373.20238236
+5373.2190589	flip	5373.21905724
+5373.23571995	flip	5373.23571801
+5374.21907051	flip	5374.21906858
+5374.23573184	flip	5374.23573018
+5375.06907928	flip	5375.06907734
+5375.08574808	flip	5375.08574669
+5375.1024	flip	5375.10239834
+5376.13574866	flip	5376.13574672
+5376.1524263	flip	5376.15242437
+5376.16909261	flip	5376.16909095
+5377.1524382	flip	5377.15243599
+5381.00248569	flip	5381.00248403
+5381.87068669	flip	5381.8706795
+5381.88735881	flip	5381.88735715
+5382.5524788	flip	5382.55247714
+5382.56917747	flip	5382.56917581
+5387.92633242	trial_id	[1, 1, 0, 1, 1, 0]
+5388.11705967	play	None
+5391.31897913	keypress	1
+5394.02620662	stop	None
+5394.02635128	trial_ok	None
+5394.42614406	trial_id	[0, 0, 0, 1, 1, 0]
+5394.61560814	play	None
+5396.54063752	keypress	1
+5397.97198472	keypress	1
+5400.52709143	stop	None
+5400.52722612	trial_ok	None
+5400.91595321	trial_id	[0, 1, 0, 1, 1, 0]
+5401.10574173	play	None
+5404.2040034	keypress	1
+5407.01660076	stop	None
+5407.01673767	trial_ok	None
+5407.39608237	trial_id	[1, 1, 0, 1, 1, 0]
+5407.58671337	play	None
+5409.20119207	keypress	1
+5410.66022823	keypress	1
+5413.49611063	stop	None
+5413.49624588	trial_ok	None
+5413.88487865	trial_id	[0, 1, 0, 1, 1, 0]
+5414.0746196	play	None
+5417.10764803	keypress	1
+5419.98564015	stop	None
+5419.98590208	trial_ok	None
+5420.38475253	trial_id	[0, 0, 0, 1, 1, 0]
+5420.57439916	play	None
+5422.83683079	keypress	1
+5426.48713234	stop	None
+5426.48728889	trial_ok	None
+5426.86580908	trial_id	[0, 0, 0, 0, 1, 0]
+5427.05612477	play	None
+5429.42586273	keypress	1
+5431.40767137	keypress	1
+5432.96614298	stop	None
+5432.96628957	trial_ok	None
+5433.374552	trial_id	[0, 0, 0, 0, 1, 0]
+5433.56416931	play	None
+5436.91519036	keypress	1
+5439.4774175	stop	None
+5439.47766283	trial_ok	None
+5439.8744646	trial_id	[1, 1, 0, 1, 1, 0]
+5440.06393614	play	None
+5445.96491853	stop	None
+5445.96512597	trial_ok	None
+5446.33532144	trial_id	[1, 0, 0, 0, 1, 0]
+5446.52602186	play	None
+5449.48533914	keypress	1
+5452.43604201	stop	None
+5452.43617477	trial_ok	None
+5452.84422561	trial_id	[0, 0, 0, 1, 1, 0]
+5453.03381747	play	None
+5458.93443365	stop	None
+5458.93461039	trial_ok	None
+5459.31528658	trial_id	[0, 0, 0, 0, 1, 0]
+5459.50519984	play	None
+5461.91677769	keypress	1
+5462.99816265	keypress	1
+5465.41531817	stop	None
+5465.41548688	trial_ok	None
+5465.80514386	trial_id	[1, 0, 0, 0, 1, 0]
+5465.99467404	play	None
+5468.26955631	keypress	1
+5471.90621264	stop	None
+5471.90642783	trial_ok	None
+5472.28511895	trial_id	[1, 0, 0, 0, 1, 0]
+5472.4754623	play	None
+5475.99012896	keypress	1
+5478.38458105	stop	None
+5478.38471132	trial_ok	None
+5478.76476574	trial_id	[1, 0, 0, 1, 1, 0]
+5478.95573196	play	None
+5484.86423364	stop	None
+5484.86448312	trial_ok	None
+5485.24482464	trial_id	[0, 0, 0, 0, 1, 0]
+5485.43487315	play	None
+5487.53838026	keypress	1
+5488.9156193	keypress	1
+5491.34461809	stop	None
+5491.34486259	trial_ok	None
+5491.75359107	trial_id	[1, 0, 0, 1, 1, 0]
+5491.94450502	play	None
+5495.25869061	keypress	1
+5497.85575763	stop	None
+5497.85603422	trial_ok	None
+5498.24348568	trial_id	[1, 0, 0, 1, 1, 0]
+5498.43327088	play	None
+5504.34386992	stop	None
+5504.34401236	trial_ok	None
+5504.7433543	trial_id	[0, 0, 0, 0, 1, 0]
+5504.93423589	play	None
+5507.12547407	keypress	1
+5508.55325775	keypress	1
+5510.84512645	stop	None
+5510.84525673	trial_ok	None
+5511.22427118	trial_id	[0, 0, 0, 0, 1, 0]
+5511.41424114	play	None
+5514.76826776	keypress	1
+5517.32589369	stop	None
+5517.32606905	trial_ok	None
+5517.7131604	trial_id	[1, 0, 0, 0, 1, 0]
+5517.90375102	play	None
+5523.81391526	stop	None
+5523.81420098	trial_ok	None
+5524.20406649	trial_id	[0, 1, 0, 1, 1, 0]
+5524.39430197	play	None
+5527.01386407	keypress	1
+5527.68577191	keypress	1
+5530.30415755	stop	None
+5530.30429971	trial_ok	None
+5530.68406842	trial_id	[0, 1, 0, 1, 1, 0]
+5530.8734415	play	None
+5532.63017185	keypress	1
+5536.78493253	stop	None
+5536.78515657	trial_ok	None
+5537.17281935	trial_id	[1, 0, 0, 0, 1, 0]
+5537.36319589	play	None
+5543.27357061	stop	None
+5543.27382148	trial_ok	None
+5543.66273111	trial_id	[0, 0, 0, 0, 1, 0]
+5543.85291376	play	None
+5549.76332942	stop	None
+5549.76360241	trial_ok	None
+5550.16262573	trial_id	[1, 0, 0, 1, 1, 0]
+5550.35210087	play	None
+5556.25283239	stop	None
+5556.25303402	trial_ok	None
+5556.64254136	trial_id	[1, 0, 0, 0, 1, 0]
+5556.83333472	play	None
+5558.46687415	keypress	1
+5562.74434559	stop	None
+5562.74456437	trial_ok	None
+5563.13324195	trial_id	[1, 0, 0, 0, 1, 0]
+5563.32286756	play	None
+5565.30701639	keypress	1
+5569.23358884	stop	None
+5569.23372465	trial_ok	None
+5569.63227417	trial_id	[1, 0, 0, 1, 1, 0]
+5569.82225298	play	None
+5575.7326006	stop	None
+5575.73276268	trial_ok	None
+5576.1121934	trial_id	[0, 0, 0, 0, 1, 0]
+5576.30188787	play	None
+5578.30654523	keypress	1
+5579.52092731	keypress	1
+5582.2134829	stop	None
+5582.21360958	trial_ok	None
+5582.59293049	trial_id	[0, 1, 0, 1, 1, 0]
+5582.78339001	play	None
+5588.69237156	stop	None
+5588.69252452	trial_ok	None
+5589.07290642	trial_id	[0, 1, 0, 1, 1, 0]
+5589.2633781	play	None
+5592.59495862	keypress	1
+5595.17475352	stop	None
+5595.1748766	trial_ok	None
+5595.55187363	trial_id	[0, 0, 0, 1, 1, 0]
+5595.74214977	play	None
+5598.31632409	keypress	1
+5599.37952281	keypress	1
+5601.65363831	stop	None
+5601.65376526	trial_ok	None
+5602.06175691	trial_id	[0, 0, 0, 1, 1, 0]
+5602.25180072	play	None
+5604.73704563	keypress	1
+5608.16252505	stop	None
+5608.1626686	trial_ok	None
+5608.54269315	trial_id	[1, 0, 0, 0, 1, 0]
+5608.73255496	play	None
+5614.64203216	stop	None
+5614.64216326	trial_ok	None
+5615.0425969	trial_id	[0, 0, 0, 0, 1, 0]
+5615.23292974	play	None
+5617.02627769	keypress	1
+5618.60848057	keypress	1
+5621.14243377	stop	None
+5621.14268518	trial_ok	None
+5621.53238973	trial_id	[1, 1, 0, 1, 1, 0]
+5621.7218173	play	None
+5623.6728818	keypress	1
+5627.63369445	stop	None
+5627.63392927	trial_ok	None
+5628.01238585	trial_id	[0, 0, 0, 1, 1, 0]
+5628.20243767	play	None
+5629.96517073	keypress	1
+5631.46864849	keypress	1
+5634.11269402	stop	None
+5634.11289206	trial_ok	None
+5634.53122115	trial_id	[1, 0, 0, 1, 1, 0]
+5634.72208891	play	None
+5636.67079686	keypress	1
+5638.28937222	keypress	1
+5640.63331884	stop	None
+5640.63345133	trial_ok	None
+5641.00229927	trial_id	[1, 0, 0, 1, 1, 0]
+5641.19282848	play	None
+5647.10159735	stop	None
+5647.10184019	trial_ok	None
+5647.50182547	trial_id	[1, 0, 0, 0, 1, 0]
+5647.6919824	play	None
+5653.601729	stop	None
+5653.60197904	trial_ok	None
+5654.00208906	trial_id	[1, 1, 0, 1, 1, 0]
+5654.19161316	play	None
+5660.10161615	stop	None
+5660.10184213	trial_ok	None
+5660.49079574	trial_id	[0, 1, 0, 1, 1, 0]
+5660.68025013	play	None
+5662.56347235	keypress	1
+5666.58124856	stop	None
+5666.58146347	trial_ok	None
+5666.96070887	trial_id	[1, 1, 0, 1, 1, 0]
+5667.15040279	play	None
+5668.82110939	keypress	1
+5673.0626171	stop	None
+5673.06276037	trial_ok	None
+5673.43150377	trial_id	[0, 1, 0, 1, 1, 0]
+5673.62101901	play	None
+5677.08481713	keypress	1
+5679.53100375	stop	None
+5679.53114619	trial_ok	None
+5679.91048259	trial_id	[0, 0, 0, 0, 1, 0]
+5680.10078778	play	None
+5683.13856075	keypress	1
+5686.01326207	stop	None
+5686.01340175	trial_ok	None
+5686.39138924	trial_id	[1, 0, 0, 1, 1, 0]
+5686.58191154	play	None
+5692.49077195	stop	None
+5692.49092573	trial_ok	None
+5692.88026269	trial_id	[1, 1, 0, 1, 1, 0]
+5693.07103945	play	None
+5694.94074887	keypress	1
+5696.47531527	keypress	1
+5698.98215571	stop	None
+5698.98228819	trial_ok	None
+5699.273559	screen_text	You are done with block 4/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+5699.27359025	flip	5699.27355706
+5702.55672839	keypress	1
+5702.57360895	flip	5702.57360673
+5702.59026557	flip	5702.59026419
+5702.65692721	screen_text	You are ready to start experimental block 5/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the left side.\n\n\n\nPress a button to continue.
+5702.65695404	flip	5702.65692555
+5705.43744519	keypress	1
+5705.45703109	flip	5705.45702805
+5705.45730574	block	LM1
+5705.77895078	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+5705.77898729	flip	5705.77894829
+5707.16243463	keypress	1
+5707.17369585	flip	5707.17369336
+5707.19035718	flip	5707.19035497
+5707.70716593	flip	5707.70716012
+5711.15871562	flip	5711.15870787
+5711.17516785	flip	5711.17516342
+5711.1918336	flip	5711.19183166
+5712.02383987	flip	5712.02383489
+5712.04042292	flip	5712.04042071
+5712.05708176	flip	5712.05707955
+5713.02374057	flip	5713.02373864
+5713.04040826	flip	5713.04040661
+5713.05707098	flip	5713.05706932
+5714.0404586	flip	5714.04045639
+5714.05709863	flip	5714.0570967
+5714.07375167	flip	5714.07375001
+5714.89043363	flip	5714.89043169
+5714.90709191	flip	5714.90709025
+5714.92375656	flip	5714.92375518
+5715.94061399	flip	5715.94060625
+5718.09047384	flip	5718.09047218
+5718.10837152	flip	5718.10836986
+5718.79047893	flip	5718.790477
+5718.80712367	flip	5718.80712228
+5718.82381099	flip	5718.82380961
+5719.89050803	flip	5719.89050609
+5719.90716272	flip	5719.90716134
+5719.92383124	flip	5719.92382958
+5720.90717932	flip	5720.90717766
+5720.92385226	flip	5720.9238506
+5720.94051801	flip	5720.94051608
+5722.04053411	flip	5722.04053218
+5722.05720484	flip	5722.05720346
+5722.07385622	flip	5722.07385483
+5723.05721314	flip	5723.05721121
+5723.07384211	flip	5723.07384045
+5723.09053884	flip	5723.09053718
+5724.17390246	flip	5724.1739008
+5724.19055411	flip	5724.19055245
+5725.17388946	flip	5725.17388725
+5726.79059869	flip	5726.79059676
+5727.59076509	flip	5727.59075928
+5727.60861104	flip	5727.60860827
+5728.25728765	flip	5728.25728599
+5728.27395617	flip	5728.27395451
+5733.64959378	trial_id	[1, 0, 0, 0, 0, 0]
+5733.84015812	play	None
+5739.75006735	stop	None
+5739.75030189	trial_ok	None
+5740.15062738	trial_id	[0, 0, 0, 1, 0, 0]
+5740.34070797	play	None
+5743.59620872	keypress	1
+5746.25221422	stop	None
+5746.25250325	trial_ok	None
+5746.62914514	trial_id	[1, 1, 0, 1, 0, 0]
+5746.81808813	play	None
+5752.71970196	stop	None
+5752.71988174	trial_ok	None
+5753.0992801	trial_id	[0, 1, 0, 1, 0, 0]
+5753.28885039	play	None
+5759.1897108	stop	None
+5759.18986319	trial_ok	None
+5759.56021992	trial_id	[1, 0, 0, 1, 0, 0]
+5759.75086779	play	None
+5765.65961812	stop	None
+5765.65989167	trial_ok	None
+5766.06003405	trial_id	[0, 1, 0, 1, 0, 0]
+5766.25061914	play	None
+5769.76474316	keypress	1
+5772.15962282	stop	None
+5772.15985599	trial_ok	None
+5772.55895592	trial_id	[1, 0, 0, 1, 0, 0]
+5772.74948596	play	None
+5778.659505	stop	None
+5778.65975973	trial_ok	None
+5779.05009794	trial_id	[1, 0, 0, 0, 0, 0]
+5779.24072617	play	None
+5783.12765451	keypress	1
+5785.14950361	stop	None
+5785.14966154	trial_ok	None
+5785.52972426	trial_id	[1, 0, 0, 1, 0, 0]
+5785.71927961	play	None
+5788.78738773	keypress	1
+5791.63001722	stop	None
+5791.63019673	trial_ok	None
+5792.03947672	trial_id	[1, 0, 0, 1, 0, 0]
+5792.22991107	play	None
+5794.25034519	keypress	1
+5798.13976802	stop	None
+5798.13990134	trial_ok	None
+5798.52959399	trial_id	[0, 0, 0, 0, 0, 0]
+5798.71905558	play	None
+5800.89017457	keypress	1
+5801.92433265	keypress	1
+5804.63078586	stop	None
+5804.63096481	trial_ok	None
+5805.02952097	trial_id	[1, 1, 0, 1, 0, 0]
+5805.22017714	play	None
+5808.68519163	keypress	1
+5811.12892857	stop	None
+5811.12917197	trial_ok	None
+5811.51917219	trial_id	[0, 1, 0, 1, 0, 0]
+5811.71042883	play	None
+5817.61879581	stop	None
+5817.61893631	trial_ok	None
+5817.99819665	trial_id	[0, 0, 0, 0, 0, 0]
+5818.18894714	play	None
+5820.0567604	keypress	1
+5821.27339528	keypress	1
+5824.09944854	stop	None
+5824.09968253	trial_ok	None
+5824.4880802	trial_id	[0, 1, 0, 1, 0, 0]
+5824.67796055	play	None
+5826.43461139	keypress	1
+5827.99436819	keypress	1
+5830.58944632	stop	None
+5830.58962168	trial_ok	None
+5830.95915279	trial_id	[0, 0, 0, 0, 0, 0]
+5831.14932244	play	None
+5833.16633041	keypress	1
+5834.61189073	keypress	1
+5837.06022545	stop	None
+5837.0605037	trial_ok	None
+5837.4487144	trial_id	[1, 0, 0, 0, 0, 0]
+5837.63922287	play	None
+5839.60726656	keypress	1
+5843.55009628	stop	None
+5843.55029681	trial_ok	None
+5843.92778007	trial_id	[0, 0, 0, 1, 0, 0]
+5844.11751078	play	None
+5846.06592203	keypress	1
+5850.03098301	stop	None
+5850.031204	trial_ok	None
+5850.42763957	trial_id	[1, 1, 0, 1, 0, 0]
+5850.61725715	play	None
+5856.51797844	stop	None
+5856.51812254	trial_ok	None
+5856.89758755	trial_id	[1, 0, 0, 1, 0, 0]
+5857.08888596	play	None
+5858.85908948	keypress	1
+5860.46164948	keypress	1
+5863.00023842	stop	None
+5863.00037063	trial_ok	None
+5863.39742326	trial_id	[1, 0, 0, 0, 0, 0]
+5863.58848076	play	None
+5865.51514657	keypress	1
+5869.50000553	stop	None
+5869.50017785	trial_ok	None
+5869.8973212	trial_id	[1, 0, 0, 1, 0, 0]
+5870.08689813	play	None
+5871.84032841	keypress	1
+5875.98875701	stop	None
+5875.98889918	trial_ok	None
+5876.37724955	trial_id	[1, 0, 0, 0, 0, 0]
+5876.5681588	play	None
+5878.57443361	keypress	1
+5882.48003263	stop	None
+5882.48024366	trial_ok	None
+5882.86710572	trial_id	[0, 0, 0, 0, 0, 0]
+5883.05841076	play	None
+5884.83017381	keypress	1
+5886.16821413	keypress	1
+5888.97004424	stop	None
+5888.97027491	trial_ok	None
+5889.36699951	trial_id	[0, 0, 0, 0, 0, 0]
+5889.55770104	play	None
+5891.61781994	keypress	1
+5892.79050474	keypress	1
+5895.4699289	stop	None
+5895.47016151	trial_ok	None
+5895.85692538	trial_id	[1, 0, 0, 0, 0, 0]
+5896.04706876	play	None
+5898.28975541	keypress	1
+5901.96019359	stop	None
+5901.96046022	trial_ok	None
+5902.3576304	trial_id	[1, 1, 0, 1, 0, 0]
+5902.54832197	play	None
+5904.45817634	keypress	1
+5905.7570589	keypress	1
+5908.45718017	stop	None
+5908.457311	trial_ok	None
+5908.8578218	trial_id	[0, 1, 0, 1, 0, 0]
+5909.04757906	play	None
+5914.95706511	stop	None
+5914.95720562	trial_ok	None
+5915.37656583	trial_id	[1, 0, 0, 1, 0, 0]
+5915.56695122	play	None
+5917.84490239	keypress	1
+5921.47794965	stop	None
+5921.47810426	trial_ok	None
+5921.86646017	trial_id	[0, 0, 0, 0, 0, 0]
+5922.05659912	play	None
+5924.09637586	keypress	1
+5925.3886229	keypress	1
+5927.9678509	stop	None
+5927.96812555	trial_ok	None
+5928.36635562	trial_id	[0, 1, 0, 1, 0, 0]
+5928.55696643	play	None
+5934.46709582	stop	None
+5934.46727173	trial_ok	None
+5934.86628785	trial_id	[0, 1, 0, 1, 0, 0]
+5935.05696172	play	None
+5940.96648511	stop	None
+5940.96667319	trial_ok	None
+5941.36613822	trial_id	[0, 1, 0, 1, 0, 0]
+5941.55696477	play	None
+5944.65951944	keypress	1
+5947.46713039	stop	None
+5947.46738651	trial_ok	None
+5947.85679621	trial_id	[1, 1, 0, 1, 0, 0]
+5948.04588939	play	None
+5950.26920304	keypress	1
+5951.41608304	keypress	1
+5953.95862672	stop	None
+5953.9587924	trial_ok	None
+5954.34701361	trial_id	[0, 1, 0, 1, 0, 0]
+5954.53652637	play	None
+5956.46435355	keypress	1
+5960.44902445	stop	None
+5960.44924904	trial_ok	None
+5960.82680422	trial_id	[0, 0, 0, 0, 0, 0]
+5961.0179068	play	None
+5962.83425026	keypress	1
+5964.65996034	keypress	1
+5966.92753917	stop	None
+5966.92780939	trial_ok	None
+5967.30699339	trial_id	[0, 0, 0, 1, 0, 0]
+5967.49716609	play	None
+5969.31205237	keypress	1
+5973.40615013	stop	None
+5973.40628234	trial_ok	None
+5973.79663023	trial_id	[1, 1, 0, 1, 0, 0]
+5973.98713704	play	None
+5977.38305473	keypress	1
+5979.89791475	stop	None
+5979.89807711	trial_ok	None
+5980.29550922	trial_id	[1, 0, 0, 1, 0, 0]
+5980.48519595	play	None
+5986.39605056	stop	None
+5986.39624279	trial_ok	None
+5986.77629638	trial_id	[1, 1, 0, 1, 0, 0]
+5986.96731377	play	None
+5988.63945083	keypress	1
+5992.87669638	stop	None
+5992.87693535	trial_ok	None
+5993.26637326	trial_id	[0, 1, 0, 1, 0, 0]
+5993.45716717	play	None
+5995.42444462	keypress	1
+5999.36695304	stop	None
+5999.367171	trial_ok	None
+5999.74521269	trial_id	[0, 1, 0, 1, 0, 0]
+5999.93584508	play	None
+6003.33430766	keypress	1
+6005.84621648	stop	None
+6005.84645905	trial_ok	None
+6006.23511201	trial_id	[0, 0, 0, 0, 0, 0]
+6006.4263562	play	None
+6008.40016545	keypress	1
+6009.77896097	keypress	1
+6012.33797391	stop	None
+6012.33822007	trial_ok	None
+6012.72589723	trial_id	[0, 0, 0, 1, 0, 0]
+6012.91719564	play	None
+6016.10833538	keypress	1
+6018.8272415	stop	None
+6018.82751698	trial_ok	None
+6019.23485368	trial_id	[0, 0, 0, 1, 0, 0]
+6019.42524903	play	None
+6022.71424268	keypress	1
+6025.33574185	stop	None
+6025.33596838	trial_ok	None
+6025.72566435	trial_id	[1, 1, 0, 1, 0, 0]
+6025.9158766	play	None
+6028.05771613	keypress	1
+6029.36266077	keypress	1
+6031.82763066	stop	None
+6031.82786438	trial_ok	None
+6032.22466393	trial_id	[1, 0, 0, 0, 0, 0]
+6032.41484797	play	None
+6036.20931332	keypress	1
+6038.32662748	stop	None
+6038.32681971	trial_ok	None
+6038.72454832	trial_id	[1, 0, 0, 0, 0, 0]
+6038.91429065	play	None
+6040.58433962	keypress	1
+6042.46419882	keypress	1
+6044.82702245	stop	None
+6044.82727469	trial_ok	None
+6045.11165599	screen_text	You are done with block 5/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+6045.11168835	flip	6045.11165405
+6403.11134634	keypress	1
+6403.11663013	flip	6403.11662653
+6403.13324776	flip	6403.13324582
+6403.19990441	screen_text	You are ready to start experimental block 6/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a male voice coming from the right side.\n\n\n\nPress a button to continue.
+6403.19994258	flip	6403.1999022
+6405.58049706	keypress	1
+6405.58342751	flip	6405.58342226
+6405.58397128	block	RM1
+6405.7499592	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+6405.74998686	flip	6405.74995699
+6415.0915729	keypress	1
+6415.10011539	flip	6415.10011346
+6415.11670923	flip	6415.11670785
+6415.63341896	flip	6415.63341648
+6417.38349655	flip	6417.38349046
+6417.40162849	flip	6417.40162213
+6417.41809731	flip	6417.41809399
+6417.43478519	flip	6417.43478188
+6418.25132195	flip	6418.25132001
+6418.26798521	flip	6418.26798355
+6418.28468222	flip	6418.28468056
+6419.26680225	flip	6419.26680031
+6419.28346413	flip	6419.2834622
+6419.30012297	flip	6419.30012131
+6420.31681445	flip	6420.31681251
+6420.33347163	flip	6420.33346997
+6420.3501454	flip	6420.35014374
+6421.23349259	flip	6421.23349093
+6421.2501589	flip	6421.25015696
+6421.26682382	flip	6421.26682216
+6422.18350307	flip	6422.18350114
+6424.66812096	flip	6424.66811875
+6424.68481078	flip	6424.68480912
+6425.46692489	flip	6425.46692185
+6425.48355524	flip	6425.48355358
+6425.5002257	flip	6425.50022404
+6426.61706188	flip	6426.61705663
+6426.63364743	flip	6426.63364411
+6426.65030848	flip	6426.65030709
+6427.63357883	flip	6427.6335769
+6427.65023878	flip	6427.65023684
+6427.66691034	flip	6427.66690868
+6428.63359709	flip	6428.63359543
+6428.6502609	flip	6428.65025952
+6429.76702656	flip	6429.76701854
+6432.16818679	flip	6432.16818485
+6432.90033572	flip	6432.9003324
+6432.91699484	flip	6432.9169929
+6433.56715009	flip	6433.567144
+6433.58372595	flip	6433.58372235
+6438.95904631	trial_id	[1, 0, 1, 1, 0, 0]
+6439.14865532	play	None
+6441.3983899	keypress	1
+6442.58217486	keypress	1
+6445.06028271	stop	None
+6445.06051725	trial_ok	None
+6445.43882585	trial_id	[0, 1, 1, 1, 0, 0]
+6445.62879194	play	None
+6448.86199026	keypress	1
+6451.53979231	stop	None
+6451.5400263	trial_ok	None
+6451.93866433	trial_id	[1, 1, 1, 1, 0, 0]
+6452.12955117	play	None
+6453.87669497	keypress	1
+6458.03816708	stop	None
+6458.03833524	trial_ok	None
+6458.41877855	trial_id	[0, 1, 1, 1, 0, 0]
+6458.60965903	play	None
+6460.60490604	keypress	1
+6462.60313964	keypress	1
+6464.5190704	stop	None
+6464.51933288	trial_ok	None
+6464.92850252	trial_id	[0, 0, 1, 0, 0, 0]
+6465.11807834	play	None
+6471.02793778	stop	None
+6471.02815463	trial_ok	None
+6471.42738649	trial_id	[1, 0, 1, 1, 0, 0]
+6471.61708041	play	None
+6474.91564644	keypress	1
+6477.52893792	stop	None
+6477.52907539	trial_ok	None
+6477.9181081	trial_id	[1, 0, 1, 0, 0, 0]
+6478.10771103	play	None
+6481.49846868	keypress	1
+6484.01832362	stop	None
+6484.01846523	trial_ok	None
+6484.39820158	trial_id	[1, 1, 1, 1, 0, 0]
+6484.58748394	play	None
+6486.97663605	keypress	1
+6490.4985836	stop	None
+6490.49871608	trial_ok	None
+6490.8870908	trial_id	[1, 1, 1, 1, 0, 0]
+6491.07687544	play	None
+6496.98747448	stop	None
+6496.98765537	trial_ok	None
+6497.35774325	trial_id	[0, 0, 1, 1, 0, 0]
+6497.54761972	play	None
+6500.63826761	keypress	1
+6503.45974579	stop	None
+6503.45998366	trial_ok	None
+6503.85684683	trial_id	[0, 0, 1, 1, 0, 0]
+6504.04725214	play	None
+6507.20343487	keypress	1
+6509.95824476	stop	None
+6509.95841154	trial_ok	None
+6510.34769927	trial_id	[0, 0, 1, 1, 0, 0]
+6510.53834935	play	None
+6512.2561513	keypress	1
+6516.44950737	stop	None
+6516.44971924	trial_ok	None
+6516.84756153	trial_id	[0, 0, 1, 0, 0, 0]
+6517.0377345	play	None
+6520.47131623	keypress	1
+6522.94726259	stop	None
+6522.94742771	trial_ok	None
+6523.35652101	trial_id	[0, 0, 1, 0, 0, 0]
+6523.54715782	play	None
+6526.85833452	keypress	1
+6529.45841403	stop	None
+6529.45871993	trial_ok	None
+6529.86642089	trial_id	[0, 1, 1, 1, 0, 0]
+6530.05662816	play	None
+6532.29546377	keypress	1
+6535.96879019	stop	None
+6535.96902142	trial_ok	None
+6536.36636281	trial_id	[0, 1, 1, 1, 0, 0]
+6536.55704996	play	None
+6538.29756605	keypress	1
+6539.93879229	keypress	1
+6542.46791618	stop	None
+6542.46809485	trial_ok	None
+6542.85622589	trial_id	[0, 1, 1, 1, 0, 0]
+6543.0458089	play	None
+6545.02754387	keypress	1
+6546.27481683	keypress	1
+6548.94706179	stop	None
+6548.94728887	trial_ok	None
+6549.33711373	trial_id	[0, 0, 1, 1, 0, 0]
+6549.52781774	play	None
+6551.41984855	keypress	1
+6552.87069271	keypress	1
+6555.43745288	stop	None
+6555.43772448	trial_ok	None
+6555.84601762	trial_id	[0, 0, 1, 0, 0, 0]
+6556.03680323	play	None
+6557.69800346	keypress	1
+6561.94708474	stop	None
+6561.9473428	trial_ok	None
+6562.33673397	trial_id	[1, 0, 1, 0, 0, 0]
+6562.52696586	play	None
+6565.59712897	keypress	1
+6568.43783097	stop	None
+6568.43801158	trial_ok	None
+6568.81693117	trial_id	[1, 0, 1, 0, 0, 0]
+6569.00709639	play	None
+6574.91622537	stop	None
+6574.91646849	trial_ok	None
+6575.30571999	trial_id	[1, 1, 1, 1, 0, 0]
+6575.4963579	play	None
+6577.45070456	keypress	1
+6578.91629432	keypress	1
+6581.40659184	stop	None
+6581.40671576	trial_ok	None
+6581.78649138	trial_id	[1, 0, 1, 0, 0, 0]
+6581.97658165	play	None
+6585.36102805	keypress	1
+6587.88660179	stop	None
+6587.88673676	trial_ok	None
+6588.28657214	trial_id	[1, 0, 1, 0, 0, 0]
+6588.47638251	play	None
+6594.38588515	stop	None
+6594.38618193	trial_ok	None
+6594.78537148	trial_id	[1, 0, 1, 1, 0, 0]
+6594.97502004	play	None
+6597.25345403	keypress	1
+6600.88724707	stop	None
+6600.88738702	trial_ok	None
+6601.26527577	trial_id	[0, 1, 1, 1, 0, 0]
+6601.45589211	play	None
+6603.41662983	keypress	1
+6605.01890311	keypress	1
+6607.36800518	stop	None
+6607.36814154	trial_ok	None
+6607.75622556	trial_id	[0, 1, 1, 1, 0, 0]
+6607.94639272	play	None
+6611.67986381	keypress	1
+6613.85602177	stop	None
+6613.85619519	trial_ok	None
+6614.26506916	trial_id	[1, 0, 1, 1, 0, 0]
+6614.45516358	play	None
+6617.79410628	keypress	1
+6620.36666512	stop	None
+6620.36688583	trial_ok	None
+6620.75496515	trial_id	[0, 1, 1, 1, 0, 0]
+6620.9458011	play	None
+6622.85171672	keypress	1
+6626.85692123	stop	None
+6626.85712065	trial_ok	None
+6627.24600705	trial_id	[1, 1, 1, 1, 0, 0]
+6627.43557789	play	None
+6633.34531315	stop	None
+6633.34559914	trial_ok	None
+6633.74472894	trial_id	[0, 0, 1, 0, 0, 0]
+6633.93507229	play	None
+6637.01305099	keypress	1
+6639.84517873	stop	None
+6639.84530983	trial_ok	None
+6640.2255114	trial_id	[1, 0, 1, 1, 0, 0]
+6640.41554303	play	None
+6642.21423598	keypress	1
+6643.81102062	keypress	1
+6646.32583146	stop	None
+6646.32606794	trial_ok	None
+6646.74452427	trial_id	[0, 0, 1, 0, 0, 0]
+6646.93583097	play	None
+6648.9326275	keypress	1
+6650.25969054	keypress	1
+6652.84684904	stop	None
+6652.8471649	trial_ok	None
+6653.24576836	trial_id	[1, 0, 1, 1, 0, 0]
+6653.43522193	play	None
+6659.3447077	stop	None
+6659.34484295	trial_ok	None
+6659.73546659	trial_id	[0, 0, 1, 0, 0, 0]
+6659.92648841	play	None
+6661.9206513	keypress	1
+6665.83496658	stop	None
+6665.83510072	trial_ok	None
+6666.2341907	trial_id	[0, 0, 1, 1, 0, 0]
+6666.42499844	play	None
+6668.46248934	keypress	1
+6669.62051046	keypress	1
+6672.33549458	stop	None
+6672.33572664	trial_ok	None
+6672.72408587	trial_id	[1, 1, 1, 1, 0, 0]
+6672.91524128	play	None
+6674.82472413	keypress	1
+6676.26274781	keypress	1
+6678.82573604	stop	None
+6678.82586244	trial_ok	None
+6679.21492171	trial_id	[1, 1, 1, 1, 0, 0]
+6679.40513478	play	None
+6685.31437135	stop	None
+6685.31450937	trial_ok	None
+6685.68479667	trial_id	[1, 1, 1, 1, 0, 0]
+6685.87510849	play	None
+6688.21701547	keypress	1
+6691.78514882	stop	None
+6691.78537397	trial_ok	None
+6692.16489264	trial_id	[0, 1, 1, 1, 0, 0]
+6692.35429144	play	None
+6696.25770272	keypress	1
+6698.26514107	stop	None
+6698.26527466	trial_ok	None
+6698.67382668	trial_id	[1, 0, 1, 1, 0, 0]
+6698.86441674	play	None
+6700.78970616	keypress	1
+6701.92945912	keypress	1
+6704.77528739	stop	None
+6704.77549234	trial_ok	None
+6705.14455934	trial_id	[1, 0, 1, 0, 0, 0]
+6705.3346781	play	None
+6707.28564539	keypress	1
+6711.24529456	stop	None
+6711.24548347	trial_ok	None
+6711.62463124	trial_id	[0, 0, 1, 0, 0, 0]
+6711.81443856	play	None
+6717.72404604	stop	None
+6717.72420673	trial_ok	None
+6718.12431897	trial_id	[0, 0, 1, 1, 0, 0]
+6718.31519448	play	None
+6721.68563039	keypress	1
+6724.22519719	stop	None
+6724.22543229	trial_ok	None
+6724.62324526	trial_id	[1, 1, 1, 1, 0, 0]
+6724.81404166	play	None
+6730.7237003	stop	None
+6730.72390277	trial_ok	None
+6731.12312633	trial_id	[0, 0, 1, 0, 0, 0]
+6731.31306752	play	None
+6737.22359216	stop	None
+6737.2238574	trial_ok	None
+6737.62418151	trial_id	[1, 1, 1, 1, 0, 0]
+6737.81474392	play	None
+6741.43722363	keypress	1
+6743.72559133	stop	None
+6743.72577111	trial_ok	None
+6744.11292469	trial_id	[1, 0, 1, 1, 0, 0]
+6744.3039714	play	None
+6746.23215085	keypress	1
+6750.21521627	stop	None
+6750.2153388	trial_ok	None
+6750.48803678	screen_text	You are done with block 6/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+6750.48806942	flip	6750.48803484
+6774.80494573	keypress	1
+6774.82172387	flip	6774.8217211
+6774.83836805	flip	6774.83836611
+6774.90503383	screen_text	You are ready to start experimental block 7/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the left side.\n\n\n\nPress a button to continue.
+6774.90507283	flip	6774.90503189
+6775.80158445	keypress	1
+6775.82173687	flip	6775.82173465
+6775.82202148	block	LF1
+6775.97413524	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+6775.97416041	flip	6775.97413302
+6776.58334701	keypress	1
+6776.60506492	flip	6776.60506298
+6776.62172182	flip	6776.62172016
+6777.13840057	flip	6777.13839864
+6781.58866635	flip	6781.5886575
+6781.60526434	flip	6781.6052624
+6781.62179346	flip	6781.62179124
+6782.4063396	flip	6782.40633766
+6782.42180552	flip	6782.42180413
+6782.43970983	flip	6782.43970844
+6783.55515284	flip	6783.55515091
+6783.57182551	flip	6783.57182385
+6783.58847744	flip	6783.5884755
+6784.5719757	flip	6784.57197321
+6784.58850703	flip	6784.5885051
+6785.60534344	flip	6785.60533625
+6785.62198541	flip	6785.62198375
+6785.63850706	flip	6785.63850568
+6786.62194945	flip	6786.62194724
+6788.55646331	flip	6788.55646138
+6788.57188941	flip	6788.57188775
+6789.38857303	flip	6789.38857109
+6789.40523463	flip	6789.4052327
+6789.42190232	flip	6789.42190066
+6790.38858215	flip	6790.38858022
+6790.40524901	flip	6790.40524735
+6790.42191117	flip	6790.42190951
+6791.40540003	flip	6791.40539395
+6791.42206966	flip	6791.4220644
+6791.43874316	flip	6791.43873845
+6792.57195274	flip	6792.57195081
+6792.58861131	flip	6792.58860992
+6792.60523419	flip	6792.60523253
+6793.80526223	flip	6793.8052603
+6793.82196505	flip	6793.82196339
+6793.83862251	flip	6793.83862085
+6794.88865241	flip	6794.88865019
+6794.90527889	flip	6794.9052775
+6794.92197174	flip	6794.92196981
+6795.90547637	flip	6795.90546862
+6797.8398937	flip	6797.83989177
+6798.85538756	flip	6798.85538562
+6798.87203312	flip	6798.87203146
+6798.88868864	flip	6798.88868587
+6799.68871978	flip	6799.68871785
+6799.70538277	flip	6799.70538084
+6799.72203553	flip	6799.72203387
+6800.87205525	flip	6800.87205303
+6800.88872598	flip	6800.8887246
+6800.90538786	flip	6800.9053862
+6803.67210769	flip	6803.67210575
+6803.68876819	flip	6803.6887668
+6803.70543311	flip	6803.70543173
+6804.5721068	flip	6804.57210459
+6804.58877698	flip	6804.58877532
+6804.60543333	flip	6804.60543167
+6806.32214677	flip	6806.32214373
+6809.00671858	flip	6809.00671664
+6809.02339788	flip	6809.02339622
+6815.25574098	flip	6815.25573268
+6815.3723346	flip	6815.37233156
+6817.73911395	flip	6817.73910814
+6817.75568456	flip	6817.75568151
+6817.77232874	flip	6817.77232625
+6818.58898276	flip	6818.58898055
+6818.60563745	flip	6818.60563579
+6818.62230127	flip	6818.62229961
+6819.58897834	flip	6819.5889764
+6819.60564381	flip	6819.60564215
+6819.62230985	flip	6819.62230819
+6822.67236962	flip	6822.67236768
+6822.68902458	flip	6822.6890232
+6822.70569753	flip	6822.70569587
+6824.20571274	flip	6824.20571053
+6824.22238154	flip	6824.22237988
+6824.23904204	flip	6824.23904038
+6825.68907741	flip	6825.68907547
+6828.35696521	flip	6828.35696355
+6828.37366886	flip	6828.3736672
+6829.1236607	flip	6829.12365876
+6829.13911362	flip	6829.13911196
+6829.15701101	flip	6829.15700963
+6830.13912413	flip	6830.13912219
+6830.1557979	flip	6830.15579624
+6831.3558229	flip	6831.35582097
+6831.37248728	flip	6831.37248534
+6831.38913948	flip	6831.38913782
+6832.65582335	flip	6832.65582141
+6832.67250099	flip	6832.67249906
+6832.68915458	flip	6832.68915292
+6833.63917778	flip	6833.63917585
+6833.65583386	flip	6833.65583247
+6833.67251427	flip	6833.67251261
+6834.65585764	flip	6834.65585571
+6834.67255852	flip	6834.67255659
+6834.68922151	flip	6834.68921985
+6836.32255695	flip	6836.32255501
+6840.9392861	flip	6840.93928416
+6841.83944425	flip	6841.83943678
+6841.85733335	flip	6841.85733003
+6841.87395236	flip	6841.87395014
+6841.89055892	flip	6841.89055699
+6842.83931121	flip	6842.83930872
+6842.8561136	flip	6842.85610558
+6842.87264106	flip	6842.87263912
+6843.85597945	flip	6843.85597752
+6843.8726488	flip	6843.87264714
+6843.88931151	flip	6843.88930985
+6844.85600462	flip	6844.85600269
+6844.87268172	flip	6844.87268006
+6844.88933751	flip	6844.88933585
+6845.83934523	flip	6845.83934329
+6845.85601596	flip	6845.85601403
+6845.87266955	flip	6845.87266789
+6847.00602849	flip	6847.00602683
+6848.88933724	flip	6848.88933558
+6848.90726478	flip	6848.90726312
+6849.52269839	flip	6849.52269646
+6849.53939319	flip	6849.53939153
+6849.55605701	flip	6849.55605535
+6850.53941117	flip	6850.53940923
+6850.55607001	flip	6850.55606835
+6850.57274655	flip	6850.57274461
+6851.5394214	flip	6851.53941947
+6851.5560949	flip	6851.55609324
+6851.57274655	flip	6851.57274489
+6852.589443	flip	6852.58944107
+6852.60610378	flip	6852.60610212
+6852.62277092	flip	6852.62276926
+6853.77292865	flip	6853.77292672
+6853.78960685	flip	6853.78959994
+6853.80627344	flip	6853.80626652
+6855.039477	flip	6855.03947506
+6855.05736388	flip	6855.0573625
+6855.07280491	flip	6855.07280297
+6856.32282302	flip	6856.32282109
+6862.09157549	flip	6862.09156996
+6862.77293889	flip	6862.7729317
+6862.7896146	flip	6862.78961156
+6863.43958896	flip	6863.4395873
+6863.45625278	flip	6863.45625112
+6868.83175209	trial_id	[1, 0, 0, 0, 1, 0]
+6869.02276892	play	None
+6870.79534573	keypress	1
+6872.00890861	keypress	1
+6874.93377012	stop	None
+6874.93399747	trial_ok	None
+6875.3215416	trial_id	[0, 1, 0, 1, 1, 0]
+6875.51228268	play	None
+6881.42101005	stop	None
+6881.42115056	trial_ok	None
+6881.80066232	trial_id	[0, 1, 0, 1, 1, 0]
+6881.99028903	play	None
+6883.88268719	keypress	1
+6887.90329354	stop	None
+6887.90357981	trial_ok	None
+6888.32144286	trial_id	[0, 0, 0, 0, 1, 0]
+6888.51175689	play	None
+6890.3736744	keypress	1
+6894.42265381	stop	None
+6894.42278768	trial_ok	None
+6894.79124619	trial_id	[1, 0, 0, 1, 1, 0]
+6894.98190318	play	None
+6898.27980364	keypress	1
+6900.89203977	stop	None
+6900.89219079	trial_ok	None
+6901.29031021	trial_id	[1, 0, 0, 0, 1, 0]
+6901.4806898	play	None
+6907.39079817	stop	None
+6907.39093923	trial_ok	None
+6907.76109073	trial_id	[0, 0, 0, 1, 1, 0]
+6907.95157431	play	None
+6913.86068337	stop	None
+6913.86081668	trial_ok	None
+6914.25011741	trial_id	[1, 0, 0, 1, 1, 0]
+6914.44067097	play	None
+6916.32319239	keypress	1
+6917.77694471	keypress	1
+6920.35195981	stop	None
+6920.35218551	trial_ok	None
+6920.73098644	trial_id	[1, 1, 0, 1, 1, 0]
+6920.92159531	play	None
+6926.83048089	stop	None
+6926.83076771	trial_ok	None
+6927.22117174	trial_id	[0, 0, 0, 1, 1, 0]
+6927.41093979	play	None
+6933.32035504	stop	None
+6933.32058931	trial_ok	None
+6933.72980015	trial_id	[0, 0, 0, 1, 1, 0]
+6933.9207437	play	None
+6937.65790495	keypress	1
+6939.8314896	stop	None
+6939.83173245	trial_ok	None
+6940.24966989	trial_id	[0, 0, 0, 0, 1, 0]
+6940.44008239	play	None
+6943.74225257	keypress	1
+6946.3503581	stop	None
+6946.35052986	trial_ok	None
+6946.70045427	trial_id	[1, 1, 0, 1, 1, 0]
+6946.8904682	play	None
+6952.80001123	stop	None
+6952.80029501	trial_ok	None
+6953.21032898	trial_id	[1, 1, 0, 1, 1, 0]
+6953.40026685	play	None
+6957.24530764	keypress	1
+6959.31212381	stop	None
+6959.3122787	trial_ok	None
+6959.68029079	trial_id	[1, 0, 0, 1, 1, 0]
+6959.87036309	play	None
+6965.7800256	stop	None
+6965.78026596	trial_ok	None
+6966.16035384	trial_id	[0, 0, 0, 1, 1, 0]
+6966.35075777	play	None
+6972.25964418	stop	None
+6972.25981621	trial_ok	None
+6972.65914765	trial_id	[1, 0, 0, 0, 1, 0]
+6972.85002094	play	None
+6974.49099297	keypress	1
+6978.76117177	stop	None
+6978.76142789	trial_ok	None
+6979.14982777	trial_id	[1, 0, 0, 0, 1, 0]
+6979.34040788	play	None
+6985.24928516	stop	None
+6985.24943009	trial_ok	None
+6985.61894516	trial_id	[0, 0, 0, 0, 1, 0]
+6985.80866149	play	None
+6987.69936837	keypress	1
+6988.79701445	keypress	1
+6991.72006678	stop	None
+6991.72032345	trial_ok	None
+6992.13881186	trial_id	[0, 1, 0, 1, 1, 0]
+6992.32891762	play	None
+6994.59140236	keypress	1
+6994.73787532	keypress	1
+6995.6675854	keypress	1
+6998.23955898	stop	None
+6998.2397194	trial_ok	None
+6998.63872501	trial_id	[1, 1, 0, 1, 1, 0]
+6998.82980049	play	None
+7002.32900768	keypress	1
+7004.74197054	stop	None
+7004.74230493	trial_ok	None
+7005.13860663	trial_id	[0, 0, 0, 1, 1, 0]
+7005.32846761	play	None
+7007.26608471	keypress	1
+7008.50815575	keypress	1
+7008.62038615	keypress	1
+7011.23933688	stop	None
+7011.23958553	trial_ok	None
+7011.62847912	trial_id	[0, 0, 0, 1, 1, 0]
+7011.81881362	play	None
+7017.72897924	stop	None
+7017.72923896	trial_ok	None
+7018.10925853	trial_id	[1, 0, 0, 1, 1, 0]
+7018.29861889	play	None
+7019.84633561	keypress	1
+7024.2109867	stop	None
+7024.21126578	trial_ok	None
+7024.59928646	trial_id	[0, 1, 0, 1, 1, 0]
+7024.78884983	play	None
+7026.71316718	keypress	1
+7028.11801326	keypress	1
+7030.700116	stop	None
+7030.70032344	trial_ok	None
+7031.08915203	trial_id	[0, 0, 0, 1, 1, 0]
+7031.27962206	play	None
+7037.1886133	stop	None
+7037.18875187	trial_ok	None
+7037.56916364	trial_id	[0, 0, 0, 1, 1, 0]
+7037.75928212	play	None
+7040.06117855	keypress	1
+7041.03815647	keypress	1
+7043.66863265	stop	None
+7043.66882322	trial_ok	None
+7044.06796823	trial_id	[0, 0, 0, 1, 1, 0]
+7044.25890403	play	None
+7050.16852644	stop	None
+7050.16877315	trial_ok	None
+7050.56885635	trial_id	[1, 1, 0, 1, 1, 0]
+7050.76003416	play	None
+7052.6936966	keypress	1
+7053.99712572	keypress	1
+7056.67029355	stop	None
+7056.67057401	trial_ok	None
+7057.06774419	trial_id	[1, 1, 0, 1, 1, 0]
+7057.25755899	play	None
+7058.97741558	keypress	1
+7063.16927627	stop	None
+7063.16941013	trial_ok	None
+7063.55763411	trial_id	[0, 1, 0, 1, 1, 0]
+7063.74730646	play	None
+7069.6580366	stop	None
+7069.65819619	trial_ok	None
+7070.0575196	trial_id	[0, 1, 0, 1, 1, 0]
+7070.24830272	play	None
+7076.15792541	stop	None
+7076.15813644	trial_ok	None
+7076.53863202	trial_id	[1, 0, 0, 0, 1, 0]
+7076.72994868	play	None
+7078.35994059	keypress	1
+7080.08329163	keypress	1
+7082.63942948	stop	None
+7082.63957441	trial_ok	None
+7083.04817925	trial_id	[1, 0, 0, 0, 1, 0]
+7083.23795367	play	None
+7085.98441455	keypress	1
+7089.14970496	stop	None
+7089.14992651	trial_ok	None
+7089.53722613	trial_id	[0, 0, 0, 0, 1, 0]
+7089.72780126	play	None
+7091.36554135	keypress	1
+7095.63858976	stop	None
+7095.63882209	trial_ok	None
+7096.03707401	trial_id	[1, 0, 0, 1, 1, 0]
+7096.22757999	play	None
+7099.16302242	keypress	1
+7102.13796329	stop	None
+7102.13811403	trial_ok	None
+7102.51790099	trial_id	[0, 1, 0, 1, 1, 0]
+7102.70860861	play	None
+7104.38350721	keypress	1
+7105.71224961	keypress	1
+7108.61921732	stop	None
+7108.61934649	trial_ok	None
+7109.00690997	trial_id	[0, 0, 0, 0, 1, 0]
+7109.19663875	play	None
+7111.17672646	keypress	1
+7112.58198214	keypress	1
+7115.10886301	stop	None
+7115.10905054	trial_ok	None
+7115.50769604	trial_id	[0, 0, 0, 0, 1, 0]
+7115.6971319	play	None
+7119.00688831	keypress	1
+7121.60798761	stop	None
+7121.60811706	trial_ok	None
+7122.01666299	trial_id	[0, 1, 0, 1, 1, 0]
+7122.2075147	play	None
+7126.44936939	keypress	1
+7128.11888874	stop	None
+7128.11912522	trial_ok	None
+7128.51744352	trial_id	[1, 0, 0, 1, 1, 0]
+7128.70798297	play	None
+7134.61715177	stop	None
+7134.61743832	trial_ok	None
+7135.00749053	trial_id	[1, 1, 0, 1, 1, 0]
+7135.19865756	play	None
+7137.12662308	keypress	1
+7138.65672484	keypress	1
+7141.10940816	stop	None
+7141.10963967	trial_ok	None
+7141.48754694	trial_id	[1, 1, 0, 1, 1, 0]
+7141.67767456	play	None
+7144.06929011	keypress	1
+7147.58865833	stop	None
+7147.58884475	trial_ok	None
+7147.96706678	trial_id	[1, 0, 0, 0, 1, 0]
+7148.15656211	play	None
+7150.45175262	keypress	1
+7151.47878366	keypress	1
+7154.06728395	stop	None
+7154.06741423	trial_ok	None
+7154.43701504	trial_id	[1, 1, 0, 1, 1, 0]
+7154.62739739	play	None
+7160.53654517	stop	None
+7160.53668042	trial_ok	None
+7160.90743709	trial_id	[1, 0, 0, 1, 1, 0]
+7161.09803712	play	None
+7163.2484911	keypress	1
+7167.00719763	stop	None
+7167.00743687	trial_ok	None
+7167.40591891	trial_id	[1, 0, 0, 1, 1, 0]
+7167.59719353	play	None
+7171.69463203	keypress	1
+7173.50731324	stop	None
+7173.50744572	trial_ok	None
+7173.88673123	trial_id	[0, 0, 0, 1, 1, 0]
+7174.07730581	play	None
+7177.46264752	keypress	1
+7179.98707675	stop	None
+7179.98723163	trial_ok	None
+7180.26062966	screen_text	You are done with block 7/8.\n\nFeel free to take a break, then press the button when you are ready to continue.
+7180.26066091	flip	7180.26062772
+7232.82180784	keypress	1
+7232.82803641	flip	7232.82803116
+7232.84472319	flip	7232.84472042
+7232.91134582	screen_text	You are ready to start experimental block 8/8.\n\nNo feedback will be provided.\n\nRemember to try to press the button as quickly as possible whenever the target speaker (only) says the letter "O".\n\nOn this set of trials, the initial target speaker will always be a female voice coming from the right side.\n\n\n\nPress a button to continue.
+7232.91138593	flip	7232.91134361
+7234.30324912	keypress	1
+7234.31141049	flip	7234.311408
+7234.31174516	block	RF1
+7234.65040833	screen_text	We will now perform a screen calibration.\n\nPress a button to continue.
+7234.65043515	flip	7234.65040611
+7235.61253552	keypress	1
+7235.62809771	flip	7235.62809411
+7235.64478642	flip	7235.64478476
+7236.16153349	flip	7236.16152823
+7239.91145286	flip	7239.9114501
+7239.92807796	flip	7239.92807575
+7239.94483222	flip	7239.94482918
+7239.96149936	flip	7239.96149687
+7246.91154745	flip	7246.91154524
+7247.02940176	flip	7247.0294001
+7250.96163129	flip	7250.96162825
+7250.97826579	flip	7250.97826385
+7250.99492297	flip	7250.99492103
+7251.74496238	flip	7251.74495934
+7251.7616038	flip	7251.76160214
+7251.77827093	flip	7251.77826927
+7252.86161602	flip	7252.86161436
+7252.87828316	flip	7252.87828177
+7252.89495278	flip	7252.89495112
+7253.86164672	flip	7253.86164396
+7253.87830003	flip	7253.87829865
+7253.89495389	flip	7253.89495223
+7254.94498628	flip	7254.94498434
+7254.9616465	flip	7254.96164512
+7254.97830423	flip	7254.97830257
+7256.12833087	flip	7256.12832893
+7258.84504873	flip	7258.84504597
+7258.86172997	flip	7258.86172776
+7260.12840223	flip	7260.12840029
+7260.14506162	flip	7260.14505968
+7260.16171631	flip	7260.16171438
+7261.36173827	flip	7261.36173634
+7261.37840458	flip	7261.37840292
+7261.3950684	flip	7261.39506701
+7262.36174602	flip	7262.36174408
+7262.37841288	flip	7262.37841094
+7262.39507504	flip	7262.39507338
+7264.44514117	flip	7264.44513895
+7264.46178341	flip	7264.46178175
+7265.29512449	flip	7265.29512255
+7265.31178471	flip	7265.31178305
+7265.32848366	flip	7265.32848172
+7266.3286084	flip	7266.32860314
+7266.34528909	flip	7266.34528383
+7266.36195152	flip	7266.36194654
+7267.56182053	flip	7267.56181832
+7271.07853856	flip	7271.07853662
+7272.54535641	flip	7272.54535309
+7272.5619154	flip	7272.56191319
+7272.57855377	flip	7272.57855183
+7273.34645075	flip	7273.34644882
+7273.36190118	flip	7273.3618998
+7273.37856887	flip	7273.37856721
+7275.11191819	flip	7275.11191653
+7275.12859501	flip	7275.12859363
+7276.67856987	flip	7276.67856793
+7276.69528071	flip	7276.69527905
+7277.64529423	flip	7277.64529229
+7277.66195473	flip	7277.66195335
+7277.67863763	flip	7277.6786357
+7278.74546854	flip	7278.74546217
+7280.91321279	flip	7280.91321085
+7280.92868009	flip	7280.92867843
+7282.32868556	flip	7282.32868363
+7282.34536791	flip	7282.34536625
+7282.3620215	flip	7282.36201984
+7283.34538423	flip	7283.3453823
+7283.36203754	flip	7283.36203616
+7283.37870025	flip	7283.37869859
+7284.34538617	flip	7284.34538423
+7284.36204252	flip	7284.36204114
+7284.37871629	flip	7284.37871436
+7285.56206807	flip	7285.56206614
+7285.57873466	flip	7285.578733
+7285.59540152	flip	7285.59539986
+7286.86209037	flip	7286.86208843
+7286.87875529	flip	7286.87875336
+7286.89543183	flip	7286.8954299
+7288.24544032	flip	7288.24543811
+7288.26210552	flip	7288.26210414
+7288.27877847	flip	7288.27877681
+7290.64548591	flip	7290.64548342
+7292.22882187	flip	7292.22881993
+7293.16231291	flip	7293.16230517
+7293.18036879	flip	7293.18036326
+7293.19555425	flip	7293.19555121
+7293.2122012	flip	7293.21219898
+7294.02885107	flip	7294.02884914
+7294.04551489	flip	7294.04551323
+7294.06218369	flip	7294.06218203
+7295.39553638	flip	7295.39553445
+7295.4122049	flip	7295.41220324
+7295.42887508	flip	7295.42887342
+7296.41221818	flip	7296.41221652
+7296.42888642	flip	7296.42888476
+7300.66228497	flip	7300.66228304
+7300.67894381	flip	7300.67894243
+7301.82911593	flip	7301.82910708
+7303.41351924	flip	7303.41351731
+7303.43020906	flip	7303.43020712
+7312.39577812	flip	7312.39577535
+7312.51243895	flip	7312.51243757
+7313.962614	flip	7313.96260598
+7313.97913953	flip	7313.97913759
+7313.99579394	flip	7313.995792
+7314.5957987	flip	7314.59579704
+7314.61246279	flip	7314.61246113
+7314.62913574	flip	7314.62913408
+7317.01255705	flip	7317.01255346
+7317.02920676	flip	7317.02920345
+7317.04583131	flip	7317.04582965
+7318.69587592	flip	7318.69587343
+7318.71254167	flip	7318.71253946
+7318.72918447	flip	7318.72918281
+7319.66269183	flip	7319.66268492
+7319.67922566	flip	7319.67922317
+7319.69588892	flip	7319.69588726
+7320.51254627	flip	7320.51254433
+7321.99590485	flip	7321.99590292
+7322.01258195	flip	7322.01258056
+7367.22993651	flip	7367.22993209
+7367.34657992	flip	7367.34657688
+7370.24658235	flip	7370.24657959
+7370.26324174	flip	7370.26324008
+7370.27989782	flip	7370.27989616
+7370.29781347	flip	7370.29781181
+7370.99657281	flip	7370.99657115
+7371.01324078	flip	7371.01323912
+7371.02992147	flip	7371.02992008
+7372.01325931	flip	7372.01325737
+7372.02992478	flip	7372.0299234
+7372.04659718	flip	7372.04659552
+7373.01332486	flip	7373.01332292
+7373.02994636	flip	7373.0299447
+7373.04660603	flip	7373.04660437
+7373.96328694	flip	7373.96328528
+7373.97995297	flip	7373.97995159
+7373.99660821	flip	7373.99660655
+7375.26331808	flip	7375.26331615
+7377.04671141	flip	7377.04670836
+7377.06336859	flip	7377.06336693
+7377.64666749	flip	7377.64666583
+7377.66333213	flip	7377.66333047
+7377.68123229	flip	7377.68123064
+7378.71334544	flip	7378.7133435
+7378.73002419	flip	7378.73002281
+7378.74669243	flip	7378.74668994
+7379.74670571	flip	7379.74670322
+7379.76337036	flip	7379.76336842
+7380.74672341	flip	7380.74672148
+7380.76337451	flip	7380.76337285
+7380.78004883	flip	7380.78004717
+7381.74667611	flip	7381.74667418
+7381.78005768	flip	7381.7800563
+7381.79672233	flip	7381.79672095
+7382.78006985	flip	7382.78006847
+7384.13009245	flip	7384.13009052
+7384.78135239	flip	7384.78135045
+7384.79805216	flip	7384.79805023
+7385.4634363	flip	7385.46343436
+7385.48010703	flip	7385.48010482
+7390.84334551	trial_id	[1, 0, 1, 0, 1, 0]
+7391.03311964	play	None
+7394.26444645	keypress	1
+7396.94309083	stop	None
+7396.94322027	trial_ok	None
+7397.33212963	trial_id	[1, 0, 1, 1, 1, 0]
+7397.52295396	play	None
+7403.43248786	stop	None
+7403.43269392	trial_ok	None
+7403.82283547	trial_id	[0, 1, 1, 1, 1, 0]
+7404.01349247	play	None
+7407.36080331	keypress	1
+7409.92438358	stop	None
+7409.92464579	trial_ok	None
+7410.34191362	trial_id	[0, 0, 1, 0, 1, 0]
+7410.53222322	play	None
+7413.60340138	keypress	1
+7416.44300398	stop	None
+7416.4431904	trial_ok	None
+7416.85181212	trial_id	[0, 1, 1, 1, 1, 0]
+7417.04248294	play	None
+7420.18712788	keypress	1
+7422.95439079	stop	None
+7422.95458247	trial_ok	None
+7423.35170093	trial_id	[1, 0, 1, 1, 1, 0]
+7423.54153287	play	None
+7425.73625063	keypress	1
+7426.87108839	keypress	1
+7429.45276833	stop	None
+7429.45294341	trial_ok	None
+7429.84158393	trial_id	[0, 1, 1, 1, 1, 0]
+7430.0311816	play	None
+7431.99692245	keypress	1
+7435.93229121	stop	None
+7435.93253461	trial_ok	None
+7436.31271736	trial_id	[0, 0, 1, 0, 1, 0]
+7436.503303	play	None
+7439.81471254	keypress	1
+7442.41179611	stop	None
+7442.41198861	trial_ok	None
+7442.80139306	trial_id	[1, 1, 1, 1, 1, 0]
+7442.9926461	play	None
+7445.01619343	keypress	1
+7448.90241787	stop	None
+7448.90255838	trial_ok	None
+7449.27241116	trial_id	[1, 1, 1, 1, 1, 0]
+7449.46244141	play	None
+7455.37167771	stop	None
+7455.37181047	trial_ok	None
+7455.76217439	trial_id	[1, 0, 1, 0, 1, 0]
+7455.95157569	play	None
+7458.15044009	keypress	1
+7460.26102697	keypress	1
+7461.86281171	stop	None
+7461.86294253	trial_ok	None
+7462.25105172	trial_id	[0, 1, 1, 1, 1, 0]
+7462.44192833	play	None
+7465.53135295	keypress	1
+7468.35369484	stop	None
+7468.35382401	trial_ok	None
+7468.7219141	trial_id	[1, 0, 1, 1, 1, 0]
+7468.91309717	play	None
+7472.10665624	keypress	1
+7474.82296159	stop	None
+7474.8231198	trial_ok	None
+7475.21083015	trial_id	[1, 0, 1, 1, 1, 0]
+7475.40186276	play	None
+7477.89431944	keypress	1
+7478.79318664	keypress	1
+7481.31323873	stop	None
+7481.31352666	trial_ok	None
+7481.70173238	trial_id	[0, 0, 1, 0, 1, 0]
+7481.89195181	play	None
+7487.80110015	stop	None
+7487.80125172	trial_ok	None
+7488.19164303	trial_id	[0, 0, 1, 1, 1, 0]
+7488.38221263	play	None
+7490.2926337	keypress	1
+7494.29349622	stop	None
+7494.29370698	trial_ok	None
+7494.68052838	trial_id	[0, 1, 1, 1, 1, 0]
+7494.87098651	play	None
+7498.47655398	keypress	1
+7500.78364032	stop	None
+7500.78393322	trial_ok	None
+7501.17154732	trial_id	[0, 0, 1, 0, 1, 0]
+7501.36114638	play	None
+7507.27089601	stop	None
+7507.2712069	trial_ok	None
+7507.67029715	trial_id	[1, 0, 1, 0, 1, 0]
+7507.86128384	play	None
+7510.3211693	keypress	1
+7511.43827138	keypress	1
+7513.77265511	stop	None
+7513.77288799	trial_ok	None
+7514.17111668	trial_id	[0, 0, 1, 1, 1, 0]
+7514.36174961	play	None
+7516.89168404	keypress	1
+7518.81659924	keypress	1
+7520.27253922	stop	None
+7520.27276962	trial_ok	None
+7520.68008003	trial_id	[0, 0, 1, 0, 1, 0]
+7520.86968324	play	None
+7522.77154399	keypress	1
+7523.90781535	keypress	1
+7526.77105478	stop	None
+7526.77131947	trial_ok	None
+7527.17000452	trial_id	[0, 0, 1, 0, 1, 0]
+7527.36103049	play	None
+7529.410289	keypress	1
+7530.51338276	keypress	1
+7533.27306031	stop	None
+7533.27330536	trial_ok	None
+7533.66104835	trial_id	[1, 0, 1, 0, 1, 0]
+7533.85070245	play	None
+7535.49747151	keypress	1
+7539.7623232	stop	None
+7539.76262274	trial_ok	None
+7540.17071009	trial_id	[1, 0, 1, 1, 1, 0]
+7540.36120723	play	None
+7543.7887322	keypress	1
+7546.27181152	stop	None
+7546.27194871	trial_ok	None
+7546.63958215	trial_id	[1, 0, 1, 0, 1, 0]
+7546.82958862	play	None
+7550.24143545	keypress	1
+7552.74095602	stop	None
+7552.74119056	trial_ok	None
+7553.11954287	trial_id	[1, 1, 1, 1, 1, 0]
+7553.30931064	play	None
+7559.21982947	stop	None
+7559.22000289	trial_ok	None
+7559.58049984	trial_id	[1, 1, 1, 1, 1, 0]
+7559.77006736	play	None
+7565.67983885	stop	None
+7565.68000646	trial_ok	None
+7566.07934011	trial_id	[0, 0, 1, 1, 1, 0]
+7566.26960712	play	None
+7568.17823085	keypress	1
+7569.57025645	keypress	1
+7572.18097479	stop	None
+7572.1811413	trial_ok	None
+7572.57920541	trial_id	[1, 1, 1, 1, 1, 0]
+7572.76962537	play	None
+7574.68823145	keypress	1
+7576.21169769	keypress	1
+7578.67987066	stop	None
+7578.68009746	trial_ok	None
+7579.08016323	trial_id	[0, 1, 1, 1, 1, 0]
+7579.27150838	play	None
+7581.18164237	keypress	1
+7582.39676173	keypress	1
+7585.1804974	stop	None
+7585.18067165	trial_ok	None
+7585.57012423	trial_id	[0, 1, 1, 1, 1, 0]
+7585.76001729	play	None
+7587.4595805	keypress	1
+7589.09650594	keypress	1
+7591.67077509	stop	None
+7591.67108044	trial_ok	None
+7592.04974695	trial_id	[1, 0, 1, 0, 1, 0]
+7592.23965523	play	None
+7595.31306137	keypress	1
+7598.15090314	stop	None
+7598.15114764	trial_ok	None
+7598.55878831	trial_id	[1, 0, 1, 0, 1, 0]
+7598.74937422	play	None
+7601.18342066	keypress	1
+7602.17383346	keypress	1
+7604.66014834	stop	None
+7604.66028331	trial_ok	None
+7605.04868983	trial_id	[1, 1, 1, 1, 1, 0]
+7605.23917231	play	None
+7608.67228115	keypress	1
+7611.1511612	stop	None
+7611.15135066	trial_ok	None
+7611.54858722	trial_id	[1, 0, 1, 0, 1, 0]
+7611.73855939	play	None
+7615.98601934	keypress	1
+7617.64917668	stop	None
+7617.64938219	trial_ok	None
+7618.05846332	trial_id	[0, 0, 1, 0, 1, 0]
+7618.2491914	play	None
+7621.4765043	keypress	1
+7624.16144913	stop	None
+7624.16173429	trial_ok	None
+7624.55933927	trial_id	[0, 1, 1, 1, 1, 0]
+7624.749814	play	None
+7630.65870732	stop	None
+7630.65900576	trial_ok	None
+7631.08827581	trial_id	[0, 0, 1, 0, 1, 0]
+7631.2780516	play	None
+7637.1886924	stop	None
+7637.18882738	trial_ok	None
+7637.58815272	trial_id	[1, 0, 1, 1, 1, 0]
+7637.77924009	play	None
+7643.6887231	stop	None
+7643.6889795	trial_ok	None
+7644.0980349	trial_id	[1, 0, 1, 0, 1, 0]
+7644.28922184	play	None
+7650.19872947	stop	None
+7650.19896789	trial_ok	None
+7650.57888623	trial_id	[0, 0, 1, 0, 1, 0]
+7650.7691986	play	None
+7652.78626565	keypress	1
+7654.11001093	keypress	1
+7656.6788459	stop	None
+7656.67898779	trial_ok	None
+7657.06783132	trial_id	[1, 0, 1, 0, 1, 0]
+7657.25858429	play	None
+7659.10092348	keypress	1
+7660.61337148	keypress	1
+7663.16975393	stop	None
+7663.17002194	trial_ok	None
+7663.54883477	trial_id	[1, 1, 1, 1, 1, 0]
+7663.73826151	play	None
+7667.57375716	keypress	1
+7669.6488835	stop	None
+7669.64910837	trial_ok	None
+7670.04762331	trial_id	[0, 0, 1, 1, 1, 0]
+7670.23714382	play	None
+7676.13787395	stop	None
+7676.13802027	trial_ok	None
+7676.51840189	trial_id	[0, 1, 1, 1, 1, 0]
+7676.70863599	play	None
+7682.61775943	stop	None
+7682.61788943	trial_ok	None
+7683.00735224	trial_id	[0, 0, 1, 0, 1, 0]
+7683.19742066	play	None
+7689.10779345	stop	None
+7689.1080988	trial_ok	None
+7689.51731573	trial_id	[1, 0, 1, 1, 1, 0]
+7689.70750779	play	None
+7691.49161996	keypress	1
+7695.61930307	stop	None
+7695.61955753	trial_ok	None
+7696.0371946	trial_id	[0, 0, 1, 1, 1, 0]
+7696.2281824	play	None
+7698.30832415	keypress	1
+7702.13880577	stop	None
+7702.13903147	trial_ok	None
+7702.4012031	screen_text	You are done, thanks for your participation!
+7702.40125399	flip	7702.4011995
+7707.41794436	flip	7707.41794187
+7707.52318906	stop	None

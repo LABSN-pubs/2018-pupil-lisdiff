@@ -1,8 +1,8 @@
 # Repository for “Auditory attention switching with listening difficulty: Behavioral and pupillometric measures”
 
 The general analysis pipeline follows.  Optional scripts are in (parentheses):
+1. `uncompress-data.sh`
 1. `behavioral-data-cleaning.py`
-1. (`behavioral-prelim-analysis.py`)
 1. `behavioral-prep-for-modelling.R`
     1. (`model-accuracy-exploratory.R`)
     1. (`model-accuracy-selection.R`)

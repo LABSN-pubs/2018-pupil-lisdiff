@@ -61,8 +61,9 @@ def is_first_press(df, trial, resps):
 
 # file I/O
 datadir = 'data'
-param_file = 'params.hdf5'
-yaml_param_file = 'params.yaml'
+paramdir = 'params'
+param_file = op.join(paramdir, 'params.hdf5')
+yaml_param_file = op.join(paramdir, 'params.yaml')
 
 # yaml params
 with open(yaml_param_file, 'r') as yp:

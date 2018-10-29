@@ -1,8 +1,14 @@
 # directories
 __pycache__
-data
 pubs/manuscript/upload
+pubs/manuscript/R1
 
 # files
 pubs/manuscript/*.pdf
 pubs/manuscript/reviewers.yaml
+pubs/manuscript/response-to-reviewers.md
+pubs/manuscript/notrackchanges.md
+
+# data
+data/*.hdf5
+data/*.pdf
