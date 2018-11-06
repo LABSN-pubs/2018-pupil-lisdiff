@@ -1,15 +1,22 @@
 # directories
 __pycache__
+old-stuff
 pubs/manuscript/upload
 pubs/manuscript/R1
+pubs/manuscript/proof
+pubs/manuscript/templates
+pubs/slides-boston
 
 # files
+pubs/manuscript/*.tex
 pubs/manuscript/*.pdf
 pubs/manuscript/reviewers.yaml
 pubs/manuscript/response-to-reviewers.md
 pubs/manuscript/notrackchanges.md
+pubs/manuscript/for-ross-approval.txt
 
 # data
 data/*.hdf5
 data/*.pdf
 data/*.log
+processed-data/capd-pupil-data.npz
