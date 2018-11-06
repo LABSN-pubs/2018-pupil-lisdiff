@@ -223,7 +223,7 @@ for group_ix, (group_name, group) in enumerate(groups.items()):
             scn = {'all-trials': 'all trials'}.get(s_cond_name, s_cond_name)
             ax.set_title(scn)
         letters = ['ABCD', 'EFGH']
-        label = f'{letters[group_ix][space_ix]})'
+        label = f'({letters[group_ix][space_ix]})'
         label_y = 1.05 if attn_ix else 1.15
         ax.text(0.1, label_y, label, fontweight='bold', ha='right',
                 va='bottom', transform=ax.transAxes)

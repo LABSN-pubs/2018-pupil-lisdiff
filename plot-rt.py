@@ -236,9 +236,9 @@ for ix, variable in enumerate(('attn', 'ldiff', 'space', 'slot')):
 # subplot tags
 for ax in axs.ravel():
     tag = list('ABCDEFGH')[np.where(axs.ravel() == ax)[0][0]]
-    ax.annotate(tag, xy=(0, 0), xytext=(6, 1), xycoords='axes fraction',
-                textcoords='offset points', fontsize=10, va='bottom',
-                ha='center', color=dgy)
+    ax.annotate(f'({tag})', xy=(0, 0), xytext=(8, 2), xycoords='axes fraction',
+                textcoords='offset points', fontsize=9, fontweight='bold',
+                va='bottom', ha='center', color=dgy)
 # row labels
 row_label_kwargs = dict(xy=(1, 0.5), xytext=(8, 0),
                         xycoords='axes fraction', textcoords='offset points',

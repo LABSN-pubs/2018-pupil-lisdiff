@@ -1,6 +1,7 @@
 SHELL=/bin/bash
 FIGURES := figures/capd-pupil-deconv-attn-by-space-group.pdf \
            figures/capd-pupil-deconv-group-by-space-attn.pdf \
+		   figures/rt-figure.pdf figures/accuracy-figure-probit.pdf \
            figures/trial-diagram.pdf
 SOURCETABLES := tables/table-accuracy.tex tables/table-rt.tex \
 	        	tables/table-ttest.tex
@@ -207,17 +208,19 @@ wordcount: tablelink manuscript.md $(FIGURES)
 	@pdftotext wc.pdf - | wc -w
 	@rm $(TABLES) wc.pdf
 
-figures/capd-pupil-deconv-attn-by-space-group.pdf:
+figures/capd-pupil-deconv-attn-by-space-group.pdf: \
+		../../plot-pupil-attn-by-space-group.py
 	@cd ../..; python plot-pupil-attn-by-space-group.py
 
-figures/capd-pupil-deconv-group-by-space-attn.pdf:
+figures/capd-pupil-deconv-group-by-space-attn.pdf: \
+		../../plot-pupil-group-by-space-attn.py
 	@cd ../..; python plot-pupil-group-by-space-attn.py
 
 figures/trial-diagram.pdf:
 	@cd ../..; python plot-trial-diagram.py
 
-figures/rt-figure.pdf:
+figures/rt-figure.pdf: ../../plot-rt.py
 	@cd ../..; python plot-rt.py
 
-figures/accuracy-figure-probit.pdf:
+figures/accuracy-figure-probit.pdf: ../../plot-accuracy.py
 	@cd ../..; python plot-accuracy.py

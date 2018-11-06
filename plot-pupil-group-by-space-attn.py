@@ -226,7 +226,7 @@ for attn_ix, (a_cond_name, a_cond) in enumerate(attn_conds.items()):
             scn = {'all-trials': 'all trials'}.get(s_cond_name, s_cond_name)
             ax.set_title(scn, pad=14)
         letters = ['ABCD', 'EFGH']
-        label = f'{letters[attn_ix][space_ix]})'
+        label = f'({letters[attn_ix][space_ix]})'
         label_y = 1.05 if attn_ix else 1.15
         ax.text(0.1, label_y, label, fontweight='bold', ha='right',
                 va='bottom', transform=ax.transAxes)

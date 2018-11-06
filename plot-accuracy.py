@@ -117,7 +117,7 @@ signif_kwargs = dict(xytext=(0, 4), textcoords='offset points', ha='center',
 # axis lims & dodge
 x_dodge = (-0.04, 0, 0.04)
 x_gap = 1.2
-x_pad = 0.1
+x_pad = 0.15
 zero = 2e-2 if do_probit else 0.
 fzero = 1.5e-2 if do_probit else 0.
 ylims = dict(target=(0.75, 0.95), foil=(fzero, 0.12), neither=(zero, 0.1))
@@ -257,9 +257,9 @@ for ax_row, token in zip(axs, ('target', 'foil', 'neither', 'dprime')):
         ax.set_xlim(xlim)
         # subplot tags
         tag = list('ABCDEFGHIJKL')[np.where(axs.ravel() == ax)[0][0]]
-        ax.annotate(tag, xy=(0, 0), xytext=(6, 1), xycoords='axes fraction',
-                    textcoords='offset points', fontsize=10, va='bottom',
-                    ha='center', color=dgy)
+        ax.annotate(f'({tag})', xy=(0, 0), xytext=(8, 2),
+                    xycoords='axes fraction', textcoords='offset points',
+                    fontsize=9, fontweight='bold', va='bottom', ha='center', color=dgy)
         # legend
         if token == 'target':
             # the h[0] hack is to suppress the errorbars in the legend
