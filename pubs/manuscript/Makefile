@@ -51,7 +51,7 @@ supplement: tablelink supplement.md
 	--output=manuscript-supplement.pdf
 	@rm $(TABLES)
 
-draft: tablelink manuscript.md $(FIGURES)
+draft: tables manuscript.md $(FIGURES)
 	@pandoc manuscript.md \
 	--from markdown-smart \
 	--filter pandoc-citeproc \
