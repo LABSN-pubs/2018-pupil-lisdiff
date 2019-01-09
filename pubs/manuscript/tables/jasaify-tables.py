@@ -6,12 +6,12 @@ import sys
 if len(sys.argv) < 2:
     sys.exit(f'Usage: {sys.argv[0]} file1 [file2...]')
 
-for file in sys.argv[1:]:
-    if not os.path.exists(file):
-        sys.exit(f'ERROR: file {file} not found')
-    newfile = os.path.join('..', file)
-    with open(file, 'r') as f, open(newfile, 'w') as g:
-        size = '\\scriptsize' if file.startswith('table-rt') else ''
+for oldfile in sys.argv[1:]:
+    if not os.path.exists(oldfile):
+        sys.exit(f'ERROR: file {oldfile} not found')
+    newfile = os.path.join('..', oldfile)
+    with open(oldfile, 'r') as f, open(newfile, 'w') as g:
+        size = '\\scriptsize' if oldfile.startswith('table-rt') else ''
         for line in f:
             # replace horizontal rules
             line = line.replace('\\toprule', '\\hline\\hline')
@@ -28,7 +28,7 @@ for file in sys.argv[1:]:
                 g.write(line)
                 continue
             line = line.replace('longtable', 'tabular')
-            table = 'table' if 'ttest' in file else 'table*'
+            table = 'table' if 'ttest' in oldfile else 'table*'
             line = line.replace('\\begin{center}', f'\\begin{{{table}}}{size}')
             line = line.replace('\\end{center}', f'\\end{{{table}}}')
             g.write(line)
